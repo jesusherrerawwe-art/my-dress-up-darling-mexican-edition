@@ -2,7 +2,7 @@
 
 > **Advertencia: este documento revela la trama completa de los 12 episodios de la primera temporada.**
 
-La temporada 1 se emitió en Japón desde el 8 de enero de 2022, en la franja de las 24:00 de los sábados. En la convención de programación japonesa, esa hora corresponde a la madrugada del domingo, aunque la programación se anuncia como “sábado 24:00”. La primera temporada tiene 12 episodios. [1] [2]
+La temporada 1 se emitió en Japón desde el 8 de enero de 2022, en la franja de las 24:00 de los sábados. En la convención de programación japonesa, esa hora corresponde a la madrugada del domingo, aunque la programación se anuncia como “sábado 24:00”. La primera temporada tiene 12 episodios. **Nota de fechas:** otras bases de datos resuelven esa franja al día natural siguiente y fechan la temporada entre el 9 de enero y el 27 de marzo de 2022; es el mismo periodo con otra convención. [1] [2] [6]
 
 Los títulos japoneses se conservan para facilitar la consulta de fuentes oficiales. Las traducciones entre paréntesis son orientativas. Los resúmenes están redactados con palabras propias y no reproducen diálogos del guion.
 
@@ -12,7 +12,7 @@ Los títulos japoneses se conservan para facilitar la consulta de fuentes oficia
 
 Wakana Gojo es un estudiante de secundaria que aspira a convertirse en *kashirashi*, el artesano especializado en tallar y pintar las cabezas de las muñecas hina. Su dedicación a ese oficio viene acompañada de una inseguridad profunda: desde niño aprendió que los demás podían burlarse de lo que le gusta. Por eso mantiene su afición apartada de la vida escolar y le cuesta acercarse a sus compañeros.
 
-Marin Kitagawa ocupa el extremo opuesto del aula. Es popular, expresiva y segura de sus gustos, pero guarda una afición que no comparte abiertamente con todo el mundo: los videojuegos de citas y el cosplay. El punto de encuentro aparece cuando ambos se quedan en el aula por una tarea de limpieza. Marin descubre que Gojo sabe coser y le cuenta que quiere disfrazarse de Shizuku, la protagonista de su juego favorito *Saint\u25c6Slippery* (*NuruNuru Joshi 2* en la referencia ficticia del anime).
+Marin Kitagawa ocupa el extremo opuesto del aula. Es popular, expresiva y segura de sus gustos, pero guarda una afición que no comparte abiertamente con todo el mundo: los videojuegos de citas y el cosplay. El punto de encuentro aparece cuando ambos se quedan en el aula por una tarea de limpieza. Marin descubre que Gojo sabe coser y le cuenta que quiere disfrazarse de Shizuku, la protagonista de su juego favorito. **Corrección:** versiones anteriores de esta biblia registraban el título como *Saint◆Slippery* / *NuruNuru Joshi 2*. El nombre completo de la obra ficticia es 『聖♡ヌルヌル女学園 お嬢様は恥辱倶楽部 ハレンチミラクルライフ2』, abreviado de forma habitual como 「ヌル女2」; es un juego de adultos, dato relevante porque explica la incomodidad inicial de Gojo y el contraste entre la naturalidad de Marin y la vergüenza de él. En la distribución en inglés el título se tradujo como *Slippery Girls 2*. Marin se refiere al personaje, cuyo nombre completo es Shizuku Kuroe (黒江雫), con el apelativo «Shizuku-tan» (雫たん). [5] [6]
 
 Gojo acompaña a Marin a la sala de costura y acepta ayudarla. El episodio establece el principio de su relación creativa: ella aporta entusiasmo, conocimiento del personaje y voluntad de mostrarse; él aporta paciencia, habilidad manual y atención a los materiales. El contraste no se presenta como una razón para que uno cambie al otro, sino como una oportunidad de colaboración.
 
@@ -98,7 +98,7 @@ La publicación de las fotografías de Shizuku en redes sociales atrae la atenci
 
 **Emisión japonesa:** 19 de febrero de 2022. [1]
 
-Marin y Sajuna acuerdan realizar un cosplay conjunto de *Flower Princess烈!!*. Interpretarán a Black Lobelia y Black Lily. Marin admira a “Juju”, por lo que el proyecto tiene un peso especial para ella. Gojo necesita ver la serie para estudiar los trajes y visita la casa de Marin para recoger los DVD.
+Marin y Sajuna acuerdan realizar un cosplay conjunto de la serie ficticia 『フラワープリンセス烈!!』 (*Flower Princess烈!!*, abreviada 「烈!!」). Interpretarán a Black Lobelia y Black Lily. En la obra dentro de la obra, Black Lily es la identidad que adopta Shion Nikaidō (二階堂シオン) —«Shion-tan» para Marin— cuando su Flower Jewel se corrompe; Black Lobelia es la contraparte de Marin. La serie ficticia se presenta como un anime infantil de 126 episodios emitido, según su propia cronología interna, entre el 5 de febrero de 2006 y el 26 de octubre de 2008. [4] [6] Marin admira a “Juju”, por lo que el proyecto tiene un peso especial para ella. Gojo necesita ver la serie para estudiar los trajes y visita la casa de Marin para recoger los DVD.
 
 La visita crea una situación de intimidad inesperada. Gojo conoce mejor el espacio privado de Marin y observa que su pasión por los personajes no es una pose pública: forma parte de su vida cotidiana. El episodio también contrasta los estilos de las dos cosplayers. Marin disfruta compartir su entusiasmo, mientras Sajuna protege su imagen y su método de trabajo con una seriedad que puede parecer hostilidad.
 
@@ -128,7 +128,7 @@ La conversación sobre cámaras y fotografía acerca rápidamente a Shinju y Goj
 
 Los trajes de Black Lobelia y Black Lily quedan terminados con la ayuda de Marin. Sajuna se entusiasma al probar el suyo y el grupo acude a la sesión. Allí aparece una persona inesperada: Shinju, que ha preparado una intervención secreta con Gojo.
 
-El plan permite que Shinju participe como una versión masculina de un personaje de *Flower Princess烈!!*. El resultado no depende de que ella cambie su cuerpo o de que imite a Sajuna, sino de aprovechar su propia presencia y la habilidad de Gojo para diseñar un traje adecuado. Durante la sesión, la fotografía y la puesta en escena muestran que una misma obra puede recibir lecturas diferentes según quién la interprete.
+El plan permite que Shinju participe como **Sōma Tengeji (天花寺颯馬)**, el personaje masculino de *Flower Princess烈!!* —hermano mayor de la protagonista Mirai y al que Shinju llama «Sōma-nii»—. Durante la preparación, Gojo resuelve su silueta con un «B holder» y una peluca trabajada con ella, de modo que la transformación no depende de ocultar su cuerpo, sino de construir uno nuevo con técnica. [6] [7] El resultado no depende de que ella cambie su cuerpo o de que imite a Sajuna, sino de aprovechar su propia presencia y la habilidad de Gojo para diseñar un traje adecuado. Durante la sesión, la fotografía y la puesta en escena muestran que una misma obra puede recibir lecturas diferentes según quién la interprete.
 
 **Personajes:** Marin, Gojo, Sajuna y Shinju.
 
@@ -142,7 +142,7 @@ El plan permite que Shinju participe como una versión masculina de un personaje
 
 El proyecto de *Flower Princess烈!!* concluye con éxito. Al revisar las fotografías, Sajuna y Shinju comprenden mejor lo que cada una quería expresar. Shinju deja de ser únicamente la fotógrafa de su hermana: demuestra que puede participar frente a la cámara cuando encuentra un personaje y un diseño que le permiten sentirse cómoda.
 
-Con el verano llegan nuevos planes. Marin y Gojo empiezan a preparar un cosplay de *Veronica*, una luchadora de un videojuego. La nueva propuesta cambia el tipo de vestuario y la forma de representar al personaje. También introduce un problema práctico relacionado con la elección de materiales y con la necesidad de adaptar un diseño pensado para un medio digital a un cuerpo y una prenda reales.
+Con el verano llegan nuevos planes. Marin y Gojo empiezan a preparar un cosplay de **Veronica (ベロニカ)**, personaje del videojuego de lucha ficticio *KILLING GIGS*: una presa condenada a sesenta mil años de prisión, de piel morena, dientes dentados y un diseño que Marin admira sin reservas —la llama «ベロニカたゃ»—. La nueva propuesta cambia el tipo de vestuario y la forma de representar al personaje. También introduce un problema práctico: Marin se tiñe la piel con base de maquillaje para igualar el tono del personaje y, al probar el patrón, el traje resulta demasiado revelador; Gojo termina confesando que no puede ayudarle con esa prenda y ambos acuerdan elegir personajes con más cuidado. La sesión con ese traje se abandona, aunque la confección queda hecha. [6] [7]
 
 **Personajes:** Marin, Gojo, Sajuna y Shinju.
 
@@ -154,13 +154,13 @@ Con el verano llegan nuevos planes. Marin y Gojo empiezan a preparar un cosplay 
 
 **Emisión japonesa:** 19 de marzo de 2022. [1]
 
-Marin quiere interpretar a Liz, la súcubo del manga cotidiano *Mandate of Cuteness* (*Sabu-Koma* en la referencia ficticia). Le gusta el personaje, pero cree que no le queda bien y duda antes de aceptar el reto. Gojo la anima a probarlo y trabaja para trasladar al mundo real un diseño con una estética más atrevida y distinta a la de Shizuku o Black Lobelia.
+Marin quiere interpretar a **Liz (リズ)**, la súcubo del manga cotidiano 『サバこま』 —título que la edición en inglés vierte como *Mandate of Cuteness* / *SuccIDK*—, a quien Marin llama «リズきゅん». Le gusta el personaje, pero cree que no le queda bien y duda antes de aceptar el reto. Gojo la anima a probarlo y trabaja para trasladar al mundo real un diseño con una estética más atrevida y distinta a la de Shizuku o Black Lobelia.
 
 Cuando el traje está terminado, organizan una sesión fotográfica en un estudio. El lugar resulta ser un hotel del amor, elegido por la producción de la sesión y por el tipo de escenario que necesita el personaje. La situación genera malentendidos y nervios, pero el foco del episodio está en la confianza de Marin: se atreve a presentarse como Liz porque Gojo la ayuda a ver que no tiene que parecerse a una imagen ideal para interpretar un personaje.
 
 **Personajes:** Marin y Gojo; el fotógrafo y el personal del estudio aparecen en el contexto de la sesión.
 
-**Cosplay:** Liz, personaje de *Mandate of Cuteness*.
+**Cosplay:** Liz (リズ), personaje de 『サバこま』.
 
 **Desarrollo y continuidad:** Gojo no decide por Marin cómo debe verse; la apoya para que ella acepte el personaje. Marin, por su parte, se expone emocionalmente al confesarle que le preocupa no ser adecuada para el papel. [2] [3]
 
@@ -205,3 +205,7 @@ Marin empieza a reconocer sus sentimientos después del primer evento. Gojo demu
 [2]: https://www.aniplex.co.jp/lineup/bisquedoll-anime/story/ "Aniplex: historias oficiales de los 12 episodios"
 
 [3]: https://bisquedoll-anime.com/1st/story/ "Sitio oficial japonés: historia y personal de producción de la primera temporada"
+[4]: https://bisquedoll-anime.com/1st/story/?id=11 "Sitio oficial: episodio 11, título de la obra ficticia 『サバこま』"
+[5]: https://mangapedia.com/%E3%81%9D%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E4%BA%BA%E5%BD%A2%E3%81%AF%E6%81%8B%E3%82%92%E3%81%99%E3%82%8B-k6jlkplih "Mangapedia: título completo del juego de Shizuku y perfil del personaje (fuente secundaria)"
+[6]: https://ja.wikipedia.org/wiki/%E3%81%9D%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E4%BA%BA%E5%BD%A2%E3%81%AF%E6%81%8B%E3%82%92%E3%81%99%E3%82%8B "Wikipedia en japonés: obras ficticias dentro de la obra (劇中劇) y reparto interno"
+[7]: https://en.wikipedia.org/wiki/List_of_My_Dress-Up_Darling_episodes "Lista de episodios: resúmenes y fechas (fuente secundaria)"

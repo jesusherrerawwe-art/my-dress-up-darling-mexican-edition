@@ -36,7 +36,7 @@ Su relación con Wakana combina afecto familiar y transmisión del oficio: la ad
 
 ## Nobara Aoyagi — no “Nobara Gojo”
 
-El anime no confirma a una personaje llamada “Nobara Gojo”. La niña del recuerdo de Wakana que aparece al comienzo de la historia forma parte de su pasado: de pequeños, ella ridiculizó su afición por las muñecas hina y esa experiencia contribuyó a que ocultara lo que le gustaba. El anime la muestra en ese recuerdo, pero no desarrolla su identidad ni un arco presente. [10]
+El anime no confirma a una personaje llamada “Nobara Gojo”. La niña del recuerdo de Wakana que aparece al comienzo de la historia forma parte de su pasado: de pequeños, ella ridiculizó su afición por las muñecas hina y esa experiencia contribuyó a que ocultara lo que le gustaba. El anime la muestra en ese recuerdo y le asigna una voz (Mai Kanno en japonés), pero no desarrolla su identidad ni un arco presente. [10] [13]
 
 La continuación del manga —no adaptada en las temporadas de anime consultadas— revela que se llama Nobara Aoyagi y que es prima de Wakana. El manga amplía el contexto de su comentario infantil, la presenta de nuevo de mayor y le permite disculparse con él. Esos datos y esa reconciliación son **canon del manga, no hechos que deban atribuirse al anime emitido**. Por tanto, se incluye aquí para corregir el nombre solicitado, no como secundaria recurrente animada. [10]
 
@@ -72,7 +72,7 @@ No tiene un arco individual comparable al de Sajuna, Shinju o Amane; su función
 
 ## Compañeros de clase: Daia, Rune, Kensei, Shiki y Takeru
 
-La ficha oficial confirma que Daia Yahiro, Rune Yamauchi, Kensei Morita, Shiki Kashiwagi y Takeru Koga son compañeros de clase de Marin y Wakana. Junto con Nowa, cumplen una función coral: hacen visible el entorno social de la escuela y las oportunidades de integración de Wakana. El anime no los identifica como cosplayers ni les adjudica una trama individual de confección; el vínculo con la cultura del anime consiste, por ahora, en pertenecer a la vida escolar que rodea a los protagonistas. [1] [4]
+La ficha oficial confirma que **Daia Yahiro (八尋大空)**, **Rune Yamauchi (山内瑠音)**, **Kensei Morita (森田健星)**, **Shiki Kashiwagi (柏木四季)** y **Takeru Koga (古賀岳琉)** son compañeros de clase de Marin y Wakana; sus voces japonesas son Yūka Amamiya, Akira Sekine, Shūichi Uchida, Shōhei Komatsu y Taku Yashiro respectivamente. **Corrección:** la grafía que circulaba en esta biblia para Daia era 八尋大彩; el sitio oficial escribe 八尋大空. [1] [13] Junto con Nowa, cumplen una función coral: hacen visible el entorno social de la escuela y las oportunidades de integración de Wakana. El anime no los identifica como cosplayers ni les adjudica una trama individual de confección; el vínculo con la cultura del anime consiste, por ahora, en pertenecer a la vida escolar que rodea a los protagonistas. [1] [4]
 
 Daia es franca y tiene un aire maduro; Rune es tranquila, aunque se entusiasma al hablar de lo que le gusta; Kensei dice las cosas de frente y habla fuerte; Shiki puede sonar brusco, pero también es sereno y se preocupa por sus amigos; Takeru es sociable y directo, con cierta ingenuidad. Son rasgos que diferencian el grupo sin convertirlos en arquetipos de cosplayers. [1]
 
@@ -92,3 +92,5 @@ Daia es franca y tiene un aire maduro; Rune es tranquila, aunque se entusiasma a
 [10]: https://www.thepopverse.com/anime-my-dress-up-darling-non-chan-identiy-girl-in-first-episode-who-is-she "La identidad de Non-chan — Popverse"
 [11]: https://www.crowsworldofanime.com/posts/my-dress-up-darling-season-2-episode-14-favorites/ "Reseña del episodio 14 de la temporada 2 — Crow’s World of Anime"
 [12]: https://www.crunchyroll.com/news/latest/2025/8/24/my-dress-up-darling-season-2-anime-new-cast-in-universe-manga-visual "Akira y Miyako se incorporan al anime — Crunchyroll News"
+[13]: https://bisquedoll-anime.com/staffcast/ "Sitio oficial: reparto completo, con las grafías de los nombres y las voces de la temporada 2"
+[14]: https://en.wikipedia.org/wiki/My_Dress-Up_Darling "Ficha de la obra: Nobara Aoyagi y reparto"
