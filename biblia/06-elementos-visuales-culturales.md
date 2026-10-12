@@ -1,0 +1,77 @@
+# Elementos visuales y culturales
+
+## Personajes, vestuario y color
+
+**Hecho documentado.** CloverWorks acredita por separado diseño de personajes, diseño de vestuario, diseño de color, ambientación artística, efectos y dirección de fotografía; la ficha de la segunda temporada confirma a Eriko Nishihara en vestuario y a Mai Yamaguchi en color, y conserva a CloverWorks como estudio [1] [2]. La autora Shinichi Fukuda explicó que concibió a Marin y Wakana como una pareja que respalda la continuidad de las aficiones del otro: su motivación surgió al oír a cosplayers contar que parejas les habían pedido dejar el cosplay [5].
+
+**Observación propia y uso narrativo.** Conviene leer los personajes en dos capas: su indumentaria cotidiana y la identidad que construyen al vestirse para un personaje. En la serie, la silueta discreta de Wakana y el vestuario cambiante de Marin ayudan a diferenciar sus modos de estar en el mundo; el traje de cosplay no es un simple cambio de ropa, sino una decisión que desencadena investigación, trabajo y confianza. Para una historia original, diseña primero silueta, movimiento, comodidad y relación con el entorno. Que una protagonista elija botas prácticas por caminar mucho, o que un personaje evite telas ásperas, dice algo propio sin reproducir un traje reconocible de la serie.
+
+**Color: hecho frente a lectura.** La existencia de un puesto específico de diseño de color está documentada, pero las fuentes de producción consultadas no atribuyen un significado fijo a cada paleta [1] [2]. Como lectura visual y recurso de escritura, se puede reservar una gama cotidiana y menos contrastada para escuela y casa, y asignar a cada disfraz una combinación cromática distintiva que responda a la obra ficticia de la que proviene. La clave es explicar dentro del relato por qué se eligió el color —material disponible, personalidad del personaje ficticio, lectura a distancia o luz del recinto— y no presentarlo como un código universal japonés.
+
+## Costura: oficio, tiempo y material
+
+**Hecho documentado.** El director Keisuke Shinohara contó que el equipo visitó tiendas y eventos de cosplay, reunió fotografías como materiales para los fondos y estudió recorridos y movimientos para que las escenas no contradijeran la organización real de los espacios. También explicó que el taller ficticio de la familia Gojo tomó como referencia la tienda real Suzuki Ningyo y que filmaron el trabajo manual de fabricación de hina-ningyō para orientar la animación. El director insistió en que el vestuario no debía parecer hecho de inmediato: mostrar el esfuerzo era importante para tomar en serio la afición de los personajes [3].
+
+El equipo de producción de la segunda temporada dijo que consultó a la revista especializada *COSPLAY MODE* sobre maquillaje, confección y reglas prácticas del cosplay; la consulta continuó en la segunda temporada [4].
+
+**Observación propia y uso narrativo.** La costura produce escenas con acciones concretas: medir, descoser, probar, ajustar, planchar, buscar un cierre, corregir una manga y decidir qué defecto puede esperar. Cada fase permite introducir una dificultad o una relación. Un error de talla no tiene que ser una crisis romántica: puede obligar a negociar una prueba, explicar una preferencia o priorizar una solución segura antes de una fecha límite. Describe materiales por sus efectos —una tela refleja la luz, otra cae con peso, otra se deshilacha— y permite que el trabajo cambie el ánimo o los planes del personaje. No hace falta copiar prendas ni escenas; basta con representar con rigor cómo una idea se convierte en objeto.
+
+## Maquillaje y transformación
+
+**Hecho documentado.** Para la segunda temporada, el equipo pidió a *COSPLAY MODE* que presentara modelos y especialistas en maquillaje masculino; el personal observó durante horas el proceso y tomó fotos para trasladar movimientos y pasos a la animación. El productor remarcó que quería evitar gestos o secuencias de arreglo incompatibles con la práctica real [4]. El sitio oficial del anime también presenta una historia ficticia, *Seito Kaichō wa No.1 Host* (*La presidenta del consejo estudiantil es la anfitriona n.º 1*), con una protagonista que mantiene identidades distintas en la escuela y en el club donde trabaja [13].
+
+**Observación propia y uso narrativo.** El maquillaje puede funcionar como un proceso de construcción de personaje y no solo como “antes y después”: preparación de piel, corrección, forma de ceja, pestañas, labios, peluca y retoque según el calor o la duración del evento. Para mostrarlo sin convertirlo en tutorial, escoge dos o tres decisiones visibles y vincúlalas con una intención: reconocer un rasgo del modelo, dar una impresión más severa o hacer que el maquillaje resista una jornada larga. Si hay transformación de género o presentación escénica, representa la técnica con respeto y deja que el propio personaje nombre qué le resulta cómodo; no uses el maquillaje para ridiculizar su identidad.
+
+## Encuadre, iluminación y fotografía
+
+**Hecho documentado.** Las fichas de CloverWorks acreditan dirección de fotografía, efectos y diseño de color como funciones diferenciadas dentro de la producción [1] [2]. Shinohara explicó que el equipo tomó fotografías de tiendas y lugares de eventos para alimentar los fondos, y que buscó continuidad espacial en los recorridos [3]. Una fotógrafa que escribió sobre cosplay para la revista de la Universidad Keio describe, desde su experiencia personal, cómo algunos retratos de cosplay persiguen una apariencia deliberadamente fantástica mediante localizaciones escogidas, flashes, iluminación dramática y retoque; presenta esto como una observación de su práctica, no como regla que defina a todos los cosplayers [12].
+
+**Observación propia y uso narrativo.** Para escribir con recursos audiovisuales, alterna escala y punto de vista: plano general para explicar un estudio o una convención; plano medio para que se lea una interacción; detalle de dedos, alfileres, cierre, peluca o maquillaje cuando el avance del trabajo importa. Un primer plano de ojos puede registrar nervios o concentración, pero conviene usarlo con una motivación dramática, no como calco de una viñeta o toma reconocible. La luz también puede contar el momento: luz doméstica amplia para una charla cotidiana; una lámpara localizada para una tarea nocturna; iluminación de escenario o flash para separar la imagen del cosplay de la vida corriente. Estas son propuestas de puesta en escena, no intenciones de autor atribuidas a la serie.
+
+La fotografía de cosplay contiene además acuerdos entre personas. En el reglamento consultado de Comiket y en la guía del World Cosplay Summit se exige autorización del sujeto antes de fotografiar; WCS también pide permiso para publicar y restringe la fotografía a zonas permitidas [8] [9]. Como recurso narrativo, una pausa para pedir permiso, acordar una pose o rechazar una toma da agencia al cosplayer y permite caracterizar al fotógrafo sin convertir la cámara en un derecho automático.
+
+## Eventos, convenciones y comunidad otaku
+
+**Hecho documentado.** Comiket se presenta, ante todo, como un encuentro de venta de obras de aficionados y organiza reglas específicas para el cosplay y la fotografía. Su guía distingue registro, vestidores, zonas de circulación y áreas de fotografía; prohíbe fotografiar a alguien identificable sin permiso y advierte contra imponer poses, rodear a una persona o publicar una foto sin autorización [8]. El World Cosplay Summit, por su parte, mantiene normas propias de participación, uso de espacios y fotografía, que no deben confundirse con las de Comiket [9]. La fotógrafa de Keio describe la interacción entre cosplayers y fotógrafos en eventos, y señala que las fotos pueden continuar circulando después del encuentro, por ejemplo mediante redes sociales o publicaciones [12].
+
+**Observación propia y uso narrativo.** Una convención puede estructurar una secuencia completa sin ser un simple telón de fondo: preparación del traje, transporte, cambio en vestidores, acreditación, encuentro con amistades, fotos, pausas, imprevistos y regreso a ropa cotidiana. Para darle textura, elige dos o tres detalles logísticos verosímiles, pero verifica siempre las reglas del evento concreto: cambian según sede, edición y organizador. La dimensión comunitaria no exige que cada aficionado se comporte igual. Puede haber quien quiera posar, quien prefiera mirar vitrinas, quien intercambie consejos y quien solo vaya a acompañar a una amistad.
+
+**Observación propia.** “Cultura otaku” tampoco describe una personalidad uniforme. Dentro de una misma afición pueden convivir conocimiento enciclopédico, gusto casual, creación de fanworks, coleccionismo, conversación, juego y cosplay. Para evitar estereotipos, define qué hace cada persona con su afición, qué comparte y qué mantiene en privado. La norma de consentimiento de las convenciones ofrece un detalle dramático particularmente útil: la emoción del fotógrafo o del fan no elimina el derecho de la otra persona a decir que no [8] [9].
+
+## Anime, videojuegos y obras ficticias dentro del anime
+
+**Hecho documentado.** La presentación oficial describe a Marin como aficionada al anime y a los videojuegos [2]. La sinopsis de un episodio de la segunda temporada nombra *KochiKan* y a su personaje Arisa; es una de las ficciones que motivan un nuevo vestuario dentro de la historia [2]. El sitio oficial del anime publica, a su vez, una página para *Seito Kaichō wa No.1 Host*, con argumento, personajes y créditos de diseño propios [13]. Estos ejemplos sirven para distinguir la obra principal de las obras inventadas que existen dentro de ella.
+
+**Observación propia y uso narrativo.** Una franquicia ficticia puede sentirse real si tiene consistencia interna, no si copia una propiedad conocida. Antes de escribir la sesión de cosplay, define para la obra inventada su género, premisa, símbolos, paleta, siluetas, materiales y tono; después, decide qué aspecto resulta atractivo para cada cosplayer. Para una ficticia saga de videojuegos, añade detalles diegéticos —pantalla de selección, inventario, habilidad o comunidad de jugadores— que ayuden a entender por qué alguien se encariña con un avatar. No reproduzcas nombres, emblemas, vestuario, interfaz ni escenas reconocibles de juegos o anime reales; crea equivalentes nuevos y deja que el personaje interprete la ficción a su manera.
+
+## Santuario, escuela y espacios domésticos
+
+**Hecho documentado: santuario.** La Asociación de Santuarios Sintoístas explica que la purificación con agua (*temizu*) precede a la visita y que la forma básica de reverencia comprende dos reverencias, dos palmadas y una reverencia final, con variaciones en algunos santuarios [10]. Esta referencia cultural permite escribir una visita con acciones y silencios concretos, no solo con un torii usado como decoración. No he encontrado en las fuentes oficiales consultadas una identificación del santuario de la serie como un edificio real específico; por ello no conviene asignarle un nombre o una ubicación sin otra prueba.
+
+**Observación propia y uso narrativo: escuela y casa.** La escuela ofrece espacios con funciones distintas —aula, pasillo, patio, salón de actos— y reglas de vestuario, horarios y convivencia. La guía educativa de la Organización Nacional de Turismo de Japón documenta la historia y la presencia de uniformes escolares, y señala que diseños y opciones han cambiado; eso ayuda a no tratar el uniforme marinero como vestimenta universal o inmutable [11]. La obra pone en contraste la sociabilidad del aula con los espacios de trabajo y hogar. En la escritura, una mesa de coser ocupada, una habitación compartida o el ruido de la casa pueden imponer límites prácticos; son más útiles que copiar el plano de la vivienda de un personaje. Para cualquier santuario o escuela de ficción, decide quién puede entrar, a qué hora y bajo qué reglas, y evita presentar la convención visual del anime como costumbre general de todo Japón.
+
+## Referencias regionales japonesas confirmadas
+
+**Hecho documentado.** La ciudad de Saitama confirma que Iwatsuki fue elegida en 2024 como destino de anime y que la historia la toma como escenario; la ciudad vincula esa relación a cortes de Iwatsuki que aparecen en la serie y a la tradición local de fabricación de muñecas hina [6]. La Asociación de Turismo de Anime describe la historia en Iwatsuki, en la ciudad de Saitama, y en Ikebukuro, barrio del distrito de Toshima, Tokio; presenta Iwatsuki como localidad ligada a las muñecas e Ikebukuro a la moda cosplay [7]. La entrevista del director añade una relación concreta entre el taller ficticio de los Gojo y el establecimiento real Suzuki Ningyo, usado como referencia visual [3].
+
+**Uso narrativo sin apropiación de escenas.** Estas referencias permiten situar una historia original en la región metropolitana de Tokio y Saitama sin fingir que toda tienda o calle de la trama es un lugar real. Se puede inspirar el ambiente en la convivencia entre un oficio artesanal, barrios urbanos, tiendas de cultura pop y desplazamientos en tren. Si la historia se traslada a México, conserva la función dramática —una comunidad de oficio junto a una escena de cosplay— y reemplaza los detalles por un barrio, transporte, espacio de eventos y prácticas locales investigadas, en lugar de calcar la geografía de Iwatsuki o Ikebukuro.
+
+## Límites creativos
+
+Toma de la serie los métodos, no su superficie identificable: trabajo por etapas, documentación de materiales, decisiones de vestuario, límites del espacio, colaboración, consentimiento para fotografiar y creación de mundos ficticios coherentes. Usa personajes, nombres, siluetas, paletas emblemáticas, diálogos, marcas y composiciones propias. Cuando una costumbre o localización no esté confirmada por una fuente fiable, trátala como ficción y no como dato cultural.
+
+## References
+
+[1]: https://cloverworks.co.jp/works/kisekoi/ "その着せ替え人形は恋をする | WORKS - CloverWorks"
+[2]: https://www.aniplex.co.jp/lineup/bisquedoll-anime2/ "その着せ替え人形は恋をする Season2 - Aniplex"
+[3]: https://febri.jp/topics/bisquedoll-anime1/ "監督が語る大ヒットアニメ 『その着せ替え人形は恋をする』の魅力と制作の裏側 - Febri"
+[4]: https://cocotame.jp/series/112351/ "TVアニメ『その着せ替え人形は恋をする』プロデューサーインタビュー――作品づくり② - Cocotame"
+[5]: https://natalie.mu/comic/pp/bisquedoll-anime "「その着せ替え人形は恋をする」作者・福田晋一の初インタビュー - コミックナタリー"
+[6]: https://www.city.saitama.lg.jp/006/014/008/003/012/011/p112960.html "さいたま市（岩槻）が「訪れてみたい日本のアニメ聖地88」に選定されました - さいたま市"
+[7]: https://animetourism88.com/places/%E3%81%9D%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E4%BA%BA%E5%BD%A2%E3%81%AF%E6%81%8B%E3%82%92%E3%81%99%E3%82%8B/ "その着せ替え人形は恋をする - アニメツーリズム協会"
+[8]: https://www.comiket.co.jp/info-p/ "コスプレ＆コスプレ撮影 サポートページ - コミックマーケット"
+[9]: https://worldcosplaysummit.jp/en/cosplay/photo "Cosplay Photo Guide - World Cosplay Summit"
+[10]: https://www.jinjahoncho.or.jp/omairi/sanpai/ "参拝方法 - 神社本庁"
+[11]: https://education.jnto.go.jp/en/school-in-japan/school-life-in-japan/japanese-schools-and-uniforms/ "Japanese Schools and Uniforms - Japan National Tourism Organization"
+[12]: https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/featured-topic/02-2-1/ "写真家からみたコスプレ文化 - 慶應義塾大学"
+[13]: https://bisquedoll-anime.com/anime/Reisama/ "生徒会長はNo.1ホスト - TVアニメ『その着せ替え人形は恋をする』公式サイト"
