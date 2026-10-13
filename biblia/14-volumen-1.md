@@ -196,6 +196,45 @@ Es el capítulo de la prueba de vestido, y el primero que pasa **en su departame
 
 ---
 
+## Capítulo 7: «La cuenta»
+
+**Estado:** escrito (5 144 palabras, medida de capítulo importante). **Primera persona, pasado.**
+
+Es el capítulo de la aritmética. Jesús es un diseñador: cuando una cosa no cabe, la mide. Éste es el día en que se mide a sí mismo y descubre que **a él no se le puede arreglar el patrón**.
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **El título es triple.** *La cuenta* es la suma aritmética, es la cuenta que hay que pagar, y es «darse cuenta».
+2. **La cuenta.** Seis horas son trescientos sesenta minutos; él tiene ciento sesenta; faltan doscientos. En dieciséis meses ganó veinticinco: minuto y medio por mes. Doscientos minutos, a minuto y medio, son **ciento treinta y tres meses: once años**. Y el evento es en once días. La aritmética está verificada y cuadra.
+3. **Termina la prenda acostado en la cama**, porque en su departamento no cabe una falda extendida en ninguna superficie. Y su mamá **movió un armario** para que cupiera la mesa de setenta y dos centímetros que mandó hacer. Es el contraste más cruel del capítulo: él cortando en la cama mientras la mesa que hicieron para él lo espera en Aoyama.
+4. **Entrena.** Se queda diez minutos más parado y llega a la hora entera: su récord desde antes del accidente. Y se va a dormir contento.
+5. **La caída.** A las dos y media, la transferencia de la cama a la silla —el metro con diez que nunca le ha contado a nadie— no sale, y se va al piso. Y lo que piensa tirado en el piso no es que se va a morir: **es «en el evento, la gente se sienta en el piso»**.
+6. **Llama a su mamá a las tres de la madrugada** y por primera vez le dice la verdad, o casi. Ella no se espanta: *«Entonces ya no es una caída. Es un susto.»* Y cuelga con: *«El miércoles hay mesa.»*
+7. **Nowa le da la respuesta sin saber que se la está dando.** Su hermana fue al evento de invierno: **nadie está seis horas parado**, todo el mundo se sienta en el piso, hay áreas de descanso, la gente lleva banquitos plegables y hojas de aluminio, los fotógrafos esperan, y **el vestidor cierra a las cinco**.
+8. **El giro: la cuenta buena es peor que la mala.** Si puede sentarse en el piso, entonces **sí puede ir**. Y ahí está la verdad: el problema nunca fueron las seis horas. El problema es que para ir necesita que ella lo baje y lo suba del piso todo el día, y que Marin pase su primer evento de cosplay cargándolo. Cierra el círculo del Capítulo 6: *«La arruinaba yo. No la silla: yo.»*
+9. **Las mentiras que ya no duelen.** Le miente a su mamá con la tarea por **segunda vez**, y la segunda vez no le duele. Y le deja en visto a Nowa. La mentira ya no es omisión: es costumbre.
+10. **La entrega y la primera puntada.** Ella viene por las botas y se lleva el disfraz puesto. Le pide que le enseñe, y él le da el hilo **morado** a propósito, para que vea lo que está haciendo. La primera puntada le sale chueca. Ella pregunta si la arregla, y él dice que no: *«Está chueca. Y es tuya.»* Es la respuesta opuesta a todo lo que él es.
+
+### Lo que este capítulo le hace a la historia
+
+- **El volumen entero se ilumina hacia atrás:** él no le va a fallar a Marin por las piernas. Le va a fallar por no decirle.
+- **La esperanza de ella ya tiene fecha**: once días.
+- **Nowa queda en deuda sin cobrar**, y él lo sabe: *«le debo a Nowa una cosa que no le puedo dar.»* Y le pide que no le diga a Marin que fue ella, «porque si se lo dices va a pensar que te lo dije para que vayas conmigo».
+- **Abre la foto de la mesa** que tenía una semana sin abrir: hay una silla sola en la tarima de prueba. El miércoles hay mesa, y él no fue.
+
+### Corrección de continuidad hecha en la revisión
+
+1. **«Un metro con diez» es la distancia entre la cama y la silla**, la medida que el Capítulo 1 dice que nunca le ha contado a nadie. El borrador del Capítulo 7 decía que eran ochenta y cinco centímetros, y quedó corregido en sus dos apariciones. **Aviso para no repetirlo: no es su altura de pie, es la distancia de la transferencia.**
+2. **La aritmética está verificada:** doscientos minutos a minuto y medio por mes son ciento treinta y tres meses, que son once años.
+
+### Recursos usados
+
+- **Normas reales de los eventos de cosplay, verificadas:** el vestidor está en el recinto y **cierra a las cinco**; los asistentes llevan **hojas aislantes y banquitos plegables**; hay **áreas de descanso**; los fotógrafos piden permiso y esperan. Es la información que Nowa le da, y es la que desarma el capítulo.
+- **El canon de Nowa**, de `biblia/05` y `biblia/13 §9`: es directa, no consuela, y su arco es de generosidad. Por eso le da la respuesta, por eso le pide que no le diga a Marin que fue ella, y por eso al día siguiente **está normal, demasiado normal**.
+- **Daia Yahiro**, compañera del canon, aparece de paso.
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:
