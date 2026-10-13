@@ -133,3 +133,20 @@ Terminar el tomo en el día que él deja de coser para ella es exactamente la re
 ### Y le da la razón al método capítulo por capítulo
 
 Si cada capítulo tiene que ser **una pieza con gancho propio** —regla 7—, diseñarlos de uno en uno es la única manera de que ninguno salga de plantilla.
+
+---
+
+## 7. Añadido después — los requisitos del lector de voz
+
+La investigación anterior se hizo para decidir **cuánto** mide un capítulo. Estas reglas deciden **cómo se escribe** por dentro, y vienen del uso que le va a dar el autor: los capítulos se escuchan en **ElevenReader**.
+
+| Requisito | Por qué |
+|---|---|
+| **UTF-8 con BOM** | Sin BOM, el lector de voz no respeta las pausas |
+| **Raya (—) solo en diálogos** | Es la única marca que el lector entiende como voz de personaje |
+| **Cero Markdown, cero tablas, cero símbolos** | Los pronuncia o se los brinca: `# * _ [ ] ~ < > \|` |
+| **Cero dígitos** | Todo con letra, incluidos los títulos de capítulo |
+
+**El texto completo de estas reglas, con las comprobaciones, está en `biblia/00-acuerdos-de-trabajo.md`, sección 7.** Las reglas de **autorevisión** (sección 8) y el **nivel de ecchi acordado** (sección 10) están en el mismo archivo.
+
+**Nota sobre la medida y el TTS:** un capítulo de 4 500 palabras son unos **veinticinco minutos** de audio, y uno de 5 500, unos **treinta**. Es una longitud cómoda de escuchar de una sentada, que es justo lo que se busca en un regalo que se va a oír además de leerse.
