@@ -31,6 +31,30 @@ Terminar el Volumen 1 en la **reconciliación** (el punto alto emocional) y deja
 
 ---
 
+## Capítulo 1: «Dos horas con cuarenta minutos»
+
+**Estado:** escrito (4 309 palabras). **Primera persona, pasado.**
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **Edad: entra a primer año con diecisiete.** Perdió un año por el accidente (cuatro meses de hospital y seis de rehabilitación). Era necesario para que cuadre con Marin y Gojo, que son de primer año, y de paso le da peso: es el mayor del salón y lo sabe.
+2. **Fecha: llega a finales de marzo.** Las clases empiezan dos semanas después, en abril, como el año escolar japonés.
+3. **La causa del accidente no se cuenta.** Jesús la esquiva a propósito, en voz alta, sin decirla. **Queda libre para decidirla más adelante**, cuando convenga.
+4. **Su japonés es el de su papá:** correcto, formal, sin calle. Suena a extranjero en el país de su padre. Su mamá, en cambio, habla como quien negocia en Aoyama desde hace quince años.
+5. **La máquina viene por barco y llega a finales de abril.** Tres semanas sin poder coser, la primera vez desde los trece años.
+6. **El departamento:** cuarto piso con elevador medido (un metro cuarenta), barrio residencial, ventana a una calle con tráfico (que es por donde corre Marin al final).
+7. **Marin aparece solo como un vistazo.** Corre por la banqueta de enfrente, con el uniforme modificado a propósito, el cabello rubio con mechas y una risa que se oye desde la calle. No se conocen: él solo le mide el paso y se miente a sí mismo diciendo que está viendo «un cuerpo en movimiento».
+8. **La camiseta queda plantada como regla:** «la camiseta no es ropa, es un evento», tres veces en cuatro años. Él la cuelga el primer día, antes de deshacer ninguna otra caja.
+9. **Las seis reglas de la silla** se enuncian en el capítulo, en este orden: uno (dos horas de pie), dos (sin la silla no me muevo), tres (días buenos y días malos), cuatro (el peso se suma), cinco (la silla no me pesa; lo que pesa es que me traten como si fuera irrompible), seis (hay cosas que no puedo hacer solo, y pedirlas es lo más difícil). La seis es la única que no tiene aprendida, y es la que sostiene el motor romántico.
+
+### Recursos usados
+
+- **Medir distancias** como dispositivo: la distancia entre donde está y donde dejó la silla. Cierra el capítulo con la medida de la cama a la silla, que es «la única que nunca le he contado a nadie».
+- **El reloj como precio de cada escena:** cuenta los minutos de pie como quien cuenta tela.
+- **Cierre con gancho:** la chica de la risa, el «en menos de un mes le iba a tomar las medidas... y me iban a temblar las manos».
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:
