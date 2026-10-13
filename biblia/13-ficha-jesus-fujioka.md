@@ -17,11 +17,24 @@
 
 ### Apariencia
 
-**⏳ PENDIENTE.** El autor tiene un diseño de Jesús **con uniforme escolar** y lo compartió como imagen de referencia, pero el archivo no llegó al espacio de trabajo del asistente: no se puede describir sin inventar.
+**Definida por el autor el 13 de octubre de 2026.**
 
-Cuando el autor lo describa o lo reenvíe, aquí se registrará: color y peinado del cabello, color de ojos, tono de piel, rasgos que delaten la mezcla mexicano-japonesa, complexión, altura, detalles del uniforme, accesorios propios (cinta métrica, hilos, la mochila) y el tipo de silla.
+- **Cabello:** rubio, de puntas paradas.
+- **Piel:** morena cálida.
+- **Expresión:** sonrisa enérgica.
+- **Cadena de plata** sencilla al cuello.
+- **Vestuario cotidiano:** playera blanca con el escudo de las **Chivas de Guadalajara**.
+- **Silla de ruedas**, presente en el diseño.
+- **Su espacio de trabajo:** escritorio de madera, *sketchbook*, delineador fino, marcadores, estuche negro, goma, **páginas de manga abiertas** y el celular con una calca del escudo.
 
-**Regla de coherencia mientras tanto:** la apariencia tiene que sostener lo que ya es canónico —un muchacho que se viste bien porque vive dentro de la moda—, no contradecirlo.
+**Referencia visual:** `assets/referencia-jesus-fujioka.webp` (y la versión a resolución completa en `.png`).
+
+**Nota sobre la marca:** el escudo de las Chivas es marca registrada; los modelos de imagen suelen dibujar un escudo rojiblanco genérico en lugar del real. Si en algún momento importa que se lea el escudo exacto, hay que retocarlo a mano.
+
+#### PROPUESTA — dos lecturas de este diseño
+
+1. **La playera es su única pieza mexicana visible.** Todo lo demás —la escuela, el escritorio, el manga— es Japón. Guadalajara le queda en el pecho, pegada a la piel. Combina con la camisa colgada en su cuarto (§3): el mismo gesto en dos prendas.
+2. **Cuidado con las páginas de manga en el escritorio.** Jesús *no es otaku* (punto no negociable). Esas páginas no pueden ser suyas por gusto propio: tienen que ser **las que le presta Marin**, y él las estudia como un diseñador estudia una referencia, no como un fan. Así el detalle suma en lugar de contradecir.
 
 ---
 
@@ -230,7 +243,7 @@ Nippon Maya es la moda *en serio*: legado, negocio, futuro, su madre. El cosplay
 9. **¿La hija se queda, y cómo se llama?** En el canon es Nichika. Con Jesús, el nombre tendría que cargar los dos mundos. (§16)
 10. **¿Sofía está presente en la escena final?** La escena de cierre parece pedir que ella vea el trabajo de su hijo. (§16)
 11. **¿Cuánto salta el tiempo al final?** El manga salta varios años: hay que decidir cuántos y qué mostramos del otro lado. (§16)
-12. **La apariencia de Jesús:** pendiente de describir a partir del diseño con uniforme escolar. (§1)
+12. ~~**La apariencia de Jesús:** pendiente de describir a partir del diseño con uniforme escolar.~~ **RESUELTA el 13 de octubre de 2026** (§1). Falta solo definir su **uniforme escolar**, que el autor mencionó pero no describió.
 
 ---
 
