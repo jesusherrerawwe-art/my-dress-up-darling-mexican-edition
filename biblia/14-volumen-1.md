@@ -235,6 +235,52 @@ Es el capítulo de la aritmética. Jesús es un diseñador: cuando una cosa no c
 
 ---
 
+## Capítulo 8: «El Rey»
+
+**Estado:** escrito (5 234 palabras, medida de capítulo importante). **Primera persona, pasado.**
+
+Es el capítulo del karaoke con Nowa, y el primero en que Jesús dice la verdad.
+
+### Decisiones del autor (CANON — las respondió él antes de escribirlo)
+
+1. **Jesús se lo dice todo a Nowa.** El evento, la cuenta, la caída, las mentiras, y que está enamorado de Marin. Nowa se queda con las dos cosas y él se queda sin nada que guardarse. **Esto rompe lo que decía la ficha (§9.3: «ella misma pone el límite»)**: aquí el límite llega tarde, y por eso lo que ella tiene que hacer después es empujarlo.
+2. **Se pone la camiseta de las Chivas, y Marin se entera.** Duele el doble: no es la camiseta, es con quién estaba.
+3. **Marin aparece al final, en persona.** Se la encuentran al salir del karaoke, cara a cara, con Nowa al lado.
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **El título es la canción.** «El Rey», de José Alfredo Jiménez: la de un tipo que no tiene nada y dice que es el rey. La encuentra en el catálogo del karaoke buscando por género, debajo de la palabra *mariachi*, porque el título lleva dos letras que el teclado no tiene. **Y la canta sentado, con la camiseta de su papá puesta, y suena a verdad.** Es la única vez en su vida que canta una mentira y suena a verdad.
+2. **No la elige: es lo único que tiene.** Su clóset son tres pantalones iguales, cinco camisas blancas y el uniforme, porque la ropa que él hace es para el cuerpo de otro. La camiseta es la única prenda suya que no es una superficie que hay que cubrir. Y mientras se la pone piensa: *«hoy no cuenta»*.
+3. **Las tres veces.** Primera: el entierro de su papá en Guadalajara. Segunda: el día del alta. Tercera: un viernes de mayo en Omiya, para ir a cantar canciones que no se sabe. *(Cuadra con el Capítulo 1: «la camiseta no es ropa, es un evento», tres veces en cuatro años.)*
+4. **El karaoke es refugio, no terapia** (CANON, ficha §9.1). Nowa no le pregunta nada: le enseña el coro de 「烈!!」 línea por línea, se ríe, le aplaude. Y cuando él se queda callado en la canción lenta, **no le pregunta qué le pasa**: apaga su micrófono y se queda callada con él.
+5. **Nowa lo pelea** (CANON, ficha §9.2): no lo acepta rápido. *«Sí me va a doler... y no quiero que por eso dejes de hablarme, ni que me trates como si yo fuera de cristal, ni que me compenses.»*
+6. **El secreto de Marin.** Nowa le da lo más íntimo que nadie le ha dicho nunca de ella: **deja la televisión de la sala prendida toda la noche**, porque así la casa deja de estar sola. Y se le escapa al decirlo: *«y no se lo cuentes»* no suena a secreto, suena a despedida. Él se da cuenta. Ninguno dice nada. (CANON, ficha §9.4.)
+7. **Marin no voltea.** Y camina despacio, porque Marin camina despacio cuando no quiere llegar. Y antes de irse dice **«Te queda bien»**: la camiseta que ella le pidió ver.
+8. **Nowa le da la excusa.** Marin suelta (o deja) la bolsa del mandado, y Nowa se la pone en las piernas: *«No la vas a alcanzar. Pero anda.»* Es la generosidad del arco: empuja hacia la persona correcta aunque le cueste a ella.
+9. **Él no la alcanza.** Y no le escribe en todo el fin de semana. Y el lunes entiende que **Marin no pregunta: espera a que uno hable.**
+10. **Nowa cumple.** A la una él le escribe «llegué»; ella contesta «ya era hora» y nada más. Ni una pregunta, ni un «¿se lo dijiste?». Le habló normal, como le pidió en la banqueta.
+
+### Lo que este capítulo le hace a la historia
+
+- **Es la primera vez que él dice en voz alta que está enamorado**, y se lo dice a la persona equivocada.
+- **Marin lo ve con su mejor amiga, de noche, con la camiseta de los días que importan.** No hay nada de esa escena que no parezca exactamente lo que parece.
+- **Nowa ya no puede volver atrás:** sabe lo que él siente, le duele, y aun así lo empuja a decírselo a Marin.
+- **La mentira ya no se puede deshacer sola.** Faltan nueve días, y ella no va a preguntar.
+
+### Correcciones hechas en la revisión
+
+- **Ninguna inconsistencia nueva.** Se verificaron contra toda la obra: «nueve días» (siguen a los «once días» del Capítulo 7), «un metro con diez» (distancia cama-silla, Capítulo 1), «treinta y un escalones» de Omiya (Capítulo 2), «tres veces en cuatro años» (Capítulo 1), y los ciento veintiséis episodios de 「烈!!」.
+- Se unificó «la bolsa de la compra» por **«la bolsa del mandado»**, que es como se dice en Guadalajara.
+
+### Recursos usados
+
+- **Canon de Nowa** (`biblia/05` y `biblia/13 §9`): el karaoke, la generosidad, el límite que ella pone, y el secreto de Marin que solo una amiga sabría.
+- **Canon de Marin** (`biblia/04`): **vive sola, su mamá murió cuando ella era niña y su papá viaja por trabajo.** De ahí sale el detalle de la televisión prendida.
+- **Kenjiro Fujioka** (`biblia/13`): entrenador de fútbol universitario, hincha de las Chivas, murió cuando Jesús tenía trece años. Las Chivas no eran su equipo: eran él.
+- **「烈!!」** (`biblia/07`): serie ficticia de ciento veintiséis episodios; Marin y Juju la interpretan como Black Lobelia y Black Lily.
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:
