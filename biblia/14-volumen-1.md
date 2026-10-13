@@ -78,6 +78,33 @@ Terminar el Volumen 1 en la **reconciliación** (el punto alto emocional) y deja
 
 ---
 
+## Capítulo 3: «Página cuarenta y dos»
+
+**Estado:** escrito (5 414 palabras, medida de capítulo importante). **Primera persona, pasado.**
+
+Es el capítulo del encuentro. Cierra el arco que abrieron los dos anteriores: el gancho del Capítulo 1 («la iba a encontrar en la tercera fila») y la espera del Capítulo 2 («faltaban cinco días»).
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **Se cosió el uniforme él mismo.** Tres arreglos invisibles para que le quede bien *sentado*: tiro más corto, cuello dos milímetros atrás y dos pinzas en la espalda. Es la frase tema del Capítulo 2 puesta en acto: no es tu cuerpo, es el patrón.
+2. **La escuela.** Tres pisos, salón de primer año en el segundo. Hay elevador, pero es de servicio y está por fuera: le ofrecen la llave y **él la rechaza**, porque no quiere entrar por la puerta de atrás. Dieciocho escalones, dos tramos de nueve, subidos sentado.
+3. **Maestra Tanabe (personaje nuevo).** Joven, de lentes. Insiste una sola vez y acepta. Es la primera adulta que le dice que sí sin convertirlo en un problema.
+4. **Nowa Sugaya, presentada.** Aretes grandes, habla con todo el cuerpo, ruidosísima. Le dice cuál es el baño con más espacio **sin cara de lástima**, «como quien te dice dónde hay una máquina expendedora». Tiene una hermana en tercero, que fue quien le contó todo el primer día.
+5. **El encuentro es por la moda, no por el anime (CANON).** Él la reconoce de la revista *Petit Étoile* (inventada, sin marca real) de marzo, **página cuarenta y dos**: un saco color crema que le quedaba grande de los hombros, que se acomodó en las primeras cuatro fotos y dejó de acomodarse en la quinta, y en la quinta se veía mejor porque se le veía el cuello. **Nadie le había dicho nunca nada de su ropa.**
+6. **La escoba con el trapo.** Durante la limpieza, en vez de apiadarse o subirse a algo, Marin amarra el trapo a una escoba con una liga del cabello y borra lo de arriba desde el suelo. Es la primera persona que, en dieciséis meses, mira un problema suyo y le encuentra una solución en lugar de una disculpa.
+7. **La puntada en el puño.** Marin se cosió ella misma el puño de la camisa: hilo blanco sobre tela blanco, puntadas disparejas, sin rematar, cosida con la ropa puesta. Él lo ve y no dice nada.
+8. **Shizuku Kuroe (黒江雫), de 「ヌル女2」 (CANON).** El primer disfraz es el de la obra original: ella se muere de vergüenza al explicar que es un juego de adultos, y él no entiende ni quién es el personaje ni por qué todos se ríen.
+9. **Dice que sí el primer día, por el reto técnico (CANON).** Nunca ha hecho un disfraz, no tiene la máquina (llega en tres semanas) y trazará el patrón a mano, en papel de estraza, con la regla de su papá. Lo acepta por la única razón por la que él acepta las cosas: porque no sabe si puede.
+10. **El motor romántico queda instalado.** Mide la distancia de la puerta al escritorio de ella: ocho metros con sesenta. Y cierra decidiendo **no hacer nada**: el día que le tome medidas ella descubrirá que no puede estar de pie más de dos horas, y él no le va a pedir que decida si le alcanza.
+
+### Lo que este capítulo le hace a la historia
+
+- **Marin queda justificada antes de enamorarse**: Jesús es la primera persona que le habla de su ropa y no de su cuerpo.
+- **Jesús queda justificado antes de enamorarse**: Marin es la primera persona que le resuelve un problema en vez de compadecerlo.
+- La semilla de la ruptura ya está plantada en el gesto más tierno del capítulo: **ella no le pregunta si puede, y él todavía no sabe si eso lo salva o lo va a destruir.**
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:
