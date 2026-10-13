@@ -16,7 +16,7 @@ Mi mamá me lo advirtió en el desayuno, sin saber que lo estaba advirtiendo.
 
 —A casa de una compañera.
 
-—A casa de una compañera.
+—A casa de una compañera —dije.
 
 Se quedó viéndome por encima de la taza, con esa cara suya de revisar una costura buscando el hilo jalado.
 
@@ -706,8 +706,6 @@ Y eso fue todo. No me preguntó cómo, ni por qué, ni me pidió que le explicar
 
 Me fui a las seis y cuarto.
 
-Me fui a las seis y cuarto.
-
 Bajé los veintiocho escalones en la silla de la cocina otra vez, con Marin empujando atrás, riéndose, y cuando llegué abajo me pasé a la mía, que la había dejado junto a la puerta, y me quedé un momento en la banqueta, solo.
 
 Saqué el reloj.
@@ -735,8 +733,6 @@ Lo pensé mientras enrollaba la cinta y lo aparté enseguida, como se aparta una
 Pero se quedó ahí. Como se quedan las cosas que uno aparta.
 
 Un evento de cosplay dura seis horas, y yo tengo dos.
-
-Llegué a la casa a las siete.
 
 Llegué a la casa a las siete.
 

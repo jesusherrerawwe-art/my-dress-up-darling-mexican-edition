@@ -157,6 +157,45 @@ Al repasar la obra entera aparecieron tres errores, ya corregidos:
 
 ---
 
+## Capítulo 6: «La prueba»
+
+**Estado:** escrito (5 443 palabras, medida de capítulo importante). **Primera persona, pasado.**
+
+Es el capítulo de la prueba de vestido, y el primero que pasa **en su departamento**: Marin entra a su cuarto por primera vez.
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **El título es triple.** *Prueba* es la prueba del vestido, es estar a prueba, y es la fotografía como evidencia. Cierra con la foto: *«Estaba viendo la prueba, la única que tengo de que ese domingo, durante unos minutos, a mí también me temblaron las manos por algo que no era la silla.»*
+2. **El hallazgo técnico que sostiene el capítulo: un sastre tiene que retroceder tres metros, y él no puede.** No puede dar los tres pasos atrás sin gastarse el día entero de piernas. Lo que sustituye a sus piernas es **la cámara del celular**, y es la cámara la que lo hace verla. Es la inversión del secreto del Capítulo 5: allá aprendió que un disfraz se ve a tres metros; acá descubre que a tres metros ella se vuelve el personaje.
+3. **Las botas.** El ruedo se marca con el zapato puesto, siempre: descalza la falda queda larga, con tacón queda corta, y el hueco entre el zapato y la tela es lo único que delata a alguien que se disfrazó. Ella se pone una bota sí y otra no, chueca.
+4. **La ropa interior (CANON: es el beat que el anime cortó).** El manga tiene una escena en que Marin dice que no llevó ropa para cambiarse y Gojo se pone nervioso; **el anime la eliminó** (`biblia/10`). Nosotros la usamos, y la usamos **al revés del canon**: a Jesús **no lo azora el cuerpo**, porque vistió modelos en Aoyama desde los trece años. Lo que lo quiebra es que **hoy sí se fija**. *«Nunca se me había notado que tengo manos.»* La grieta está en su profesionalismo, no en su inocencia.
+5. **El miedo verdadero (regla cinco).** Le pasa lo que le pasa a cualquiera, sentado, con las manos en la cintura de ella. Y el miedo no es que se dé cuenta: **es que se dé cuenta y le dé ternura.** *«Lo que no aguanto es la sonrisa de la gente buena, porque con ésa no se puede pelear: te la dan por tu bien y la tienes que agradecer.»*
+6. **El cierre del arco del Capítulo 4.** Allá la midió rapidísimo y ella salió decepcionada —«se sintió como ir al dentista»— porque él era *demasiado* profesional. Acá ella dice: **«Qué bueno que te tiemblen.»** El defecto del Capítulo 4 es ahora la virtud.
+7. **La mariposa.** Se la hace por su cuenta, con alambre de joyería, fieltro y el hilo morado de la gabardina. Es lo que Marin no pidió: *«Estaba en el dibujo y yo no la vi. Tú la viste solo.»* Y ella: *«Nadie me ha hecho nada con las manos.»*
+8. **El espejo.** Los dos juntos, ella de pie y él sentado. Y lo que piensa y no dice: que así los verían en las fotos del evento, y que **la arruinaría él, no la silla**. Primera vez que la mentira se le vuelve una razón para no ir.
+9. **La mentira ya es una decisión.** Ella le pone la salida en la mesa: *«No tienes que venir si no puedes.»* Es lo contrario de lástima: es la primera persona en dieciséis meses que le da permiso de no poder. Y él la deja ahí y dice que va a ir. **Ya no es omisión: es una elección.** Y la repite con Nowa: le deja el mensaje en visto. *«No decir nada, para no tener que decir que no.»*
+
+### Lo que este capítulo le hace a la historia
+
+- **Él se enamora aquí** y no lo dice: la foto es la prueba que se guarda.
+- **La prenda se queda a dormir en su cuarto**, porque la tela nueva hay que dejarla colgar una noche antes de cortarle el ruedo. Es la excusa perfecta para que ella vuelva.
+- **Queda plantada la escuela de costura:** ella le pide que le enseñe a coser.
+- **Nowa queda herida en silencio**, con tres mensajes: la invitación, el «si no puedes, no importa» y el «perdón, soné re idiota». Él la deja en visto. Es la primera vez que el triángulo le cuesta algo a alguien que no sea él.
+
+### Correcciones hechas en la revisión de este capítulo
+
+1. **La geometría de las cabezas estaba mal planteada.** Decía que el cuello del dibujo le habría cerrado la garganta «porque Shizuku mide seis cabezas y media y Marin casi siete», y eso da la razón al revés: si la cabeza del dibujo es más grande, todo lo de abajo es más corto. Corregido para que siga lo que ya dice el Capítulo 5: **seis y media es proporción de dibujo** (piernas largas, torso corto, saco pegado, falda arriba); las personas reales miden siete o siete y cuarto; y **el cuello se abre porque un dibujo no tiene holgura**.
+2. **Tres duplicados en el Capítulo 4** que no se habían visto: «Me fui a las seis y cuarto» y «Llegué a la casa a las siete» repetidos línea sobre línea, y un eco sin marcar de «A casa de una compañera», al que se le puso «dije» para que se oiga a dos voces. Corregidos: 5 392 → **5 378 palabras**.
+3. **No se tocó la repetición de «ciento sesenta y cuatro»** en el Capítulo 4: es deliberada, la segunda vez dice *«Pero esta vez no lo dije como un dato»*.
+
+### Recursos usados
+
+- **Oficio real de la prueba, verificado:** el ruedo se marca **con el zapato puesto** y con alfileres en horizontal —paralelos al piso, no a lo largo, porque a lo largo se caen y en horizontal se alinean solos—; **dos dedos de holgura** en la cintura, ni uno ni tres, que es la única medida que no se puede tomar con cinta porque mide el aire y no el cuerpo; la tela nueva **se deja colgar una noche** antes de cortar, porque se estira con su propio peso.
+- **El beat del manga que el anime cortó**, rescatado de `biblia/10-diferencias-anime-manga.md`.
+- **La postura de Shizuku en la carátula** como canon: cadera metida, hombro derecho adelante.
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:

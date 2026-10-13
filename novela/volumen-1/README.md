@@ -19,9 +19,9 @@ Todo lo que ocurra en estos 14 capítulos apunta hacia ese silencio.
 | 1 | [`capitulo-01.md`](capitulo-01.md) | Dos horas con cuarenta minutos | 4 309 | **escrito** |
 | 2 | [`capitulo-02.md`](capitulo-02.md) | Los rollos de arriba | 4 582 | **escrito** |
 | 3 | [`capitulo-03.md`](capitulo-03.md) | Página cuarenta y dos | 5 414 | **escrito** |
-| 4 | [`capitulo-04.md`](capitulo-04.md) | Desde abajo | 5 392 | **escrito** |
+| 4 | [`capitulo-04.md`](capitulo-04.md) | Desde abajo | 5 378 | **escrito** |
 | 5 | [`capitulo-05.md`](capitulo-05.md) | Donde no me cuesta nada | 4 420 | **escrito** |
-| 6 | `capitulo-06.md` | *pendiente* | — | por escribir |
+| 6 | [`capitulo-06.md`](capitulo-06.md) | La prueba | 5 443 | **escrito** |
 | 7 | `capitulo-07.md` | *pendiente* | — | por escribir |
 | 8 | `capitulo-08.md` | *pendiente* | — | por escribir |
 | 9 | `capitulo-09.md` | *pendiente* | — | por escribir |
