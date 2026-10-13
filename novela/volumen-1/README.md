@@ -2,7 +2,9 @@
 
 > **Título:** pendiente de decidir.
 > **Extensión:** 14 capítulos.
-> **Meta de extensión:** 63 000 – 77 000 palabras (4 500 – 5 500 por capítulo). Ver `biblia/15-formato-light-novel.md`.
+> **Medida acordada (13-oct-2026):** **4 500 palabras** los capítulos normales, **5 500** los importantes. Total estimado del volumen: **67 000 – 68 000 palabras**. Ver `biblia/15-formato-light-novel.md`.
+>
+> **Excepción en reserva:** un capítulo importante también puede marcarse siendo *corto* (unas 2 000 palabras) justo después de uno largo. Candidato natural: el cierre del volumen.
 
 ## Destino del volumen
 

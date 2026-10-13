@@ -53,19 +53,41 @@ Dos reglas prácticas:
 
 ---
 
-## 3. PROPUESTA — nuestra meta
+## 3. ACUERDO — nuestra meta
 
-Con **14 capítulos por volumen**:
+**Decisión del autor (13 de octubre de 2026):**
 
-| Concepto | Cifra |
+| Tipo de capítulo | Palabras |
 |---|---|
-| Palabras por capítulo | **4 500 – 5 500** |
-| Palabras por volumen | **63 000 – 77 000** |
-| Total de la obra (28 capítulos) | **126 000 – 154 000 palabras** |
+| **Normal** | **4 500** |
+| **Importante** | **5 500** |
+
+Con **14 capítulos por volumen**, según cuántos sean importantes:
+
+| Reparto | Total del volumen |
+|---|---|
+| 10 normales + 4 importantes | 45 000 + 22 000 = **67 000** |
+| 9 normales + 5 importantes | 40 500 + 27 500 = **68 000** |
+| Todos normales (mínimo) | **63 000** |
+| Todos importantes (máximo) | **77 000** |
+
+**Total de la obra (28 capítulos): entre 134 000 y 140 000 palabras**, dentro del rango auténtico del formato.
 
 **Por qué nos quedamos en la parte baja del rango:** Re:Zero y SAO son fantasía y ciencia ficción, y ese género infla la cuenta con descripción de mundo, sistemas de magia y terminología. La nuestra es **Slice of Life + Ecchi**: casi no hay exposición, el peso lo llevan la escena y el diálogo. Es lo que hacen las novelas ligeras de comedia romántica, que son las más cortas del formato.
 
-**Nota práctica:** un capítulo de 5 000 palabras se escribe cómodamente **en dos entregas** (unas 2 500 cada una) sin perder calidad. Si en algún momento un capítulo pide más, se le da más: la palabra la tiene la escena, no la plantilla.
+**Nota práctica:** un capítulo de 4 500–5 500 palabras se escribe cómodamente **en dos entregas** (unas 2 300–2 700 cada una) sin perder calidad.
+
+### PROPUESTA — por qué la medida variable es mejor que una fija
+
+1. **Crea ritmo.** Una novela de capítulos todos del mismo tamaño se siente mecánica. Que los importantes respiren más le da a la lectura un pulso irregular, que es como respira una historia de verdad.
+2. **Le avisa al lector sin decírselo.** Cuando un capítulo se siente más largo, algo grande está pasando.
+3. **Deja espacio para la excepción** (ver abajo).
+
+### PROPUESTA — la excepción que vale la pena guardarse
+
+**Un capítulo importante también puede marcarse siendo CORTO.** Un capítulo de 2 000 palabras colocado justo después de uno de 5 500 cae como un golpe: el contraste hace el trabajo.
+
+El candidato natural es el **final del Volumen 1**: la pelea de las cuatro horas como capítulo importante y largo, y luego **un capítulo breve, casi mudo**, donde él simplemente deja de coser. El silencio pesa más si no viene con explicación.
 
 ---
 
