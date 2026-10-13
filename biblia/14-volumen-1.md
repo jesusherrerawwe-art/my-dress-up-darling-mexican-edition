@@ -55,6 +55,29 @@ Terminar el Volumen 1 en la **reconciliación** (el punto alto emocional) y deja
 
 ---
 
+## Capítulo 2: «Los rollos de arriba»
+
+**Estado:** escrito (4 582 palabras). **Primera persona, pasado.**
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **Geografía canon.** Viven en **Iwatsuki, Saitama**, el pueblo de las muñecas hina, que es una de las dos localizaciones reales confirmadas de la obra (la otra es Ikebukuro). El taller de Nippon Maya queda en **Aoyama, Tokio**. El traslado se hace en tren: Iwatsuki, Omiya, Ikebukuro, Aoyama. Bonus narrativo: un chico que cose cayendo a vivir al pueblo de las muñecas.
+2. **El equipo del taller (personajes nuevos).** Aiko (patrones), Yamada (corte), Rina (pruebas), Seki y **Mika**, de acabados a mano, con once años de oficio. Ninguno le pregunta nada de la silla ni lo mira dos veces.
+3. **Su nombre en japonés.** En japonés no existe la jota: lo pronuncian **«Hesús»**. Decide no corregirlo nunca.
+4. **El taller no está hecho para él.** Treinta y ocho escalones sin elevador, rollos de tela a dos metros con diez, tarima de prueba con dos escalones, y la oficina en un entrepiso con escalera de caracol de diecinueve. **Sofía no se había dado cuenta**: no es mala intención, es costumbre, porque su hijo caminaba cuando ella firmó el contrato.
+5. **Semilla de Fujioka Cosplay.** Sofía dice la frase de siempre, «un día esto es tuyo», y le añade algo nuevo: **«y ese día le pones el nombre que quieras»**. Esa noche, en su cuarto, él dice **«Fujioka»** en voz alta por primera vez.
+6. **La regla nueva que descubre** (sin número, porque se la dicta la vida): lo que más pesa no es que te declaren invencible, sino que **el mundo que alguien construyó para ti, con todo el amor del mundo, no tenga un lugar donde quepas**.
+7. **La señora de Omiya.** Treinta y un escalones con el elevador fuera de servicio y dos minutos de pie en el reloj. Una señora de unos setenta lo baja agarrando la silla sin preguntar, y se va sin esperar las gracias. Cierra el arco de la regla seis: «Hoy no pedí nada. Me lo dieron. Y descubrí que duele igual.»
+8. **Marin sigue sin aparecer en persona.** Faltan cinco días para la escuela. El capítulo cierra con el gancho del Capítulo 1 repetido, porque el encuentro es el lunes de la semana siguiente.
+
+### Lo que este capítulo le hace a la historia
+
+- Demuestra **por qué Jesús vale la pena** antes de que Marin lo conozca: ve el hombro que nadie más vio y lo arregla con tres alfileres desde la silla.
+- Planta la **frase tema** sin decirla: «No es tu cuerpo. Es el patrón.» Es lo que le hará a Marin, y es lo que se hará a sí mismo con la silla.
+- Deja a Sofía instalada como antagonista sin villanía: su amor es real y su taller no lo contempla.
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:

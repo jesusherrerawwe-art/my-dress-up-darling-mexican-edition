@@ -399,3 +399,5 @@ Ni que en menos de un mes le iba a tomar las medidas con una cinta métrica, fre
 Pero eso vino después.
 
 Esa noche lo único que hice fue quedarme dormido con la camiseta de mi papá colgada frente a mí, y soñar con el calor de Guadalajara.
+
+Tsukikage (月影)

@@ -17,7 +17,7 @@ Todo lo que ocurra en estos 14 capítulos apunta hacia ese silencio.
 | # | Archivo | Título | Palabras | Estado |
 |---|---|---|---|---|
 | 1 | [`capitulo-01.md`](capitulo-01.md) | Dos horas con cuarenta minutos | 4 309 | **escrito** |
-| 2 | `capitulo-02.md` | *pendiente* | — | por escribir |
+| 2 | [`capitulo-02.md`](capitulo-02.md) | Los rollos de arriba | 4 582 | **escrito** |
 | 3 | `capitulo-03.md` | *pendiente* | — | por escribir |
 | 4 | `capitulo-04.md` | *pendiente* | — | por escribir |
 | 5 | `capitulo-05.md` | *pendiente* | — | por escribir |
