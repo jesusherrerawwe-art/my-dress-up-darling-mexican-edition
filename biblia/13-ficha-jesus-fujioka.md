@@ -17,24 +17,33 @@
 
 ### Apariencia
 
-**Definida por el autor el 13 de octubre de 2026.**
+**CANON — descrita por el autor el 13 de octubre de 2026. Es la versión autoritativa; sustituye cualquier descripción anterior.**
 
-- **Cabello:** rubio, de puntas paradas.
-- **Piel:** morena cálida.
-- **Expresión:** sonrisa enérgica.
-- **Cadena de plata** sencilla al cuello.
-- **Vestuario cotidiano:** playera blanca con el escudo de las **Chivas de Guadalajara**.
-- **Silla de ruedas**, presente en el diseño.
-- **Su espacio de trabajo:** escritorio de madera, *sketchbook*, delineador fino, marcadores, estuche negro, goma, **páginas de manga abiertas** y el celular con una calca del escudo.
+- **Estilo:** anime.
+- **Cabello:** rubio, **corto y desordenado**.
+- **Ojos:** **marrones**.
+- **Piel:** morena.
+- **Altura:** casi la misma que Gojo. *(Nota: la estatura exacta de Gojo no está registrada en la biblia ni verificada con fuente; queda como comparación relativa.)*
+- **Silla de ruedas**, siempre presente.
 
-**Referencia visual:** `assets/referencia-jesus-fujioka.webp` (y la versión a resolución completa en `.png`).
+**Uniforme escolar:**
+- Camisa blanca de **manga corta**, **desabotonada en el cuello**.
+- **Corbata roja con rayas blancas.**
+- **Pantalones azules holgados.**
 
-**Nota sobre la marca:** el escudo de las Chivas es marca registrada; los modelos de imagen suelen dibujar un escudo rojiblanco genérico en lugar del real. Si en algún momento importa que se lea el escudo exacto, hay que retocarlo a mano.
+**Expresión y gesto:** alegre; **sonríe mostrando los dientes**; hace el **signo de la paz (✌) con la mano derecha**.
 
-#### PROPUESTA — dos lecturas de este diseño
+**Fuera de la escuela:** se viste **de manera elegante**, a pesar de estar en la silla.
 
-1. **La playera es su única pieza mexicana visible.** Todo lo demás —la escuela, el escritorio, el manga— es Japón. Guadalajara le queda en el pecho, pegada a la piel. Combina con la camisa colgada en su cuarto (§3): el mismo gesto en dos prendas.
-2. **Cuidado con las páginas de manga en el escritorio.** Jesús *no es otaku* (punto no negociable). Esas páginas no pueden ser suyas por gusto propio: tienen que ser **las que le presta Marin**, y él las estudia como un diseñador estudia una referencia, no como un fan. Así el detalle suma en lugar de contradecir.
+**⏳ Pendiente de confirmar:** el prompt que el autor escribió para la imagen mencionaba una **playera blanca con el escudo de las Chivas** y una **cadena de plata**. No aparecen en la descripción autoritativa, así que **no son canon** todavía: ¿siguen vigentes como ropa de calle, o el «se viste elegante» las sustituye?
+
+**⚠️ Sobre la imagen generada:** `assets/referencia-jesus-fujioka.webp` **no corresponde a este diseño**. Se generó a partir de un prompt del asistente, antes de recibir la descripción del autor. Pendiente de decidir si se borra o se rehace.
+
+#### PROPUESTA — tres lecturas de este diseño
+
+1. **«Elegante a pesar de la silla.»** No deja que la silla le defina la silueta. Es el mismo tipo que mide distancias (§12): viste el cuerpo que tiene, no el que le tocó. Concuerda con §8 y con su defecto (§7).
+2. **El uniforme mal puesto a propósito.** Camisa desabotonada, corbata roja, pantalones holgados: se pone el uniforme como quien se pone **una prenda más**, no como quien se somete a un código. Es un chico que vive dentro de la moda, y eso se le nota incluso donde no debería notarse.
+3. **El signo de la paz.** Su gesto por defecto es abierto y generoso: el que saluda a la cámara sin que se lo pidan. Sostiene «cae bien y punto» (§13) y lo vuelve creíble.
 
 ---
 
@@ -45,7 +54,17 @@ A los 16 años sufrió un accidente con lesiones permanentes y graves en la cade
 - **Tiene días buenos y días malos.** Los malos casi no puede ponerse de pie; eso lo obliga a cancelar planes y a **admitirlo en voz alta**.
 - **Sin la silla, literalmente no tiene cómo moverse.** No es comodidad: es independencia. Si se queda sin horas lejos de ella, se queda varado.
 - **La silla no le pesa.** Ya pasaba la mayor parte de su vida sentado, antes del accidente. No le da vergüenza ni se disculpa por ella.
+- **A veces necesita ayuda de su madre o de Marin para cambiarse.** *(CANON — del autor, 13 de octubre de 2026.)*
 - **El peso cuenta.** Cosplay significa capas, armadura, espuma, props. Nadie ha pensado nunca en cuánto puede cargar su cadera. Ver §5.
+
+#### PROPUESTA — por qué «ayuda para cambiarse» es oro puro
+
+Este detalle es de los más potentes del personaje, y no debe tratarse como una nota al margen:
+
+1. **Le da la vuelta a la dinámica del canon.** En la obra original, la incomodidad la pone Gojo. Aquí, Jesús es un profesional al que **su madre** ha vestido media vida: para él, que alguien lo ayude no es nada nuevo. Pero que lo ayude **Marin** sí lo es, y por completo.
+2. **Le pega directo a su herida.** Es el tipo al que le pesa depender de los demás (§11). La escena en que Marin lo ayuda a vestirse es exactamente lo que él más odia —necesitar— hecho por la persona que más le importa. **Es el momento de mayor intimidad disponible en toda la novela.**
+3. **Humaniza a Sofía.** La antagonista es quien le sube la camisa a su hijo. No es un monstruo: hay una ternura física ahí que hace que su rechazo al cosplay duela más, no menos.
+4. **Es material de ecchi natural y no gratuito.** Tomar medidas y vestir son el idioma de esta obra (§16). Aquí el fanservice nace de la vulnerabilidad, no del accidente.
 
 ---
 
@@ -243,7 +262,7 @@ Nippon Maya es la moda *en serio*: legado, negocio, futuro, su madre. El cosplay
 9. **¿La hija se queda, y cómo se llama?** En el canon es Nichika. Con Jesús, el nombre tendría que cargar los dos mundos. (§16)
 10. **¿Sofía está presente en la escena final?** La escena de cierre parece pedir que ella vea el trabajo de su hijo. (§16)
 11. **¿Cuánto salta el tiempo al final?** El manga salta varios años: hay que decidir cuántos y qué mostramos del otro lado. (§16)
-12. ~~**La apariencia de Jesús:** pendiente de describir a partir del diseño con uniforme escolar.~~ **RESUELTA el 13 de octubre de 2026** (§1). Falta solo definir su **uniforme escolar**, que el autor mencionó pero no describió.
+12. ~~**La apariencia de Jesús.**~~ **RESUELTA el 13 de octubre de 2026** (§1). Quedan dos cabos: confirmar si la playera de las Chivas y la cadena de plata siguen vigentes, y decidir qué se hace con la imagen generada que no coincide con el diseño.
 
 ---
 
