@@ -1,4 +1,4 @@
-﻿Capítulo 2: Los rollos de arriba
+﻿Capítulo dos: Los rollos de arriba
 
 Me desperté antes del despertador, que no es un logro: es culpa de la luz.
 
@@ -116,7 +116,7 @@ Se quedó callada un segundo, y después se rio, corto, y me abrió la puerta.
 
 El taller olía a plancha.
 
-Ese olor no se parece a nada: es el vapor, y el algodón caliente, y un fondo de pegamento de entretela. Yo llevaba tres semanas sin olerlo, porque mi máquina venía en un barco y en mi casa no había nada que planchar, y de repente se me metió en la cabeza como un golpe.
+Ese olor no se parece a nada: es el vapor, y el algodón caliente, y un fondo de pegamento de entretela. Yo llevaba cinco semanas sin olerlo, porque mi máquina venía en un barco y en mi casa no había nada que planchar, y de repente se me metió en la cabeza como un golpe.
 
 Era un espacio grande, blanco, con ventanas altas a una calle de árboles. Seis mesas de corte, dos maniquíes, una estantería de rollos que ocupaba toda la pared del fondo, y cinco personas trabajando.
 

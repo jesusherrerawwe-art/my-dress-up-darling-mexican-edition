@@ -20,7 +20,7 @@ Todo lo que ocurra en estos 14 capítulos apunta hacia ese silencio.
 | 2 | [`capitulo-02.md`](capitulo-02.md) | Los rollos de arriba | 4 582 | **escrito** |
 | 3 | [`capitulo-03.md`](capitulo-03.md) | Página cuarenta y dos | 5 414 | **escrito** |
 | 4 | [`capitulo-04.md`](capitulo-04.md) | Desde abajo | 5 392 | **escrito** |
-| 5 | `capitulo-05.md` | *pendiente* | — | por escribir |
+| 5 | [`capitulo-05.md`](capitulo-05.md) | Donde no me cuesta nada | 4 420 | **escrito** |
 | 6 | `capitulo-06.md` | *pendiente* | — | por escribir |
 | 7 | `capitulo-07.md` | *pendiente* | — | por escribir |
 | 8 | `capitulo-08.md` | *pendiente* | — | por escribir |

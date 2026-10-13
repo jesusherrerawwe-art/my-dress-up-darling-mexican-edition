@@ -1,4 +1,4 @@
-﻿Capítulo 1: Dos horas con cuarenta minutos
+﻿Capítulo uno: Dos horas con cuarenta minutos
 
 Regla uno: nunca gasto más de dos horas de pie en un mismo día.
 
@@ -234,7 +234,7 @@ Por barco. Eso fue lo que más me costó aceptar.
 
 Mi máquina viene en un contenedor, en algún punto del Pacífico, y no llega hasta finales de abril. La máquina que mi mamá me regaló a los quince, con el pedal adaptado y la mesa cortada a mi medida, está navegando. Y yo, mientras tanto, no tengo con qué coser.
 
-Tres semanas sin coser. Es la primera vez desde los trece años.
+Cinco semanas sin coser. Es la primera vez desde los trece años.
 
 Saqué la cinta métrica de la mochila y la puse sobre la mesa. La enrollé y la desenrollé dos veces, nada más por sentir el peso en la mano.
 

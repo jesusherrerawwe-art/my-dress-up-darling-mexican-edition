@@ -1,4 +1,4 @@
-﻿Capítulo 4: Desde abajo
+﻿Capítulo cuatro: Desde abajo
 
 Fui el sábado a la una.
 

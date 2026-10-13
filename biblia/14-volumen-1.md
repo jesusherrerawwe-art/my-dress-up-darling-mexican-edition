@@ -131,6 +131,32 @@ Es el capítulo de las medidas, el que el Capítulo 1 prometió: *«le iba a tom
 
 ---
 
+## Capítulo 5: «Donde no me cuesta nada»
+
+**Estado:** escrito (4 420 palabras). **Primera persona, pasado.**
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **El hallazgo del capítulo.** *«Cosiendo, la silla no me cuesta nada.»* Es el único lugar del mundo donde su cuerpo no le cobra, y por eso cose, y por eso se pierde ahí (conecta con su defecto, §7). Explica al personaje mejor que cualquier otra cosa.
+2. **La mesa de setenta y dos.** Le corta tres centímetros a las patas con un serrucho prestado; queda chueca y le pone un doblez de cartón. **Él sí adapta su propio espacio**, al contrario de lo que nadie hizo en el taller de su mamá.
+3. **El método del patrón (técnico).** Proporciones en cabezas: Shizuku mide seis cabezas y media. Ciento sesenta y cuatro entre seis y media: veinticinco coma dos centímetros por cabeza. Traza **dos patrones** en papel de estraza, los pone uno sobre otro en el piso, y elige el de ella: falda tres centímetros más larga, sisa dos más holgada, cintura un centímetro abajo, cuello un centímetro abierto.
+4. **Nippori**, el barrio real de las telas (línea Yamanote). La señora del cabello rojo le cambia la tela de en medio por **malla de sombreros**, y le vende una gabardina que «se llama sombra» porque negra en reposo y con hilo morado tejido en el revés, que se enciende con la luz: exactamente lo que hace el dibujo.
+5. **El secreto de los disfraces.** *«Un disfraz no se ve de cerca. Se ve en una foto, a tres metros.»* Lo aprende en la tercera mariposa, a las cuatro de la mañana.
+6. **El cierre invisible.** Dos veces torcido, dos veces descosido. *«El descosedor, que es la herramienta más triste del mundo, porque no sirve para hacer, sirve para deshacer.»*
+7. **La culpa (CANON, §8).** Sofía le manda la foto de la mesa de corte que mandó hacer para él, **de setenta y dos centímetros**, la altura de quien cose sentado. Él le miente con la tarea. Cinco noches cosiendo el disfraz, cero en el taller. **Las dos cosas no caben.**
+8. **El peso.** Un kilo setecientos. Lo hizo ligero para que ella lo cargara seis horas. Y él no puede estar de pie seis horas ni con el cuerpo vacío.
+9. **La mentira que crece.** El evento es en doce días, ella ya compró la entrada, ya le preguntó si iba a poder, y él le dijo que sí. Cierra con: *«Lo voy a tener que decir.»*
+
+### Correcciones de continuidad hechas en la revisión de este capítulo
+
+Al repasar la obra entera aparecieron tres errores, ya corregidos:
+
+1. **«Tres semanas sin coser»** en los capítulos 1 y 2 contradecía «no llega hasta finales de abril». Ahora dicen **cinco semanas** (llegada a fines de marzo, máquina a fines de abril). El capítulo 3 se queda en «tres semanas», que es lo correcto para su fecha.
+2. En el capítulo 5 decía **nueve noches** cosiendo; el calendario interno da cinco. Corregido, y las cuarenta y ocho horas pasaron a veintisiete.
+3. La promesa de ir al taller se hizo en el capítulo 2, así que no podían ser «tres semanas» sino **más de un mes**.
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:

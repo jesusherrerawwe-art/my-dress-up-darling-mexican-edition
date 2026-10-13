@@ -1,4 +1,4 @@
-﻿Capítulo 3: Página cuarenta y dos
+﻿Capítulo tres: Página cuarenta y dos
 
 Me cosí el uniforme yo mismo.
 
