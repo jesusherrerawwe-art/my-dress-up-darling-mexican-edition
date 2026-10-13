@@ -105,6 +105,32 @@ Es el capítulo del encuentro. Cierra el arco que abrieron los dos anteriores: e
 
 ---
 
+## Capítulo 4: «Desde abajo»
+
+**Estado:** escrito (5 392 palabras, medida de capítulo importante). **Primera persona, pasado.**
+
+Es el capítulo de las medidas, el que el Capítulo 1 prometió: *«le iba a tomar las medidas con una cinta métrica, frente a frente, y me iban a temblar las manos»*.
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **La silla de la cocina.** Marin vive en un edificio de cuatro pisos sin elevador (veintiocho escalones). Ella baja **una silla de su propia cocina**, chueca, para subirlo. Es el mismo gesto de la escoba del Capítulo 3: no pregunta, no se compadece, resuelve. **Contraste deliberado con el Capítulo 2**: en el taller de su madre no cabía; aquí le hacen lugar en veinte segundos.
+2. **Nowa vive en el segundo piso del mismo edificio.** Invención hecha para acercarla y para que sostenga la puerta durante la subida. **A confirmar.**
+3. **Mide desde abajo.** Desde la silla alcanza un metro con treinta y cinco. Para la estatura le da el cero de la cinta, ella se lo pone en la coronilla y él lee el número **en el piso**. Toda la escena está rodada desde la altura de la silla, y la cintura queda a la altura de su cara.
+4. **La inversión del canon (Filtro A).** Él mide rapidísimo, como un profesional, y **Marin queda decepcionada**: «Se sintió como ir al dentista». En el canon la vergüenza la pone Gojo; aquí el problema es que él es *demasiado* profesional, y ella esperaba que la midieran para hacerle algo a ella.
+5. **La segunda medición.** Ella le pide que la mida otra vez: *«pero esta vez acuérdate de quién soy»*. Ahí le tiemblan las manos, y ella se las cubre con la suya.
+6. **Cierre del círculo de la revista.** La medida que faltaba era la **caída del hombro**, la misma del saco de la página cuarenta y dos: nueve coma cinco. «No era tuya. Era del patrón.» Esta vez no lo dice como una medida.
+7. **Cifras inventadas** (no están en el canon): estatura **164**, cintura **61**, caída de hombro **9,5**. **A confirmar o corregir.**
+8. **Las manos de Jesús.** Callos de la aguja y la tijera, y dos cicatrices blancas de agujas que se le rompieron adentro. Marin se las mira y dice: *«Son manos de alguien que sabe hacer algo»*, y lo dice como se dice una medida, no como un piropo.
+9. **Nowa, querible otra vez.** Llega con comida a las cinco y media, lee el ambiente en dos segundos y se va. Antes de cerrar le hace la misma seña de la mano del Capítulo 3, «que no era de ánimo ni de advertencia: era las dos cosas».
+
+### Lo que este capítulo le hace a la historia
+
+- **Cumple el gancho del Capítulo 1** y convierte la escena de medidas en algo que no existe en el canon: **la midió desde abajo**, y la intimidad viene de la geometría de su silla, no de la torpeza de un adolescente.
+- **Siembra la ruptura del final del volumen.** Él aparta el pensamiento y queda: *«un evento de cosplay dura seis horas, y yo tengo dos»*. Y Marin le hace la pregunta que no era por el disfraz: *«¿Vas a poder hacerlo?»*. Él contesta que sí sin explicar nada. **Ése es el segundo error**, y el primero es que los dos saben que él no lo va a hacer.
+- **Cierra con la semilla de Fujioka Cosplay**: nunca había cosido para nadie, y lo que empieza mañana «no era Nippon Maya. Eso no tenía nombre todavía».
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:
