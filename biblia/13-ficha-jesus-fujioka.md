@@ -35,9 +35,9 @@
 
 **Fuera de la escuela:** se viste **de manera elegante**, a pesar de estar en la silla.
 
-**⏳ Pendiente de confirmar:** el prompt que el autor escribió para la imagen mencionaba una **playera blanca con el escudo de las Chivas** y una **cadena de plata**. No aparecen en la descripción autoritativa, así que **no son canon** todavía: ¿siguen vigentes como ropa de calle, o el «se viste elegante» las sustituye?
+**Ropa de calle:** elegante. **No usa la camiseta de las Chivas como ropa diaria**: esa prenda está colgada en su cuarto y se reserva para momentos especiales (§3).
 
-**⚠️ Sobre la imagen generada:** `assets/referencia-jesus-fujioka.webp` **no corresponde a este diseño**. Se generó a partir de un prompt del asistente, antes de recibir la descripción del autor. Pendiente de decidir si se borra o se rehace.
+**Referencia visual:** ninguna por ahora. El asistente no puede ver imágenes (ver `00-acuerdos-de-trabajo.md`), así que cualquier diseño tiene que entrar descrito con palabras. Se generó una ilustración que no correspondía al diseño real y quedó descartada.
 
 #### PROPUESTA — tres lecturas de este diseño
 
@@ -74,7 +74,11 @@ Este detalle es de los más potentes del personaje, y no debe tratarse como una 
 
 **Kenjiro Fujioka (padre):** entrenador profesional de fútbol universitario; su equipo eran las **Chivas de Guadalajara**. Murió cuando Jesús tenía 13 años. **Era su mejor amigo.** Jesús nunca se interesó por el fútbol: desde niño lo atrajeron la moda y el diseño por influencia de su madre.
 
-**La camiseta:** la heredó y la lleva a todas partes como recuerdo del hombre que lo crio, **no por el equipo**. Está **colgada en su cuarto, a la vista**: la ve cada mañana antes de empezar el día.
+**La camiseta:** la heredó como recuerdo del hombre que lo crio, **no por el equipo**. **Se queda colgada en su habitación, a la vista**: la ve cada mañana antes de empezar el día. **No es ropa diaria: solo se la pone en momentos especiales.**
+
+> *Corrección del autor, 13 de octubre de 2026: la versión anterior decía que «la llevaba a todas partes». No es así.*
+
+**PROPUESTA — la regla de la camiseta.** Si solo se la pone en momentos especiales, **cada vez que aparece es un evento**. El lector aprende rápido que cuando la camiseta sale del clóset, algo importa de verdad. Conviene gastarla muy pocas veces —tres o cuatro en toda la obra— y que ninguna sea olvidable.
 
 ---
 
@@ -262,7 +266,7 @@ Nippon Maya es la moda *en serio*: legado, negocio, futuro, su madre. El cosplay
 9. **¿La hija se queda, y cómo se llama?** En el canon es Nichika. Con Jesús, el nombre tendría que cargar los dos mundos. (§16)
 10. **¿Sofía está presente en la escena final?** La escena de cierre parece pedir que ella vea el trabajo de su hijo. (§16)
 11. **¿Cuánto salta el tiempo al final?** El manga salta varios años: hay que decidir cuántos y qué mostramos del otro lado. (§16)
-12. ~~**La apariencia de Jesús.**~~ **RESUELTA el 13 de octubre de 2026** (§1). Quedan dos cabos: confirmar si la playera de las Chivas y la cadena de plata siguen vigentes, y decidir qué se hace con la imagen generada que no coincide con el diseño.
+12. ~~**La apariencia de Jesús.**~~ **RESUELTA el 13 de octubre de 2026** (§1). La camiseta de las Chivas queda reservada a momentos especiales (§3) y no es ropa diaria. **La imagen generada fue descartada y borrada del repositorio**: no correspondía al diseño del autor.
 
 ---
 
