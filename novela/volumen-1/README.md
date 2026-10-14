@@ -25,7 +25,7 @@ Todo lo que ocurra en estos 14 capítulos apunta hacia ese silencio.
 | 7 | [`capitulo-07.md`](capitulo-07.md) | La cuenta | 5 144 | **escrito** |
 | 8 | [`capitulo-08.md`](capitulo-08.md) | El Rey | 5 234 | **escrito** |
 | 9 | [`capitulo-09.md`](capitulo-09.md) | La mesa | 6514 | **escrito** |
-| 10 | `capitulo-10.md` | *pendiente* | — | por escribir |
+| 10 | [`capitulo-10.md`](capitulo-10.md) | El cierre | 5971 | **escrito** |
 | 11 | `capitulo-11.md` | *pendiente* | — | por escribir |
 | 12 | `capitulo-12.md` | *pendiente* | — | por escribir |
 | 13 | `capitulo-13.md` | *pendiente* | — | por escribir |

@@ -496,7 +496,7 @@ Se rio. Y se levantó, y se puso las dos botas, y se paró en el tapete, y le ma
 
 —¿Cuánto falta? —dijo.
 
-—Para el evento, once días.
+—Para el evento, catorce días.
 
 —Once.
 

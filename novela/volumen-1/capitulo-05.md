@@ -500,7 +500,7 @@ Un evento de cosplay dura seis horas.
 
 Y yo tengo dos.
 
-Y el evento era en doce días, y Marin ya había comprado la entrada, y ya me había preguntado si iba a poder, y yo le había dicho que sí.
+Y el evento era en quince días, y Marin ya había comprado la entrada, y ya me había preguntado si iba a poder, y yo le había dicho que sí.
 
 Le había dicho que sí.
 

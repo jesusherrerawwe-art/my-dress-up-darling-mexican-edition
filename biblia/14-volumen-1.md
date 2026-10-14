@@ -325,6 +325,55 @@ Es el centro emocional del volumen y el único capítulo de Sofía. Tres cosas n
 
 ---
 
+## Capítulo 10: «El cierre»
+
+**Estado:** escrito (5 971 palabras). **Primera persona, pasado.** Es el capítulo de la confesión.
+
+### Decisiones del autor (CANON — las respondió él antes de escribirlo)
+
+1. **Las dos escenas en un solo capítulo**: empieza con la última prueba en su cuarto y termina en la tienda de pelucas.
+2. **Se lo dice.** Se le quiebra en medio de la prueba y le dice que no puede estar de pie seis horas. Se acabó la mentira grande.
+3. **Marin pregunta por Nowa.** Va directo, sin esperar a que él hable.
+4. **El capítulo termina con el evento llegando.**
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **El título es la lección del capítulo nueve.** «El cierre»: el cierre invisible de la falda, el cierre de la mentira, y el «nunca te disculpes por un cierre» de su mamá. Y al final él piensa que **él es el cierre**: la cosa que no está en el dibujo, y que está, y sin la cual la muchacha no se mete en la falda.
+2. **Marin toca la puerta.** Nunca lo había hecho. Y eso es lo primero que le dice, antes de decir nada.
+3. **No está celosa de Nowa: está celosa del día.** *«Yo te la vi puesta y pensé que nunca me la ibas a poner a mí.»* Lo que le dolió no fue verlo con su mejor amiga: fue que el día que él eligió para ponerse la camiseta de su papá tenía a Nowa adentro y no la tenía a ella. **Y eso no se arregla, porque no es una cosa que se hizo: es una cosa que se vio.**
+4. **Ella no dice la cosa amable.** Dice: *«¿Y por qué no me lo dijiste el miércoles?»*, y después: *«¿Y cómo le hacemos?»* **Marin no consuela: Marin organiza.** Y se sienta en el tapete dos horas a buscar sombras, horarios de vestidores y una banquita plegable de trescientos gramos.
+5. **La banquita la compra ella**, porque si la compraba él era su banquita y si la compraba ella era la banquita del evento. **CANON de la investigación**: en un evento de cosplay nadie se sostiene de pie seis horas; la gente se sienta en el piso con lámina aislante o banquita plegable, y los vestidores cierran a las cinco.
+6. **La tienda de pelucas** (CANON de la ficha). En Nippori, tres puertas más allá de la señora de la gabardina. Y ahí está su mamá, comprando pelo de verdad para una muñeca hina: la seda a los diez años se quiebra y la clienta quiere que su nieta la pueda peinar. **Marin se inclina completita, de las que a nadie le salen bien si no las aprendió de niña, y le sale perfecta.**
+7. **Lo que Sofía dice** — y lo dice con orgullo, sin mala intención, que es lo peor: *«Sí. Y la que le va a dar el taller... Porque esto lo hace muy bien, pero esto es lo que hace mientras termina la escuela. Después se viene conmigo a Aoyama. Ya tiene su mesa.»* **Y Marin entiende la parte que él no le había dicho: que él quiere las dos cosas y su mamá cree que nada más quiere una.**
+8. **El fleco.** Se lo corta él, en su cuarto, con ella sentada en el tapete, y le tiemblan las manos otra vez. Y el fleco de Shizuku no es un fleco de dibujo: es un fleco que alguien se cortó con tijeras de cocina un domingo en su casa, y le quedó chueco, y le gustó.
+9. **El sábado se prueba el piso.** Se baja cuatro veces: once, catorce y diecinueve minutos, y la cuarta no puede. Veintisiete minutos tirado en su propio piso, solo, con la puerta con llave. **Y no se lo dice.** Ésa es la mentira que queda.
+10. **Y el domingo amanece, y se va, y miente otra vez.** No le cuenta lo del sábado porque ella pasó dos horas buscando sombras y banquitas, y porque decirle eso era decirle que su plan no servía, y porque el miércoles le dijo una verdad y le costó cinco días de sueño. Y se sube al tren con dos boletos.
+
+### Corrección de continuidad: la cuenta del evento
+
+Al escribirlo descubrí que la cuenta estaba rota entre capítulos. Reconstruida y corregida:
+
+| capítulo | día | cuenta |
+|---|---|---|
+| 5 | sábado | quince |
+| 6 | domingo | catorce |
+| 7 | miércoles | once |
+| 8 | viernes | nueve |
+| 9 | lunes | seis |
+| 10 | miércoles → domingo | cuatro → cero |
+
+**El evento cae en DOMINGO.** Se corrigieron el cinco (doce → quince), el seis (once → catorce) y el diez (cinco → cuatro días, y «el sábado es el evento» por «el domingo es el evento»).
+
+**Nota para el autor:** en su instrucción pidió que el capítulo terminara el sábado por la mañana. Como el evento quedó fijado en domingo desde el capítulo siete —once días el miércoles, nueve el viernes, seis el lunes, y Nowa lo dice en voz alta—, el capítulo termina el domingo por la mañana. Si lo quiere en sábado, hay que rehacer la cuenta de los capítulos siete, ocho y nueve, y además se rompe el «once años / once días» del siete.
+
+### Recursos usados
+
+- **Investigación de eventos de cosplay** (hecha para el capítulo siete): nadie se sostiene de pie seis horas; láminas aislantes y banquitas plegables de las tiendas de cien yenes; los vestidores cierran a las cinco. Todo eso es lo que Marin busca en el tapete.
+- **Canon de Juju** (`biblia/04`): se compra las pelucas en esa tienda y se corta el fleco ella misma.
+- **Canon de las muñecas hina** (`biblia/01`, `biblia/06`): el taller de la familia se basa en la tienda real Suzuki Ningyō; de ahí sale el pelo para muñecas que Sofía va a comprar.
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:
