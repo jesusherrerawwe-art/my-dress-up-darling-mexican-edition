@@ -281,6 +281,50 @@ Es el capítulo del karaoke con Nowa, y el primero en que Jesús dice la verdad.
 
 ---
 
+## Capítulo 9: «La mesa»
+
+**Estado:** escrito (6 514 palabras — **el capítulo más largo del volumen**; abajo se explica por qué). **Primera persona, pasado.**
+
+Es el capítulo de Sofía, y el único del volumen que pasa entero en su casa.
+
+### Decisiones del autor (CANON — las respondió él antes de escribirlo)
+
+1. **Sofía lo descubre.** No se lo cuenta él: ella ve el hilo morado, deduce que cortó en la cama, y luego ve la foto de Marin en la pantalla del celular.
+2. **Cose algo para Marin.** El ruedo que le salió chueco en la cama, cortado derecho en la mesa de setenta y dos.
+3. **Marin escribe y él no contesta.** Y Sofía lo ve no contestar, y lo único que le dice es «contéstale».
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **Las dos mesas** (el corazón del capítulo). El Capítulo 5 dejó una mesa de setenta y dos contra la pared del fondo del taller de Aoyama: él la vio en foto, dijo que estaba muy bonita y **no fue**. Entonces su mamá hizo **otra**, en su casa, vació la sala, movió el sillón y la televisión y la lámpara, enrolló el tapete, y le mandó otra foto. Y esa foto no la abrió en una semana. **Lo que él ve el lunes no es una mesa: es la segunda mesa. La que hace alguien cuando la primera no bastó.**
+2. **El edificio con elevador.** Mi mamá rentó un edificio con elevador y no me lo dijo nunca. Contraste canon: en el taller de Aoyama hay treinta y ocho escalones de mármol sin elevador, y ella se disculpó por eso con un emoji. Del elevador de su casa, ni una palabra.
+3. **Setenta y dos no es un número redondo.** Noventa menos dieciocho: la altura del descansabrazos de la silla más dos dedos de holgura. Y no lo adivinó: se paró en Aoyama con la cinta métrica, le pidió a Yamada que se sentara en una silla de oficina con un cojín, le midió los muslos y los hombros, y escribió setenta y dos en una nota.
+4. **La espalda.** Llevaba cinco noches seguidas con la espalda hecha pedazos y se le había olvidado que no se supone que duela. Veinte minutos en esa mesa y no le duele. **Eso es lo que su mamá le estaba dando: no la mesa, sino hora y media sin contar.**
+5. **La lección del cierre** (la mejor escena del capítulo). Shizuku no tiene cierre. *«El dibujo no tiene cierre porque el dibujo no se lo tiene que poner. La muchacha sí.»* Y después: **«Nunca te disculpes por un cierre.»** Y no están hablando del cierre. **CANON del oficio:** el cierre invisible va al costado izquierdo, del lado del corazón, porque es el que menos se ve y el que más tapa el brazo al caminar; se plancha con la plancha de punta y un trapo húmedo encima, porque el cierre invisible se plancha o se ve.
+6. **Los siete meses de Kenjiro.** Sofía le cuenta que su papá no le dijo nada durante siete meses, y que hay dos maneras de quedarse callado: la de él, que calló para no ponérselo a ella en los hombros, y la de Jesús, que calla para que nadie lo vea caer. **Y son la misma tontería, nada más que de distinto color.**
+7. **«Contéstale.»** Sofía ve las botas, las medias y el nombre de una chava en la pantalla, y no reprocha, no pregunta quién es. Y él entiende la diferencia: **Marin no pregunta porque espera a que uno hable; su mamá no pregunta porque ya sabe.**
+8. **La cena sobre la mesa de corte.** Sirve los platos sobre el lino, con un mantel individual encima de una mesa forrada de lino. Y cuando él le dice que la va a manchar, ella dice: **«La mesa no se mueve.»**
+9. **«Yo no la hice para que la vieras, Hesús. La hice para que cortaras.»**
+10. **La foto de las botas.** Marin manda una foto que técnicamente es de trabajo —el ruedo se marca con el zapato puesto, cinco centímetros cambian el ruedo— y que no es de trabajo. Está tomada en el pasillo de su casa, descalza, y detrás se ve la esquina del póster de Shizuku. Él la abre en el tren: la ve primero como costurero y después como lo demás.
+
+### Por qué es el capítulo más largo
+
+Es el centro emocional del volumen y el único capítulo de Sofía. Tres cosas no se podían mover a otro lado: la segunda mesa, la lección del cierre y el mensaje sin contestar. **Si el autor quiere, se recorta.**
+
+### Correcciones hechas en la revisión
+
+- **Las botas se le olvidaron el DOMINGO**, no el sábado: la prueba del Capítulo 6 fue domingo a las once. Corregido.
+- **La llamada de las tres de la mañana la hizo ÉL, no su mamá** (canon de los capítulos siete y ocho), y no pidió ninguna mesa: dijo que se había caído. Corregida la frase de Sofía.
+- Se eliminó una repetición: los treinta y ocho escalones de Aoyama se explicaban dos veces.
+- Verificado contra toda la obra: «seis días» (siguen a los nueve del Capítulo 8), «setenta y dos», «la mesa no se mueve» (Capítulo 8), «dos boletos» (Capítulo 7), «no tiene cierre» (Capítulo 5), «un día esto es tuyo» (capítulos 2 y 7), «Nippori» (capítulos 5 y 6).
+
+### Recursos usados
+
+- **Canon de la mudanza** (`biblia/13 §8`): **Jesús sí quería irse y tiene ilusión de verdad por hacerse cargo de la marca, y no sabe que su mamá se mudó sobre todo por él.** Ironía dramática: en este capítulo el lector ya lo ve y él todavía no.
+- **Canon del oficio**: el ruedo se marca con el zapato puesto; Shizuku no tiene cierre; la gabardina es negra con hilo morado tejido en el revés.
+- **Nippon Maya**: paleta de crudo, hueso, gris piedra y negro. **El morado no existe en esa paleta**, y por eso el carrete canta en la mesa.
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:
