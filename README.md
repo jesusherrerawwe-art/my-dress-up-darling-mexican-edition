@@ -6,7 +6,7 @@
 
 > **NO ABRIR HASTA EL 2 DE MARZO DE 2027**
 
-Novela original de 26 capítulos para el hermano Jesús.
+Novela original de 28 capítulos —dos volúmenes de 14— para el hermano Jesús.
 
 ## Dedicatoria
 

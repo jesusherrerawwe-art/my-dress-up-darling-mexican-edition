@@ -2,7 +2,7 @@
 
 ## Personajes, vestuario y color
 
-**Hecho documentado.** CloverWorks acredita por separado diseño de personajes, diseño de vestuario, diseño de color, ambientación artística, efectos y dirección de fotografía; la ficha de la segunda temporada confirma a Eriko Nishihara en vestuario y a Mai Yamaguchi en color, y conserva a CloverWorks como estudio [1] [2]. La autora Shinichi Fukuda explicó que concibió a Marin y Wakana como una pareja que respalda la continuidad de las aficiones del otro: su motivación surgió al oír a cosplayers contar que parejas les habían pedido dejar el cosplay [5].
+**Hecho documentado.** CloverWorks acredita por separado diseño de personajes, diseño de vestuario, diseño de color, ambientación artística, efectos y dirección de fotografía; la ficha de la segunda temporada confirma a **Erika Nishihara (西原恵利香)** en vestuario y a Mai Yamaguchi (山口舞) en color, y conserva a CloverWorks como estudio. **Corrección:** una versión anterior de este documento escribía «Eriko Nishihara»; la romanización que usa la propia diseñadora es Erika. Ambos créditos se repiten en la primera y la segunda temporada, según las dos fichas de equipo del sitio oficial. [1] [2] [14] [15] La autora Shinichi Fukuda explicó que concibió a Marin y Wakana como una pareja que respalda la continuidad de las aficiones del otro: su motivación surgió al oír a cosplayers contar que parejas les habían pedido dejar el cosplay [5].
 
 **Observación propia y uso narrativo.** Conviene leer los personajes en dos capas: su indumentaria cotidiana y la identidad que construyen al vestirse para un personaje. En la serie, la silueta discreta de Wakana y el vestuario cambiante de Marin ayudan a diferenciar sus modos de estar en el mundo; el traje de cosplay no es un simple cambio de ropa, sino una decisión que desencadena investigación, trabajo y confianza. Para una historia original, diseña primero silueta, movimiento, comodidad y relación con el entorno. Que una protagonista elija botas prácticas por caminar mucho, o que un personaje evite telas ásperas, dice algo propio sin reproducir un traje reconocible de la serie.
 
@@ -18,7 +18,7 @@ El equipo de producción de la segunda temporada dijo que consultó a la revista
 
 ## Maquillaje y transformación
 
-**Hecho documentado.** Para la segunda temporada, el equipo pidió a *COSPLAY MODE* que presentara modelos y especialistas en maquillaje masculino; el personal observó durante horas el proceso y tomó fotos para trasladar movimientos y pasos a la animación. El productor remarcó que quería evitar gestos o secuencias de arreglo incompatibles con la práctica real [4]. El sitio oficial del anime también presenta una historia ficticia, *Seito Kaichō wa No.1 Host* (*La presidenta del consejo estudiantil es la anfitriona n.º 1*), con una protagonista que mantiene identidades distintas en la escuela y en el club donde trabaja [13].
+**Hecho documentado.** Para la segunda temporada, el equipo pidió a *COSPLAY MODE* que presentara modelos y especialistas en maquillaje masculino; el personal observó durante horas el proceso y tomó fotos para trasladar movimientos y pasos a la animación. El productor remarcó que quería evitar gestos o secuencias de arreglo incompatibles con la práctica real [4]. El sitio oficial del anime también presenta una historia ficticia, 『生徒会長はNo.1ホスト』 (*Seitokaichō wa No.1 Host*; «La presidenta del consejo estudiantil es la anfitriona n.º 1», abreviada *生ホス*), con una protagonista que mantiene identidades distintas en la escuela y en el club donde trabaja [13]. **Corrección:** la transcripción correcta del título es *Seitokaichō*, no «Seito Kaichō» ni «Seitō Kaichō»; es la obra de la que Marin toma a Rei Kōgami (鴻上麗) para el concurso del festival cultural de la temporada 2. [13] [16]
 
 **Observación propia y uso narrativo.** El maquillaje puede funcionar como un proceso de construcción de personaje y no solo como “antes y después”: preparación de piel, corrección, forma de ceja, pestañas, labios, peluca y retoque según el calor o la duración del evento. Para mostrarlo sin convertirlo en tutorial, escoge dos o tres decisiones visibles y vincúlalas con una intención: reconocer un rasgo del modelo, dar una impresión más severa o hacer que el maquillaje resista una jornada larga. Si hay transformación de género o presentación escénica, representa la técnica con respeto y deja que el propio personaje nombre qué le resulta cómodo; no uses el maquillaje para ridiculizar su identidad.
 
@@ -60,7 +60,7 @@ La fotografía de cosplay contiene además acuerdos entre personas. En el reglam
 
 Toma de la serie los métodos, no su superficie identificable: trabajo por etapas, documentación de materiales, decisiones de vestuario, límites del espacio, colaboración, consentimiento para fotografiar y creación de mundos ficticios coherentes. Usa personajes, nombres, siluetas, paletas emblemáticas, diálogos, marcas y composiciones propias. Cuando una costumbre o localización no esté confirmada por una fuente fiable, trátala como ficción y no como dato cultural.
 
-## References
+## Referencias
 
 [1]: https://cloverworks.co.jp/works/kisekoi/ "その着せ替え人形は恋をする | WORKS - CloverWorks"
 [2]: https://www.aniplex.co.jp/lineup/bisquedoll-anime2/ "その着せ替え人形は恋をする Season2 - Aniplex"
@@ -75,3 +75,6 @@ Toma de la serie los métodos, no su superficie identificable: trabajo por etapa
 [11]: https://education.jnto.go.jp/en/school-in-japan/school-life-in-japan/japanese-schools-and-uniforms/ "Japanese Schools and Uniforms - Japan National Tourism Organization"
 [12]: https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/featured-topic/02-2-1/ "写真家からみたコスプレ文化 - 慶應義塾大学"
 [13]: https://bisquedoll-anime.com/anime/Reisama/ "生徒会長はNo.1ホスト - TVアニメ『その着せ替え人形は恋をする』公式サイト"
+[14]: https://bisquedoll-anime.com/staffcast/ "Sitio oficial: equipo de la temporada 2 (衣装デザイン 西原恵利香, 色彩設計 山口舞)"
+[15]: https://bisquedoll-anime.com/1st/staffcast/ "Sitio oficial: equipo de la temporada 1 (mismos créditos de vestuario y color)"
+[16]: https://bisquedoll-anime.com/story/?id=16 "Sitio oficial: sinopsis del episodio 16, que nombra a 鴻上麗 y 『生ホス』"

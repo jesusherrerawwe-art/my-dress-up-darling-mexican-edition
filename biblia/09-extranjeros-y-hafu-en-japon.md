@@ -10,7 +10,7 @@ Tampoco hay una sola experiencia compartida por todas las personas de ninguno de
 
 ## Región, idioma y vida cotidiana
 
-La población extranjera residente está distribuida de manera desigual. Al cierre de 2024, Tokio reunía el 19,6 % de las personas extranjeras registradas, seguida en número por Osaka, Aichi, Kanagawa y Saitama. Esas cifras administrativas describen dónde vive la población, no la actitud de quienes viven allí: no permiten afirmar que una ciudad sea automáticamente acogedora ni que una localidad menos poblada sea hostil. [4]
+La población extranjera residente está distribuida de manera desigual. Al cierre de 2024, Tokio reunía el 19,6 % de las personas extranjeras registradas, seguida en número por Osaka, Aichi, Kanagawa y Saitama. **Actualización:** al cierre de 2025 el número total de residentes extranjeros en Japón llegó a 4.125.395 personas, un aumento interanual del 9,5 % y el cuarto récord consecutivo; es la primera vez que se supera la barrera de los cuatro millones. Por nacionalidades, la comunidad china es la más numerosa (930.428), seguida de la vietnamita (681.100) y la surcoreana (407.341). [4] [12] [13] Esas cifras administrativas describen dónde vive la población, no la actitud de quienes viven allí: no permiten afirmar que una ciudad sea automáticamente acogedora ni que una localidad menos poblada sea hostil. [4]
 
 El acceso a apoyos también depende del lugar y del horario. Una medida oficial del Gobierno estimó que, en noviembre de 2022, unas 150.000 personas extranjeras residían en municipios donde no se ofrecían clases locales de japonés. La ausencia de una clase en el municipio no significa que allí no exista ninguna otra vía de aprendizaje, pero sí señala una diferencia concreta en la oferta comunitaria disponible según el lugar. El Ministerio de Educación, por su parte, recopila información de las juntas educativas locales sobre intérpretes, personal de apoyo lingüístico y otras medidas escolares, por lo que la cobertura no debe suponerse idéntica entre centros o municipios. [5] [8]
 
@@ -51,3 +51,5 @@ La etiqueta *hāfu* puede aparecer si un personaje la usa o si la conversación 
 [9]: https://www.moj.go.jp/EN/JINKEN/jinken21.html "Human Rights Counseling for Foreigners — Ministry of Justice of Japan"
 [10]: https://www.check-roudou.mhlw.go.jp/soudan/foreigner_eng.html "Counseling Services and Hotlines in Foreign Languages — Ministry of Health, Labour and Welfare"
 [11]: https://ritsumei.repo.nii.ac.jp/record/2005559/files/k_1988.pdf "Rethinking Representation of Female Hāfu across Media"
+[12]: https://www.japantimes.co.jp/news/2026/05/19/japan/society/foreigner-discrimination-survey/ "The Japan Times: encuesta de la Agencia de Servicios de Inmigración y cifra récord de residentes extranjeros"
+[13]: https://www.nippon.com/en/japan-data/h02750/ "Nippon.com: población extranjera en Japón por nacionalidad al cierre de 2025"

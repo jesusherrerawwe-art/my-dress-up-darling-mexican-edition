@@ -7,7 +7,7 @@ La adaptación conserva la progresión principal de la obra de Shinichi Fukuda, 
 | Tramo | Adaptación y punto de continuidad |
 |---|---|
 | **Temporada 1** | 12 episodios; adapta de forma continua el inicio hasta el final del verano, aproximadamente los capítulos 1–39 (tomos 1–5). El episodio 12 incorpora material de los capítulos 37–39; para seguir desde el manga, la guía secundaria consultada señala el capítulo 40. [2] [4] [9] |
-| **Temporada 2** | 12 episodios, numerados 13–24 en la serie; retoma desde el capítulo 40 y cierra el arco de la sesión grupal de *Coffin*, ya en el tomo 11. Para continuar, la recomendación secundaria más prudente es releer el capítulo 86: el límite no coincide limpiamente con un capítulo completo y hay páginas condensadas u omitidas. No debe afirmarse que toda la secuencia del capítulo 86 quedó animada. [1] [3] [5] [8] [13] |
+| **Temporada 2** | 12 episodios, numerados 13–24 en la serie; retoma desde el capítulo 40 y cierra el arco de la sesión grupal de *Coffin*, ya en el tomo 11. Para continuar, la recomendación secundaria más prudente es releer el capítulo 86: el límite no coincide limpiamente con un capítulo completo y hay páginas condensadas u omitidas. No debe afirmarse que toda la secuencia del capítulo 86 quedó animada. **Actualización importante:** la serie ya no está abierta; el manga se publicó del 19 de enero de 2018 al 21 de marzo de 2025 y se recopiló en **15 tomos**, con un capítulo extra (115.5) el 4 de julio de 2025. El anime cubre aproximadamente hasta el capítulo 86 de los 115 publicados. [1] [3] [5] [8] [13] [18] |
 
 El reparto por tomos ayuda a orientarse, pero no sustituye al número de capítulo: el tomo 5 oficial reúne el verano de Marin y Gojo, mientras que el tomo 6 amplía el mundo del cosplay con Amane y un nuevo proyecto de vestuario. [4] [5] La página editorial confirma además que el festival escolar y el primer reto de *crossplay* —cosplay de un personaje de otro género— se extienden por los tomos 7 y 8. [6] [7]
 
@@ -31,7 +31,19 @@ En la segunda temporada, el desarrollo de Gojo sigue ligado al aprendizaje y a l
 
 El anime no elimina el trabajo material del cosplay. Conserva la toma de medidas, confección, elección de detalles, accesorios, maquillaje y sesión fotográfica; en la temporada 2, el proyecto de Rei y el grupo de *Coffin* hacen visible la costura, los props y el montaje de la imagen final. [11] [12] [13] En el manga, el proceso se reparte entre páginas de trabajo, comentarios y pensamientos; la animación puede convertir esos pasos en duración, movimiento, color y sonido. El resultado es más sensorial, aunque no necesariamente más explicativo en cada técnica. El tomo 11 editorial confirma que *Coffin* es un hito del manga y enlaza ese arco con el siguiente proyecto de invierno. [8]
 
-La resolución romántica también queda deliberadamente abierta al terminar la temporada 2. La sinopsis oficial del episodio 24 dice que Marin lleva tiempo decidida a declararse después de la sesión; la reseña secundaria posterior confirma que no logra hacerlo y que el anime remata con un *cliffhanger* cómico, sin convertir a la pareja en novios. El tomo 11, por su parte, presenta el arco de *Coffin* y la transición hacia Winter Comiket, de modo que el manga sigue más allá del corte televisivo. [8] [13] [14]
+La resolución romántica también queda deliberadamente abierta al terminar la temporada 2. La sinopsis oficial del episodio 24 dice que Marin lleva tiempo decidida a declararse después de la sesión; la reseña secundaria posterior confirma que no logra hacerlo y que el anime remata con un *cliffhanger* cómico, sin convertir a la pareja en novios. El tomo 11, por su parte, presenta el arco de *Coffin* y la transición hacia Winter Comiket. En el momento en que se redactó este documento esa transición era el final conocido de la obra; **hoy el manga está concluido**, así que «más allá del corte televisivo» ya no es una zona abierta, sino un tramo cerrado de veintinueve capítulos con final incluido. [8] [13] [14] [18]
+
+## Lo que el anime no ha adaptado (spoiler del final del manga)
+
+> **Aviso:** esta sección resume el desenlace del manga, que la adaptación televisiva todavía no ha alcanzado. Es información útil para decidir hasta dónde acompañar al canon y dónde separarse de él en una obra derivada.
+
+El corte televisivo deja la historia en la sesión grupal de *Coffin*, con la confesión de Marin pendiente. En el manga, esa confesión **sí ocurre** y la pareja empieza a salir; el tramo final se extiende por el arco del Winter Comiket —donde Marin se plantea interpretar a Haniel (ハニエル), personaje del manga ficticio 『天命』— y continúa hasta el capítulo 115. El capítulo final da un salto temporal de varios años: Wakana se ha convertido en un artesano de muñecas hina reconocido, está casado con Marin —que trabaja como modelo— y ambos tienen una hija, **Nichika**; la escena de cierre es una cena familiar en la que el padre de Marin aparece con chirashizushi para celebrar el debut televisivo de su yerno. Es un final doméstico y cerrado, no un cliffhanger. [18] [19]
+
+Consecuencias prácticas para una novela derivada:
+
+- **El canon ya tiene final.** Cualquier 「continuación」 que se escriba hoy compite con un desenlace publicado; conviene decidir de antemano si la historia se alinea con él, lo reinterpreta o se sitúa en un hueco del calendario —por ejemplo, entre el final de la temporada 2 y el Winter Comiket—.
+- **Los veintinueve capítulos pendientes no caben en una tercera temporada estándar.** Las dos primeras adaptaron alrededor de cuarenta capítulos cada una, de modo que un cierre requeriría una temporada corta, una película o un OVA. No hay anuncio oficial de continuación.
+- **Marin y Wakana no quedan como novios en pantalla.** El anime mantiene la tensión sin resolver; el manga la resuelve. Esa diferencia es el punto de bifurcación más fértil para una historia nueva.
 
 ## Materiales extra
 
@@ -56,3 +68,5 @@ Los complementos físicos amplían ambos formatos, pero no son capítulos añadi
 [15]: https://bisquedoll-anime.com/1st/bddvd/ "Blu-ray & DVD — sitio oficial, temporada 1"
 [16]: https://bisquedoll-anime.com/bddvd/ "Blu-ray & DVD, volumen 7 — sitio oficial, temporada 2"
 [17]: https://bisquedoll-anime.com/bddvd/12.html "Blu-ray & DVD, volumen 12 — sitio oficial, temporada 2"
+[18]: https://en.wikipedia.org/wiki/My_Dress-Up_Darling "Ficha de la obra: serialización 2018–2025, 15 tomos, final del manga y situación de Wakana y Marin"
+[19]: https://cinecorner.co.uk/news/what-happens-at-the-end-of-my-dress-up-darling-where-the-anime-stops-vs-how-the-story-really-ends_a142 "Dónde se detiene el anime y cómo termina el manga (fuente secundaria)"

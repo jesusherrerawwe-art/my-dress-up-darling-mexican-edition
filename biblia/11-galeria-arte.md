@@ -32,7 +32,7 @@ Esta galería reúne visuales promocionales oficiales de las dos temporadas como
 
 **Título:** Visual de Season 2 publicado en la ficha de Aniplex. **Tipo:** Póster / imagen promocional. **Fuente original:** Ficha oficial de Season 2 de Aniplex [5]; [archivo de imagen original](https://www.aniplex.co.jp/SYS/CONTENTS/keyvisual_bisquedoll-anime2/w700). **Crédito y derechos:** © Shinichi Fukuda / SQUARE ENIX / comité de producción de *Kisekoi*, según el crédito impreso en el material. Derechos reservados; copia local para referencia visual.
 
-## References
+## Referencias
 
 [1]: https://bisquedoll-anime.com/news/?article_id=59316 "Segundo visual clave de la primera temporada — sitio oficial del anime"
 [2]: https://bisquedoll-anime.com/news/?article_id=66857 "Anuncio del teaser visual de Season 2 — sitio oficial del anime"
