@@ -496,6 +496,53 @@ Las **13** comillas latinas que ya existían en la narración —frases citadas 
 
 ---
 
+## Capítulo 13: «La fila»
+
+**Estado:** escrito (5 009 palabras). **Primera persona, pasado. Sin BOM**, como el doce.
+
+### Decisiones del autor (CANON — las respondió él antes de escribirlo)
+
+1. **La frase que se le escapa a Nowa NO va aquí: se siembra.** El canon de la ficha (§9.4) dice que la escena en que Nowa lo convence «tiene que costarle». El autor decidió que en el trece Nowa se le meta y se le note, pero **que la frase que la delate se guarde para el Volumen 2.**
+2. **Sí le propone ser la primera modelo de Fujioka Cosplay** (canon §9.6).
+3. **Marin los ve.** Y no dice nada, y no cruza la calle. (Canon §9: pierde a su mejor amiga como apoyo justo cuando más la necesita.)
+4. **Cierra con un mensaje escrito y no mandado.**
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **El título es la fila del karaoke.** Nowa la llena de canciones para que no haya silencio, y mientras la fila tenga canciones nadie tiene que decir nada. Y todas las filas se acaban.
+2. **Nowa no pregunta: tapar el hueco con canciones.** No evita el hueco donde se metería Marin: lo tapa.
+3. **Nowa vive en el edificio de Marin, no en el de Jesús** (CANON, capítulo 4). Por eso el encuentro no puede ocurrir en su edificio: ocurre en la calle, en Omiya.
+4. **Marin viene de comprar tela.** Ella pidió «enséñame a coserme» (capítulo 11) y él nunca contestó. La bolsa de papel grueso con asas de cordón **es la respuesta que él no dio**, colgada del antebrazo de ella.
+5. **Ella da media vuelta.** No cruza, no espera, no se acerca. Y **lo último que mira no es a él: es la bolsa**, y la aprieta contra el cuerpo.
+6. **Nowa no la ve.** Y él no le dice nada. La mentira es de él, no de ella.
+7. **Las dos se sientan en el piso.** Nowa desde el primer día (capítulo 8) y Marin desde la primera vez (capítulo 6), y ninguna lo ha dicho nunca. *«Y ésas son las dos únicas personas en el mundo que lo hacen.»*
+8. **La razón verdadera por la que él se deja arrastrar:** en ese cuarto **él no es el de la silla**. No hay escalones que contar, ni elevador de servicio, ni vestidor que cierre a las cinco, ni tarima con dos escalones. *«No hay nada que no pueda hacer.»* Y Marin lo mira y ve primero a alguien a quien hay que ayudar, y lo ve con una sonrisa, y *«esa sonrisa es la que me mata»*.
+9. **La mirada del oficio.** Nowa se sube al sofá a cantar y él la mide: hombros, caída, torso, la cadera, el hueso de la cadera, la línea del pantalón. Y le pasa lo que le pasa. Y lo que le da coraje **no es que le pase: es que no es lo mismo**. Porque con Marin le pasa por ella, y esto le pasó por él, de puro oficio. *«Eso es lo más parecido a usar a alguien que he hecho en mi vida.»* Y lo hizo con la mejor amiga de la persona a la que le dijo que no le iba a coser nunca más.
+   - **Regla que sostiene la escena:** medir es lo primero que se hace, y por eso es la cosa más parecida a una promesa que hay en este oficio. Su mamá dice que tomar medidas es un acto de confianza.
+10. **El teléfono de los diez minutos** (canon real del karaoke japonés). Suena para avisar que se acaba tu rato. Nowa contesta antes del primer timbrazo y dice que sí.
+11. **La tontería de Marin.** Nowa cuenta que Marin tiene un cajón con ropa que ya no le queda y no la tira. Él la explica sin pensar, porque es su oficio: *«Porque cada cosa es ella cuando la compró»*. Y Nowa dice *«nunca lo había pensado así»*, y en ese gesto **se le ve la cara que no es la de Nowa**, y dura lo que dura un parpadeo. Ahí queda sembrado.
+12. **Le dice el nombre.** Fujioka. La primera persona en el mundo que lo oye: él lo dijo solo en su cuarto, a los nueve años más tarde, en el capítulo dos. Y Nowa lo dice despacio, y lo dice bien, y no se ríe: *«Me gusta. Suena a cosa que va a durar.»*
+13. **Nowa argumenta sin poner a Marin abajo** (regla de hierro: Nowa nunca es villana). Dice *«no lo digo por Marin»* y lo explica: Marin es guapísima y le encanta que la vean, pero se muere por dentro cada vez. *«Marin no puede con eso. Yo sí.»*
+14. **La siembra: «Yo puedo esperar.»** Nowa es la que dice «el viernes a las seis, no es una pregunta», la que toca tres veces fuerte, la que a los diez minutos de conocerte te cuenta su vida. **A Nowa se le acaba la paciencia antes de que se le acabe el refresco.** Y dice que puede esperar. Y lo dice sin darle importancia, como quien dice dónde está el baño.
+15. **La tableta en la puerta.** Ya de salida, Nowa le pone el denmoku en las piernas y le dice «mete una». Él no mete ninguna. Y cierra: *«Y creo que fue la única vez en toda la noche que Nowa me vio»*, que le contesta al *«Nowa nunca me ve»* de la mitad del capítulo.
+16. **El mensaje: «Te puedo enseñar.»** Cuatro palabras. Es la respuesta a «enséñame a coserme», y es honesta, porque una cosa es coserle y otra es enseñarle, y enseñarle no es lo que le dijo que no le iba a hacer. Y es lo único que tiene que no le cuesta nada dar. **Y por eso mismo no lo manda.**
+
+### Correcciones de la revisión
+
+- **Grave:** había escrito que Marin seguía mandando los mensajes de las siete y cuarenta. El capítulo doce dice que **dejó de mandarlos**. Corregido: lo último en el chat es la foto de la tela morada, y debajo de eso nada.
+- **Grave:** había escrito «quince meses reconociéndola de espaldas». «Dieciséis meses» es desde el accidente; los capítulos diez y once dicen **tres meses** cosiendo para Marin. Corregido a «más de tres meses».
+- Un `se quedé` que debía ser `se quedó`.
+- Un párrafo («Y lo vi todo en un segundo…») quedó desacomodado tras una inserción; se movió a donde cierra la descripción.
+- Se variaron dos muletillas: «viendo la mesa» (diez → siete) y «callada» (ocho → cinco).
+
+### Recursos usados
+
+- **Karaoke japonés real**: cuartos privados rentados por tiempo en bloques de treinta minutos; el **denmoku**, tableta para buscar y encolar canciones; la regla de no acaparar la fila; dos micrófonos, pandereta y maracas; **teléfono con cable en el cuarto** para pedir comida y extender, y **la llamada de aviso a los diez minutos** de que se acaba el rato.
+- **Canon del triángulo** (`biblia/13 §9`): Nowa no lo consuela, lo distrae; la traición le pesa antes que a nadie; ella no se queda esperando y se propone como primera modelo.
+- **Geografía real**: Omiya es el centro comercial de Saitama y la estación de transbordo; Iwatsuki queda a una parada. Las tiendas de telas de Nippori cierran a las seis.
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:

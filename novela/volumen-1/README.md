@@ -28,7 +28,7 @@ Todo lo que ocurra en estos 14 capítulos apunta hacia ese silencio.
 | 10 | [`capitulo-10.md`](capitulo-10.md) | El cierre | 5971 | **escrito** |
 | 11 | [`capitulo-11.md`](capitulo-11.md) | El piso | 8076 | **escrito** |
 | 12 | [`capitulo-12.md`](capitulo-12.md) | La puerta | 4708 | **escrito** |
-| 13 | `capitulo-13.md` | *pendiente* | — | por escribir |
+| 13 | [`capitulo-13.md`](capitulo-13.md) | La fila | 5009 | **escrito** |
 | 14 | `capitulo-14.md` | *pendiente* | — | por escribir |
 
 *La tabla se llena sobre la marcha. No es una estructura: es el registro de lo que ya se decidió.*
