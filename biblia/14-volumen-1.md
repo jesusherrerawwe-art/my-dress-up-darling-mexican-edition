@@ -374,6 +374,56 @@ Al escribirlo descubrí que la cuenta estaba rota entre capítulos. Reconstruida
 
 ---
 
+## Capítulo 11: «El piso»
+
+**Estado:** escrito (8 076 palabras — **el capítulo más largo del volumen, y con razón**: es el destino de todo el volumen). **Primera persona, pasado.**
+
+### Decisiones del autor (CANON — las respondió él antes de escribirlo)
+
+1. **Llega hasta el rompimiento.** No se detiene en el derrumbe: él le dice que no le va a coser nunca más. Se despide del oficio y de ella en el mismo gesto.
+2. **En pleno pasillo, con gente.** La humillación es pública y él no la puede esconder.
+3. **Marin no pierde el evento.** Se va a la sesión con Juju y vuelve. Y eso duele distinto: **él no le arruinó el día.**
+4. **Juju es la que lo ve.**
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **El título es el objeto que lo vence.** «El piso»: el lugar donde se sienta todo el mundo y que a él lo destruye. Y cierra la familia de títulos-objeto del volumen: «La silla», «La mesa», «El piso».
+2. **La estructura son las transferencias.** El capítulo está medido en las veces que se baja al piso: la primera (once minutos), la segunda (catorce), la tercera (diecinueve) y la cuarta, que no sale y dura cuarenta y cinco. **El lector ya conoce la escalera desde la prueba del sábado del capítulo diez: once, catorce, diecinueve, y la cuarta no pudo.**
+3. **Marin no lo acompaña: Marin va también.** Se sienta en el piso del tren porque no hay dónde más, no porque él esté en silla.
+4. **La regla del vestidor lo separa de la transformación.** No se puede tomar fotos adentro (ni usar el celular como espejo), no se puede esperar en la puerta, y hay vestidores separados. **Por eso la primera vez que ve a Shizuku es cuando ella sale.**
+5. **Lo que sale del vestidor camina distinto.** Y esa manera de caminar no está en el dibujo: se la inventó ella el domingo anterior frente a su espejo. **Es lo único del disfraz que él no hizo.**
+6. **Juju reconoce el oficio.** No dice «qué bonita»: dice *«el ruedo está bien»*, y se agacha y toca la tela, y explica por qué casi nadie lo deja bien. Y pregunta: *«¿Haces encargos?»* Y Marin contesta por él: **«Él no hace encargos. Él hace esto.»**
+7. **La cremallera se le atora.** Él se la arregla en el pasillo, de espaldas, con la gente pasando, con la mano metida en la ropa de la muchacha que él hizo. Y ella le habla por encima del hombro como si le estuviera pidiendo el azúcar. **Y ése es el corazón del capítulo: que ella lo trate como si no pasara nada.**
+8. **Él se baja al piso a propósito.** Porque en la silla no se puede esperar y en el piso sí, y porque si te bajas cuando todavía puedes, luego puedes subir. **Y Marin lo ve: «Te bajaste a propósito.» Y es lo más inteligente que hizo en todo el día, y lo hizo solo.**
+9. **Ella nombra la mentira.** *«Ésa es la mentira... porque la otra era para que no te vieran caer, y ésta era para que yo te dejara venir.»* **La mentira no fue para ocultar la caída: fue para que ella lo dejara ir.**
+10. **Y lo dice ella primero.** *«Tú no me puedes coser otro.»* Y cuando él lo confirma, ella le exige: **«Así que dilo tú. Si lo vas a decir, dilo tú.»**
+11. **Lo que él entiende en el pasillo.** No era que no podía ir a un evento: era que sí podía, y que podía ir a éste, y a lo mejor a otro el año que viene, y que cada vez iba a ser esto. **Y que ella iba a ir a cincuenta.**
+12. **Ella no llora y no pelea: le cambia el pedido.** *«Ya no me vas a coser. Enséñame a coserme.»* Y él no le dice que sí ni que no. **Y ella se va sin voltear.**
+13. **Nowa y su mamá, las otras dos.** El «Hoy» de Nowa a las siete y cuarenta, sin contestar. Y el «Te esperé» de su mamá a las siete y media, y el «La mesa no se mueve» de las nueve, sin contestar. **Les quedó mal a las tres en el mismo día.**
+14. **La última línea.** *«Y pensé que el piso no era el problema, porque al piso yo me sé bajar. Y pensé que lo que yo no sabía hacer era lo que ella acababa de hacer: quedarse.»*
+
+### Canon del evento (investigación real, verificado)
+
+- **No se puede llegar ni irse en disfraz**: hay que usar el vestidor del recinto. Te pueden negar la entrada.
+- **Cuota del vestidor: quinientos yenes**, se paga en la puerta, y dan un papelito de color que sirve para volver a entrar durante el día.
+- **Vestidores separados para hombres y mujeres, y sin cubículos.**
+- **Prohibido tomar fotos adentro**, incluido usar el celular como espejo. Prohibido dejar equipaje, comer, descansar, o esperar a nadie en la puerta.
+- **Abren a las diez y media y cierran a las cinco.** Desde las cuatro empiezan a preparar el cierre. Hay que haber terminado de cambiarse antes de las cinco.
+- **Para fotografiar hay que pedir permiso a cada persona**, esperar turno, y el personal puede parar una sesión si se junta mucha gente.
+- **Todo el mundo se sienta en el piso**: láminas aislantes, cartón y banquitas plegables. Nadie se sostiene de pie seis horas.
+- La sede es **Tokyo Big Sight**, en Ariake, Koto-ku.
+
+### Correcciones hechas en la revisión
+
+- Se quitaron unas negritas que se quedaron (prosa limpia para TTS).
+- **«vió» → «vio»**: ver no lleva acento en tercera persona del pasado. Ojo: el reemplazo automático también tocó «volvió» y «movió»; se repararon los tres.
+
+### Nota de extensión
+
+8 076 palabras. Es el destino del volumen y con mucho el capítulo más largo. Si el autor quiere, se recorta.
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:
