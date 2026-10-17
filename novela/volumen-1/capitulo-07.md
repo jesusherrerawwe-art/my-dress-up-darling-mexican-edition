@@ -124,39 +124,39 @@ Y llamé.
 
 A las tres y veinte de la madrugada llamé a mi mamá.
 
-—Mamá.
+"Mamá."
 
-—Hesús.
+"Hesús."
 
 Y nada más. Los dos nos quedamos callados, y yo estaba a punto de decirle que no era nada, que se me había caído el celular, que había soñado algo, cualquiera de las mentiras que le he dicho en dieciséis meses, que son muchas y que ella se ha creído todas o ha fingido creérselas todas, que es peor.
 
-—Me caí —dije.
+"Me caí", dije.
 
 Y mi mamá no dijo nada. Se quedó callada un momento, y luego dijo, con la voz de quien revisa una costura:
 
-—¿Desde dónde?
+"¿Desde dónde?"
 
-—Desde la cama.
+"Desde la cama."
 
-—¿Y pudiste subir?
+"¿Y pudiste subir?"
 
-—Sí.
+"Sí."
 
-—¿Y estás en la cama?
+"¿Y estás en la cama?"
 
-—Sí.
+"Sí."
 
-—Entonces ya no es una caída —dijo—. Es un susto. Mañana te vas a sentir peor. El martes no vayas a la escuela.
+"Entonces ya no es una caída «dijo». Es un susto. Mañana te vas a sentir peor. El martes no vayas a la escuela."
 
-—Tengo que ir.
+"Tengo que ir."
 
-—Hesús.
+"Hesús."
 
-—Tengo que ir —dije—. Mañana le entrego el disfraz a una persona.
+"Tengo que ir «dije». Mañana le entrego el disfraz a una persona."
 
 Y ahí sí se quedó callada de verdad.
 
-—¿A quién? —dijo.
+"¿A quién?", dijo.
 
 Y se lo dije. Se lo dije a las tres y veinte de la madrugada, acostado, con la espalda hecha piedra, y se lo dije entero: el disfraz, las cinco noches, la máquina que vino por barco, la chica de la risa que corre por la banqueta de enfrente y que resultó ser del salón, y el evento que es en once días, y los dos boletos.
 
@@ -164,15 +164,15 @@ No le dije que le había dicho que sí.
 
 Y mi mamá, que es la persona que más sabe de mí y la que menos me pregunta, dijo nada más:
 
-—Ah.
+"Ah."
 
 Y luego:
 
-—El miércoles hay mesa.
+"El miércoles hay mesa."
 
-—Mamá.
+"Mamá."
 
-—El miércoles hay mesa, Hesús. Nada más. Duérmete.
+"El miércoles hay mesa, Hesús. Nada más. Duérmete."
 
 Y colgó.
 
@@ -194,19 +194,19 @@ Y en el segundo escalón del segundo tramo oí la risa.
 
 Marin venía bajando, y me vio, y se paró en el descanso. Y no me preguntó si quería ayuda, ni se ofreció a empujar, ni se le puso la cara que se le pone a la gente: se sentó en el escalón, ahí mismo, como quien se sienta a esperar el camión, y sacó el celular.
 
-—Yo también voy despacio —dijo—. Traigo una uña rota y me está matando.
+"Yo también voy despacio «dijo». Traigo una uña rota y me está matando."
 
 Y se puso a ver el celular, sentada en el descanso de la escalera, mientras yo terminaba de subir. Y cuando llegué arriba se levantó y subió conmigo, y no me quitó los ojos de encima ni un segundo, y no me dijo nada hasta que íbamos en el pasillo.
 
-—Dormiste mal —dijo.
+"Dormiste mal", dijo.
 
-—Dormí mal.
+"Dormí mal."
 
-—Te duele.
+"Te duele."
 
-—Me duele un poco.
+"Me duele un poco."
 
-—Ajá.
+"Ajá."
 
 Y no insistió. Pero se quedó cerca todo el día.
 
@@ -216,55 +216,55 @@ Y antes de que sonara la campana, Nowa se paró frente a mi escritorio.
 
 No se sentó en el de ella: se paró enfrente, con la mochila colgada de un hombro, y no traía la risa puesta. Traía los aretes grandes de siempre y el fleco acomodado y la cara de quien ha dormido mal y no quiere que se le note.
 
-—Te escribí —dijo.
+"Te escribí", dijo.
 
-—Lo sé.
+"Lo sé."
 
-—Me dejaste en visto.
+"Me dejaste en visto."
 
-—Lo sé.
+"Lo sé."
 
 Se quedó parada ahí, y yo no le dije nada más, porque lo que yo traía preparado era una disculpa, y viéndole la cara me di cuenta de que una disculpa era exactamente lo que ella no quería.
 
-—No me importa que no quieras ir —dijo—. O sea, sí me importa, pero no es lo que me molesta. Lo que me molesta es que no me lo dijeras. Me dejaste leyendo.
+"No me importa que no quieras ir «dijo». O sea, sí me importa, pero no es lo que me molesta. Lo que me molesta es que no me lo dijeras. Me dejaste leyendo."
 
-—No sabía qué decirte.
+"No sabía qué decirte."
 
-—Pon «no».
+"Pon «no»."
 
 Y era cierto, y era tan simple que me dio rabia. Pon «no». Una palabra. Yo había pasado una hora el domingo en la noche pensando cómo contestarle, y la respuesta era una palabra de dos letras. Y lo que me costaba no era la palabra: era que decir que no era decirle por qué.
 
-—Tienes razón —dije.
+"Tienes razón", dije.
 
-—Sí.
+"Sí."
 
-—Perdón.
+"Perdón."
 
-—Ya.
+"Ya."
 
 Y se quedó ahí parada, sin irse, y luego dijo, más despacio:
 
-—¿Es por ella?
+"¿Es por ella?"
 
 Y yo no dije nada.
 
 Y no decir nada es decir todo, y los dos lo sabíamos, y ella se lo guardó como se guarda una cosa que ya sabías y que acaban de confirmarte, que es la peor manera de guardarse algo, porque no te sorprende pero te duele igual.
 
-—Está bien —dijo.
+"Está bien", dijo.
 
 Y me dio la espalda, y se fue a su lugar.
 
 Y después hizo la cosa que hace Nowa, que es la razón por la que Nowa es Nowa: a la hora de la salida, cuando yo estaba guardando las cosas despacio porque ese día todo me dolía, se paró otra vez enfrente de mí y me lo soltó todo de una sola vez, sin mirarme, como quien tira una bolsa:
 
-—Mi hermana fue el año pasado al evento de invierno.
+"Mi hermana fue el año pasado al evento de invierno."
 
 Levanté la vista.
 
-—Con una amiga que se disfraza. Y dice que nadie está parado seis horas. Dice que todo el mundo se sienta en el piso, en los pasillos y en las áreas de descanso, donde se pueda, y que hay gente que lleva banquitos plegables de esos chiquitos y gente que lleva las hojas de aluminio que venden en las tiendas de a peso, y que los fotógrafos esperan a que te pares y ya. Dice que el vestidor cierra a las cinco, así que nadie está seis horas ni de chiste. Y dice que siempre hay alguien sentado.
+"Con una amiga que se disfraza. Y dice que nadie está parado seis horas. Dice que todo el mundo se sienta en el piso, en los pasillos y en las áreas de descanso, donde se pueda, y que hay gente que lleva banquitos plegables de esos chiquitos y gente que lleva las hojas de aluminio que venden en las tiendas de a peso, y que los fotógrafos esperan a que te pares y ya. Dice que el vestidor cierra a las cinco, así que nadie está seis horas ni de chiste. Y dice que siempre hay alguien sentado."
 
 Se quedó callada.
 
-—Te lo digo por si era por eso —dijo.
+"Te lo digo por si era por eso", dijo.
 
 Y se fue.
 
@@ -310,15 +310,15 @@ Y en la escuela, Nowa estuvo normal.
 
 Y a la salida me alcanzó en el pasillo.
 
-—Oye.
+"Oye."
 
-—Dime.
+"Dime."
 
-—Lo del evento. No le digas a Marin que yo te lo dije.
+"Lo del evento. No le digas a Marin que yo te lo dije."
 
-—¿Por qué?
+"¿Por qué?"
 
-—Porque si se lo dices va a pensar que te lo dije para que vayas conmigo.
+"Porque si se lo dices va a pensar que te lo dije para que vayas conmigo."
 
 Y se fue.
 
@@ -338,31 +338,31 @@ Era una funda de vestido de las que se usan en el taller, negra, con el cierre e
 
 Se quedó viendo la funda desde la puerta.
 
-—¿Ya? —dijo.
+"¿Ya?", dijo.
 
-—Ya.
+"Ya."
 
-—¿Ya ya?
+"¿Ya ya?"
 
-—Ya ya.
+"Ya ya."
 
 Y no se movió. Se quedó ahí parada, con los calcetines de la escuela, y de pronto ya no era la chica que habla con todo el cuerpo: era una chica que no se atrevía a entrar.
 
-—Pásale —dije.
+"Pásale", dije.
 
-—Espérate.
+"Espérate."
 
-—¿Qué?
+"¿Qué?"
 
-—Que me dé permiso.
+"Que me dé permiso."
 
 Se rio sola, y entró, y se sentó en el piso, en el tapete, en el mismo lugar del domingo, y cruzó las piernas, y se quedó viendo la funda negra como quien ve a un animal dormido.
 
-—Ábrela tú —dije.
+"Ábrela tú", dije.
 
-—Ábrela tú. Es tuya.
+"Ábrela tú. Es tuya."
 
-—Es tuya hasta que me la des.
+"Es tuya hasta que me la des."
 
 Y entonces entendí por qué no la quería abrir: porque mientras estuviera cerrada, todavía podía estar mal.
 
@@ -372,21 +372,21 @@ Y se le cayó la cara.
 
 No dijo nada. No gritó, ni se rio, ni se tapó la boca. Se quedó viendo el saco, con las dos manos en la funda, y se le llenaron los ojos, y esta vez no se tapó la cara.
 
-—Fujioka —dijo.
+"Fujioka", dijo.
 
-—Dime.
+"Dime."
 
-—Es negra.
+"Es negra."
 
-—Es negra.
+"Es negra."
 
-—Es negra negra.
+"Es negra negra."
 
-—Es gabardina.
+"Es gabardina."
 
-—Es negra con morado por dentro.
+"Es negra con morado por dentro."
 
-—Es negra con morado por dentro —dije.
+"Es negra con morado por dentro", dije.
 
 Y entonces se levantó, y se puso las botas, y se quitó la blusa del uniforme ahí mismo, sin ir al baño, sin preguntar, como quien se quita un suéter en su casa, y se quedó en ropa interior delante de mí por segunda vez, y se metió en la falda, y se puso el saco, y se quedó quieta con los brazos a los lados.
 
@@ -396,35 +396,35 @@ Y el ruedo caía parejo.
 
 Caía parejo con las dos botas puestas, y yo lo sabía porque lo había cortado el lunes a las cinco de la mañana, acostado en la cama, cortando al tacto el tramo de atrás, que es lo que mi mamá me enseñó a no hacer nunca.
 
-—Gira —dije.
+"Gira", dije.
 
 Giró.
 
-—Otra vez.
+"Otra vez."
 
 Giró otra vez.
 
-—Camina.
+"Camina."
 
 Caminó por el cuarto, de la puerta a la ventana, que son cinco pasos, y la falda se movió como se mueve la falda del dibujo, y la mariposa que le puse en el hombro no se movió nada.
 
 Se paró frente al espejo. Y se quedó viéndose, y esta vez no se le cayó la cara ni se rio mojada: se quedó viéndose nomás, quieta, con las manos a los lados. Luego levantó un brazo y se vio la sisa. Luego se tocó el cuello con dos dedos y se vio el cuello.
 
-—Me queda —dijo.
+"Me queda", dijo.
 
-—Te queda.
+"Te queda."
 
-—Me queda de verdad.
+"Me queda de verdad."
 
-—Te queda de verdad.
+"Te queda de verdad."
 
 Y se dio la vuelta y dijo:
 
-—Enséñame.
+"Enséñame."
 
-—¿Qué?
+"¿Qué?"
 
-—Enséñame. Lo dije el domingo. Enséñame a coser.
+"Enséñame. Lo dije el domingo. Enséñame a coser."
 
 ---
 
@@ -432,17 +432,17 @@ Me quedé callado, porque enseñar es difícil y porque yo nunca le he enseñado
 
 Y en lugar de eso le di el hilo.
 
-—Siéntate —dije.
+"Siéntate", dije.
 
 Se sentó en el piso, frente a mí, con la prenda puesta y las botas puestas: una persona disfrazada, sentada en el piso de un cuarto chiquito, a aprender a coser. Y yo le puse en la mano una aguja y un pedazo de gabardina que me había sobrado, del tamaño de una tarjeta.
 
-—Lo primero es enhebrar.
+"Lo primero es enhebrar."
 
-—Ya sé enhebrar.
+"Ya sé enhebrar."
 
-—¿Sabes?
+"¿Sabes?"
 
-—Me cosí el puño.
+"Me cosí el puño."
 
 Y era cierto, y me acordé del puño: el hilo blanco sobre tela blanca, las puntadas disparejas, la puntada sin rematar, cosida con la ropa puesta.
 
@@ -452,13 +452,13 @@ Y se lo di morado a propósito, porque el morado se ve, y porque si le daba un h
 
 Lo enhebró a la primera.
 
-—Bueno —dije—. Ahora vas a entrar la aguja por detrás y la vas a sacar por delante, y la vas a volver a entrar, y así. Una puntada detrás de la otra. Y lo que tienes que cuidar no es que salgan derechas: es que salgan iguales.
+"Bueno «dije». Ahora vas a entrar la aguja por detrás y la vas a sacar por delante, y la vas a volver a entrar, y así. Una puntada detrás de la otra. Y lo que tienes que cuidar no es que salgan derechas: es que salgan iguales."
 
-—¿Iguales?
+"¿Iguales?"
 
-—Iguales. Que la distancia entre una y otra sea la misma. Una puntada chueca se ve. Una puntada dispareja se ve más.
+"Iguales. Que la distancia entre una y otra sea la misma. Una puntada chueca se ve. Una puntada dispareja se ve más."
 
-—Ajá.
+"Ajá."
 
 Y lo hizo.
 
@@ -470,15 +470,15 @@ Y se quedó viendo el pedazo de gabardina con la puntada chueca, morada, sobre e
 
 Y se rio.
 
-—Está horrible —dijo.
+"Está horrible", dijo.
 
-—Está horrible.
+"Está horrible."
 
-—Se ve horrible.
+"Se ve horrible."
 
-—Se ve horrible.
+"Se ve horrible."
 
-—¿La arreglo?
+"¿La arreglo?"
 
 Y ahí estaba otra vez: ¿la arreglo?, que es la pregunta que yo me hago desde los trece años, y la que mi mamá me contesta siempre del mismo modo.
 
@@ -486,27 +486,27 @@ Y la miré. Y estaba esperando, sentada en el piso de mi cuarto, con el disfraz 
 
 Y le dije:
 
-—No.
+"No."
 
-—¿No?
+"¿No?"
 
-—No la arregles. Ésa es tuya.
+"No la arregles. Ésa es tuya."
 
 Se quedó viendo la puntada.
 
-—Pero está chueca.
+"Pero está chueca."
 
-—Está chueca —dije—. Y es tuya. Y la siguiente va a salir mejor. Y después de ésa, mejor. Y el día que te salgan cien iguales vas a querer ver cómo eran las primeras, y si las descosiste ya no las tienes.
+"Está chueca «dije». Y es tuya. Y la siguiente va a salir mejor. Y después de ésa, mejor. Y el día que te salgan cien iguales vas a querer ver cómo eran las primeras, y si las descosiste ya no las tienes."
 
 Y no dije la otra cosa, que era la que estaba pensando, y que era la única cosa cierta de todo el día: que yo guardo todas mis primeras puntadas. Que en el taller de mi mamá hay una caja con las primeras puntadas de todos los que han pasado por ahí, y que mi mamá la tiene en su clóset, y que yo nunca le he preguntado por qué la guarda.
 
 Le di otro pedazo de tela.
 
-—Otra vez.
+"Otra vez."
 
-—¿Otra vez?
+"¿Otra vez?"
 
-—Otra vez. Una puntada detrás de la otra, y que sean iguales.
+"Otra vez. Una puntada detrás de la otra, y que sean iguales."
 
 Y se quedó hasta las siete cosiendo en el piso de mi cuarto, con el disfraz puesto, y las puntadas se le fueron saliendo menos chuecas, y no se quitó el disfraz ni para cenar. Y cuando se fue eran las siete y media y llevaba el saco puesto encima del uniforme, abierto, con la mariposa en el hombro, y se fue a su casa así, por la calle, caminando despacio por no arrugar nada.
 

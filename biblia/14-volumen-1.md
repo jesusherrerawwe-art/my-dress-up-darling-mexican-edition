@@ -462,6 +462,40 @@ Al escribirlo descubrí que la cuenta estaba rota entre capítulos. Reconstruida
 
 ---
 
+## Puntuación de los diálogos (decisión del autor, 17 de octubre de 2026)
+
+**Se acabaron los renglones largos (—).** El autor los probó en su celular y no los registraba bien: los diálogos se sentían raros, sin el espacio suficiente. A partir de aquí la novela se escribe así:
+
+1. **Comillas inglesas (`" "`)** para **los diálogos**.
+   `"Hesús."`
+
+2. **Comillas latinas (`« »`)** para **todo lo demás**: los incisos de narración dentro de una frase dicha, y las frases citadas dentro de la narración.
+   `"Residencia «dije». Mi madre trabaja aquí."`
+
+3. **Etiqueta final con coma** —puntuación clásica, sin comillas en la etiqueta—:
+   `"¿Traes todo?", dijo.`
+   `"Voy bien", le contesté.`
+
+4. **Cero rayas largas en el cuerpo de los capítulos.** Ni para diálogos ni para nada.
+
+### Cómo se aplicó
+
+Se convirtieron los doce capítulos: **1.346 rayas en 995 líneas**.
+
+| Patrón | Líneas | Antes | Ahora |
+|---|---|---|---|
+| Diálogo solo | 737 | `—Hesús.` | `"Hesús."` |
+| Diálogo + quien lo dice | 165 | `—¿Traes todo? —dijo.` | `"¿Traes todo?", dijo.` |
+| Diálogo interrumpido | 93 | `—Residencia —dije—. Mi madre trabaja aquí.` | `"Residencia «dije». Mi madre trabaja aquí."` |
+
+Las **13** comillas latinas que ya existían en la narración —frases citadas como `«¿y la traes desde México?»`— se conservaron intactas.
+
+**Los conteos de palabras quedaron idénticos**: 4.311 / 4.581 / 5.415 / 5.378 / 4.420 / 5.443 / 5.145 / 5.234 / 6.514 / 5.971 / 8.076 / 4.708.
+
+**NOTA:** esta regla sustituye la de «raya larga solamente para los diálogos». El capítulo 13 y los que siguen **ya nacen** con comillas.
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:

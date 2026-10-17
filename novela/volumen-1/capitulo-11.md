@@ -14,11 +14,11 @@ Lo traía desde el sábado por la mañana, desde las nueve y cuarenta, cuando me
 
 Y lo traía y no lo dije.
 
-—¿Traes todo? —dijo.
+"¿Traes todo?", dijo.
 
 Y se levantó cuando me vio, y se me quedó viendo la bolsa de la ropa colgada del respaldo de la silla.
 
-—Traigo todo.
+"Traigo todo."
 
 Y nos subimos al tren.
 
@@ -38,27 +38,27 @@ Me enseñaba los disfraces de los demás con el dedo, ampliándolos, y me decía
 
 Y en algún momento, sin dejar de ver la pantalla, dijo:
 
-—Hoy me van a tomar fotos.
+"Hoy me van a tomar fotos."
 
 Y lo dijo sin presumir. Lo dijo como quien dice hoy va a llover.
 
 Y yo dije:
 
-—Sí.
+"Sí."
 
 Y ella dijo:
 
-—Muchas.
+"Muchas."
 
 Y se quedó viendo la pantalla un momento más, y luego apagó el celular y se lo guardó, y se quedó viendo el piso del tren con las manos en la mochila.
 
 Y dijo:
 
-—Es que nunca me habían tomado fotos así.
+"Es que nunca me habían tomado fotos así."
 
 Y luego, sin levantar la cara:
 
-—O sea, sí, pero de las mías. No de éstas.
+"O sea, sí, pero de las mías. No de éstas."
 
 Y no dijo nada más, y yo tampoco.
 
@@ -96,7 +96,7 @@ Y no dijo nada durante como veinte segundos, que para Marin es un récord.
 
 Y luego dijo:
 
-—Ay, cabrón.
+"Ay, cabrón."
 
 Y se rio. Se rio con la cara entera, echando la cabeza para atrás, y se acomodó la bolsa en el hombro, y caminó.
 
@@ -128,13 +128,13 @@ Y nos quedamos viendo los dos, con la bolsa entre los dos.
 
 Y ella dijo:
 
-—Media hora.
+"Media hora."
 
-—Media hora.
+"Media hora."
 
-—¿Dónde te quedas?
+"¿Dónde te quedas?"
 
-—Donde me dejaron quedarme.
+"Donde me dejaron quedarme."
 
 Y se rio, y se metió, y la puerta se cerró.
 
@@ -182,7 +182,7 @@ Y se le prendió la cara entera, y se le olvidó todo: se le olvidó caminar des
 
 Y dijo:
 
-—¿Ves? ¿Ves?
+"¿Ves? ¿Ves?"
 
 Y yo la vi.
 
@@ -200,11 +200,11 @@ Y me dio una cosa en el pecho que no era orgullo. El orgullo es una cosa que se 
 
 Y ella no lo sabía todavía.
 
-—¿Ves? —dijo otra vez.
+"¿Ves?", dijo otra vez.
 
 Y yo dije:
 
-—Sí.
+"Sí."
 
 Y se me quebró la voz en una sola sílaba.
 
@@ -212,11 +212,11 @@ Y ella se agachó. Se agachó enfrente de mí, con la falda de Shizuku y las bot
 
 Y dijo:
 
-—Ya sé que no puedes estar de pie seis horas.
+"Ya sé que no puedes estar de pie seis horas."
 
 Y luego:
 
-—Pero hoy no me digas nada triste. Hoy no.
+"Pero hoy no me digas nada triste. Hoy no."
 
 Y yo le dije que no.
 
@@ -270,19 +270,19 @@ Y dio la vuelta alrededor de Marin. Una vuelta completa.
 
 Y dijo:
 
-—El ruedo está bien.
+"El ruedo está bien."
 
 Y Marin se quedó viendo.
 
 Y Juju siguió:
 
-—Casi nadie lo deja bien. Se lo marcan con la chava descalza y luego la muchacha se pone tacones y se les sube cinco centímetros y se les ve todo el zapato. Éste está marcado con bota.
+"Casi nadie lo deja bien. Se lo marcan con la chava descalza y luego la muchacha se pone tacones y se les sube cinco centímetros y se les ve todo el zapato. Éste está marcado con bota."
 
 Y se agachó. Se agachó enfrente de Marin y le tocó el ruedo con dos dedos, sin permiso, como quien toca una tela en una tienda.
 
 Y dijo:
 
-—¿Quién te lo hizo?
+"¿Quién te lo hizo?"
 
 Y Marin me vio.
 
@@ -290,7 +290,7 @@ Y me vio con una cara que yo no le conocía, y que era la cara de alguien que es
 
 Y dijo:
 
-—Él.
+"Él."
 
 Y Juju me vio.
 
@@ -300,17 +300,17 @@ Y se quedó callada como tres segundos.
 
 Y luego dijo:
 
-—¿Haces encargos?
+"¿Haces encargos?"
 
 Y Marin se rio antes de que yo pudiera abrir la boca. Se rio fuerte, con la cabeza para atrás, y le puso una mano en el brazo a Juju.
 
-—No —dijo—. Él no hace encargos. Él hace esto.
+"No «dijo». Él no hace encargos. Él hace esto."
 
 Y yo me quedé viendo las dos, y no dije nada, y se me quedó el cuerpo frío.
 
 Y Juju asintió, una vez, despacio, y dijo:
 
-—Entonces qué suerte tienes.
+"Entonces qué suerte tienes."
 
 Y se fue con su hermana para la zona de fotos, y a la hermana se le quedó viendo la varita de Marin y Marin se la enseñó, y se dijeron dos cosas más que yo no oí.
 
@@ -318,19 +318,19 @@ Y cuando se fueron, Marin se dejó caer en su banquita, ahí mismo, en el piso, 
 
 Y dijo:
 
-—Me dijo que el ruedo está bien.
+"Me dijo que el ruedo está bien."
 
-—Ya oí.
+"Ya oí."
 
-—Me lo dijo Juju.
+"Me lo dijo Juju."
 
-—Ya oí.
+"Ya oí."
 
 Y se quedó viendo enfrente, con las manos en las rodillas, y con una sonrisa que no le cabía en la cara.
 
 Y dijo, sin verme:
 
-—Gracias.
+"Gracias."
 
 ---
 
@@ -350,15 +350,15 @@ Y vi que esa vez se quedó pensando.
 
 Y le dije:
 
-—Vete a las fotos.
+"Vete a las fotos."
 
 Y ella dijo:
 
-—Luego.
+"Luego."
 
-—Marin.
+"Marin."
 
-—Luego —dijo—. Tú eres el que dice que no me apure.
+"Luego «dijo». Tú eres el que dice que no me apure."
 
 Y se quedó conmigo.
 
@@ -380,13 +380,13 @@ Y se me paró enfrente, en el pasillo, con la gente pasando por los dos lados, y
 
 Y dijo:
 
-—Arréglalo.
+"Arréglalo."
 
 Y yo me quedé viendo.
 
 Y ella dijo:
 
-—Aquí. No te hagas.
+"Aquí. No te hagas."
 
 Y no me estaba haciendo. Lo que me pasaba era que para arreglarlo tenía que meter los dedos por dentro de la cintura de su falda, por debajo de la camisa, y encontrar la cinta atorada, y jalarla despacio para que no se rompiera, con la yema de los dedos contra su cadera, en un pasillo de Tokyo Big Sight, con una muchacha de dieciséis años parada enfrente de mí vestida de profesora.
 
@@ -394,7 +394,7 @@ Y se lo dije.
 
 Y ella dijo:
 
-—Pues cierra los ojos.
+"Pues cierra los ojos."
 
 Y se dio la vuelta.
 
@@ -402,7 +402,7 @@ Y se puso de espaldas a mí, ahí, en el pasillo, con la gente pasando, y se lev
 
 Y habló por encima del hombro, con la voz de siempre:
 
-—Nomás no me tientes, ¿no? Y apúrate, que se me está haciendo tarde.
+"Nomás no me tientes, ¿no? Y apúrate, que se me está haciendo tarde."
 
 Y yo metí la mano.
 
@@ -420,7 +420,7 @@ Y ella se acomodó la gabardina y se dio la vuelta, y se pasó las dos manos por
 
 Y me dijo:
 
-—Listo.
+"Listo."
 
 Y se fue caminando por el pasillo.
 
@@ -462,13 +462,13 @@ Venía sin la peluca, con el vestido rosa colgado del brazo y con la hermana atr
 
 Y le dijo a Marin:
 
-—Vamos a hacer una sesión. Las dos. De Princesa de las Flores.
+"Vamos a hacer una sesión. Las dos. De Princesa de las Flores."
 
 Y Marin se quedó parada en el pasillo con la boca abierta.
 
 Y Juju siguió:
 
-—Traigo a mi hermana, y traje el otro vestido, y me sobra una hora antes de que cierren el vestidor. Y tú ya estás vestida de algo que pega. No importa que no sea el mismo personaje: en la sesión se ve bien.
+"Traigo a mi hermana, y traje el otro vestido, y me sobra una hora antes de que cierren el vestidor. Y tú ya estás vestida de algo que pega. No importa que no sea el mismo personaje: en la sesión se ve bien."
 
 Y Marin me vio.
 
@@ -476,21 +476,21 @@ Y se me quedó viendo con los ojos grandísimos, y con las dos manos en la caja 
 
 Y yo dije:
 
-—Ve.
+"Ve."
 
 Y ella dijo:
 
-—No.
+"No."
 
 Y yo dije:
 
-—Marin, ve.
+"Marin, ve."
 
 Y ella dijo que no con la cabeza, una vez, y se quedó ahí parada.
 
 Y Juju se quedó viendo a los dos, y entendió. Y no dijo nada de lo que dice la gente, ni se ofreció a esperar, ni dijo que no había prisa. Se quedó viendo, y luego dijo:
 
-—Media hora. Te espero en la zona de fotos de la entrada. Si a las cuatro y media no llegaste, la hago sola.
+"Media hora. Te espero en la zona de fotos de la entrada. Si a las cuatro y media no llegaste, la hago sola."
 
 Y se fue.
 
@@ -498,19 +498,19 @@ Y Marin se quedó parada enfrente de mí, en el pasillo, con la caja de la peluc
 
 Y dijo:
 
-—No te voy a dejar.
+"No te voy a dejar."
 
 Y yo dije:
 
-—Veinte minutos. Son veinte minutos. Vas, te tomas las fotos y vuelves.
+"Veinte minutos. Son veinte minutos. Vas, te tomas las fotos y vuelves."
 
 Y ella dijo:
 
-—No es por los veinte minutos.
+"No es por los veinte minutos."
 
 Y no lo era. Y los dos lo sabíamos. Y por eso dolió lo que dije después:
 
-—Ve —dije—. Es Juju.
+"Ve «dije». Es Juju."
 
 Y ahí sí se quedó callada.
 
@@ -518,7 +518,7 @@ Y se quedó viendo el piso del pasillo, con la caja de la peluca en las manos, y
 
 Y dijo:
 
-—Media hora.
+"Media hora."
 
 Y se fue.
 
@@ -610,15 +610,15 @@ Y Marin se agachó. Se agachó enfrente de mí, con la falda de Shizuku y las bo
 
 Y dijo:
 
-—¿Cuánto?
+"¿Cuánto?"
 
 Y yo dije:
 
-—No sé.
+"No sé."
 
 Y ella dijo:
 
-—¿Desde cuándo?
+"¿Desde cuándo?"
 
 Y yo no dije nada.
 
@@ -626,7 +626,7 @@ Y ella me vio la cara, y vio lo que yo estaba pensando, y se quedó quieta con l
 
 Y dijo:
 
-—Te bajaste a propósito.
+"Te bajaste a propósito."
 
 Y lo dijo sin preguntar.
 
@@ -640,17 +640,17 @@ Y se quedó ahí agachada, con las manos en mi cara, respirando.
 
 Y al cabo de un rato dijo, sin abrir los ojos:
 
-—El sábado.
+"El sábado."
 
 Y yo no dije nada. Y no necesitaba decir nada, porque ella ya lo sabía, y porque se lo estaba diciendo ella sola.
 
 Y dijo:
 
-—El sábado lo probaste.
+"El sábado lo probaste."
 
 Y se quedó callada otro poco, y luego abrió los ojos, y me vio, y dijo:
 
-—Y no me lo dijiste.
+"Y no me lo dijiste."
 
 ---
 
@@ -672,49 +672,49 @@ Y cuando habló, no dijo lo que yo esperaba. No dijo que por qué. No dijo que c
 
 Dijo:
 
-—Ésa es la mentira.
+"Ésa es la mentira."
 
 Y se quedó callada, y luego dijo:
 
-—La otra fue la de la tarea. Ésa no me la dijiste a mí. Ésa se la dijiste a tu mamá.
+"La otra fue la de la tarea. Ésa no me la dijiste a mí. Ésa se la dijiste a tu mamá."
 
 Y yo me quedé viendo.
 
 Y ella siguió:
 
-—A mí me mentiste con ésta. Y ésta es peor, porque la otra era para que no te vieran caer, y ésta era para que yo te dejara venir.
+"A mí me mentiste con ésta. Y ésta es peor, porque la otra era para que no te vieran caer, y ésta era para que yo te dejara venir."
 
 Y se quedó ahí, agachada, con la peluca morada y las botas negras y las manos en las rodillas.
 
 Y dijo:
 
-—Me dejaste venir sabiendo que iba a pasar esto.
+"Me dejaste venir sabiendo que iba a pasar esto."
 
 Y yo no lo pude negar. Y no quise negarlo, porque era verdad y porque llevaba cinco días sabiendo que era verdad.
 
 Y dije:
 
-—Sí.
+"Sí."
 
 Y ella se quedó un momento más, y luego se enderezó, y se quedó parada enfrente de mí, y se acomodó el fleco con dos dedos.
 
 Y dijo:
 
-—Ahorita no.
+"Ahorita no."
 
 Y yo dije:
 
-—¿Cómo?
+"¿Cómo?"
 
 Y ella dijo:
 
-—Que ahorita no —dijo—. Que el vestidor cierra, y que todavía traigo esto puesto, y que no me lo puedo quitar en el baño porque está prohibido. Que ahorita no porque si lo hablamos ahorita te voy a decir cosas que no quiero decirte.
+"Que ahorita no «dijo». Que el vestidor cierra, y que todavía traigo esto puesto, y que no me lo puedo quitar en el baño porque está prohibido. Que ahorita no porque si lo hablamos ahorita te voy a decir cosas que no quiero decirte."
 
 Y se agachó otra vez, y me puso la mano en el brazo, y apretó.
 
 Y dijo:
 
-—Ahorita déjame arreglar esto.
+"Ahorita déjame arreglar esto."
 
 ---
 
@@ -732,7 +732,7 @@ Y me quedé sentado en mi silla, en el pasillo, con la camisa pegada y las manos
 
 Y dijo:
 
-—Vente conmigo.
+"Vente conmigo."
 
 Y me fui con ella.
 
@@ -750,7 +750,7 @@ Y se me quedó viendo.
 
 Y dijo:
 
-—Ya.
+"Ya."
 
 ---
 
@@ -766,23 +766,23 @@ Y nos subimos al tren, y el tren iba vacío, y nos sentamos en los dos lugares d
 
 Y a la media hora, sin voltear, dijo:
 
-—Hoy me tomaron como doscientas fotos.
+"Hoy me tomaron como doscientas fotos."
 
 Y yo dije:
 
-—¿Cuántas?
+"¿Cuántas?"
 
 Y ella dijo:
 
-—No sé. Muchas. Juju dice que su hermana sola me tomó como cien.
+"No sé. Muchas. Juju dice que su hermana sola me tomó como cien."
 
 Y se quedó callada, y luego dijo:
 
-—Y estuvo bien.
+"Y estuvo bien."
 
 Y yo dije:
 
-—Me da gusto.
+"Me da gusto."
 
 Y ella volteó a verme.
 
@@ -790,17 +790,17 @@ Y me vio con la cara lavada y el cabello recogido, sin la peluca y sin las botas
 
 Y dijo:
 
-—No te hagas.
+"No te hagas."
 
 Y yo no dije nada.
 
 Y ella se quedó viendo la ventana otra vez, y se quedó callada, y luego dijo, con una voz chiquita:
 
-—Me gustó muchísimo.
+"Me gustó muchísimo."
 
 Y después de un rato:
 
-—Y me dolió.
+"Y me dolió."
 
 Y yo me quedé viendo.
 
@@ -808,39 +808,39 @@ Y ella se volteó, y me vio de frente, y tenía los ojos brillosos y la cara sec
 
 Y dijo:
 
-—Las dos cosas al mismo tiempo. Todo el día. Cada vez que alguien me pedía una foto yo me acordaba de ti en el piso.
+"Las dos cosas al mismo tiempo. Todo el día. Cada vez que alguien me pedía una foto yo me acordaba de ti en el piso."
 
 Y se quedó callada.
 
 Y dijo:
 
-—Y cada vez que me acordaba, me gustaba más.
+"Y cada vez que me acordaba, me gustaba más."
 
 Y se quedó viendo sus propias manos, que traía en la mochila.
 
 Y dijo:
 
-—Eso está mal, ¿verdad?
+"Eso está mal, ¿verdad?"
 
 Y yo dije:
 
-—No.
+"No."
 
 Y ella dijo:
 
-—Sí está mal.
+"Sí está mal."
 
 Y se quedó callada otra vez, y el tren se fue por el puente, y se le prendió el reflejo de ella en el vidrio: la muchacha de la gabardina negra, encima de la chava del uniforme, las dos en el mismo sitio.
 
 Y dijo:
 
-—Bueno.
+"Bueno."
 
 Y cuando dijo bueno, yo supe.
 
 Y se quedó callada, y se quedó armando la cosa, y la armó en voz alta, que es como arma ella las cosas:
 
-—Tú no me puedes coser otro.
+"Tú no me puedes coser otro."
 
 Y no lo preguntó.
 
@@ -848,13 +848,13 @@ Y yo me quedé con la boca abierta y no dije nada, porque no esperaba que lo dij
 
 Y ella siguió:
 
-—Porque cada disfraz es un evento. Y cada evento es hoy. Y hoy me dolió. Y tú lo sabías desde el sábado y me dejaste venir igual. Y si lo vuelves a hacer, yo te lo voy a dejar hacer, porque soy así. Y entonces nos vamos a pasar la vida así.
+"Porque cada disfraz es un evento. Y cada evento es hoy. Y hoy me dolió. Y tú lo sabías desde el sábado y me dejaste venir igual. Y si lo vuelves a hacer, yo te lo voy a dejar hacer, porque soy así. Y entonces nos vamos a pasar la vida así."
 
 Y me vio.
 
 Y dijo:
 
-—¿Verdad?
+"¿Verdad?"
 
 Y la verdad era que sí.
 
@@ -862,23 +862,23 @@ Y yo no quería decir que sí, y me salió igual, porque con Marin no se puede m
 
 Y dije:
 
-—Verdad.
+"Verdad."
 
 Y ella asintió, una vez, despacio, y se quedó viendo la ventana.
 
 Y dijo:
 
-—Bueno.
+"Bueno."
 
 Y luego dijo:
 
-—Pero tú no me dijiste que no me ibas a coser nunca. Eso lo dije yo.
+"Pero tú no me dijiste que no me ibas a coser nunca. Eso lo dije yo."
 
 Y yo me quedé viendo.
 
 Y ella se volteó, y me vio, y dijo:
 
-—Así que dilo tú. Si lo vas a decir, dilo tú.
+"Así que dilo tú. Si lo vas a decir, dilo tú."
 
 ---
 
@@ -896,11 +896,11 @@ Y lo dije.
 
 Y lo dije viendo la ventana del tren, con la cara de ella reflejada encima de la mía, y con el sol ya metido, y con el tren yendo para Omiya:
 
-—No te voy a coser nunca más.
+"No te voy a coser nunca más."
 
 Y ella dijo:
 
-—Bueno.
+"Bueno."
 
 Y se quedó callada.
 
@@ -916,27 +916,27 @@ Y me vio.
 
 Y dijo:
 
-—El lunes me enseñas a coser.
+"El lunes me enseñas a coser."
 
 Y yo me quedé viendo.
 
 Y ella dijo:
 
-—Me lo prometiste.
+"Me lo prometiste."
 
 Y yo dije:
 
-—Marin.
+"Marin."
 
 Y ella dijo:
 
-—Me lo prometiste el miércoles. Dijiste que el lunes.
+"Me lo prometiste el miércoles. Dijiste que el lunes."
 
 Y se quedó ahí parada, con la bolsa de viaje colgada del hombro y la mochila en la mano, en el andén de Omiya, a las ocho de la noche de un domingo.
 
 Y dijo:
 
-—Ya no me vas a coser. Enséñame a coserme.
+"Ya no me vas a coser. Enséñame a coserme."
 
 Y se quedó esperando.
 
@@ -950,7 +950,7 @@ Y no le dije que no.
 
 Y ella se quedó ahí parada un momento más, y luego se acomodó la mochila, y dijo:
 
-—Bueno.
+"Bueno."
 
 Y se fue.
 

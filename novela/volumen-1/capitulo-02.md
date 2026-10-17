@@ -20,13 +20,13 @@ Me vestí despacio. Elegante, como siempre, aunque fuera a un taller y no a ning
 
 Me vestí sentado. Eso toma más tiempo y lo sé desde hace dieciséis meses, así que me levanté cuarenta minutos antes de lo que habría necesitado antes del accidente. Es el precio. Lo pago sin pensarlo, igual que pago el de la leche sin lactosa y el de no poder correr nunca más por un aeropuerto.
 
-—¿Listo? —gritó mi mamá desde la cocina.
+"¿Listo?", gritó mi mamá desde la cocina.
 
-—¡Casi!
+"¡Casi!"
 
-—Te espero en la estación.
+"Te espero en la estación."
 
-—¡Voy!
+"¡Voy!"
 
 Me quedé un segundo más frente a la camiseta, y salí.
 
@@ -74,7 +74,7 @@ Me quedé viendo a una de ellas más tiempo del que debía, y ella volteó, me v
 
 No me sonrió con lástima. Me sonrió como se le sonríe a alguien que está mirando.
 
-—Disculpe —me dijeron a mis espaldas.
+"Disculpe", me dijeron a mis espaldas.
 
 Me hice a un lado. Un señor de traje pasó con su maletín, sin mirarme, y siguió de largo.
 
@@ -100,17 +100,17 @@ La escalera era de mármol, ancha, de treinta y ocho escalones bien contados, co
 
 Mi mamá me estaba esperando en el descanso, con cara de quién sabe qué.
 
-—Te juro que no me fijé —dijo.
+"Te juro que no me fijé", dijo.
 
-—Ya sé.
+"Ya sé."
 
-—Mañana mismo hablo con el administrador.
+"Mañana mismo hablo con el administrador."
 
-—Mamá.
+"Mamá."
 
-—¿Qué?
+"¿Qué?"
 
-—Que ya sé.
+"Que ya sé."
 
 Se quedó callada un segundo, y después se rio, corto, y me abrió la puerta.
 
@@ -132,13 +132,13 @@ Lo vi en dos segundos. No necesité medirlo.
 
 Mi mamá empezó a presentarme.
 
-—Ésta es Aiko, que lleva los patrones. Él es Yamada, que corta. Ella es Rina, la de las pruebas. Ése de allá es Seki, y la del fondo es Mika, que hace los acabados a mano.
+"Ésta es Aiko, que lleva los patrones. Él es Yamada, que corta. Ella es Rina, la de las pruebas. Ése de allá es Seki, y la del fondo es Mika, que hace los acabados a mano."
 
 Cinco personas me hicieron una reverencia corta, al mismo tiempo, como un solo movimiento.
 
-—Mucho gusto —dije—. Soy Jesús.
+"Mucho gusto «dije». Soy Jesús."
 
-—Hesús —repitieron los cinco, al mismo tiempo.
+"Hesús", repitieron los cinco, al mismo tiempo.
 
 Y ahí estaba otra vez.
 
@@ -146,7 +146,7 @@ En japonés no existe la jota. Mi nombre, que en Guadalajara es una cosa áspera
 
 Es raro, pero no es malo. Es mi nombre pronunciado por gente que no me conoce, y en ese momento decidí que no los iba a corregir nunca.
 
-—Hesús-san —dijo Aiko, y volvió a su mesa.
+"Hesús-san", dijo Aiko, y volvió a su mesa.
 
 Los cinco volvieron a lo suyo. Nadie me preguntó nada de la silla. Nadie me ofreció una silla distinta, ni me preguntó si necesitaba ayuda, ni me miró dos veces. Trabajan, y yo era el hijo de la jefa, y el hijo de la jefa no es asunto de nadie.
 
@@ -168,7 +168,7 @@ No era la talla. Era otra cosa. Le tiraba del hombro derecho, le hacía una arru
 
 Mika le estaba poniendo alfileres en el costado, ya resignada.
 
-—Ya casi —decía—. Aguanta tantito.
+"Ya casi «decía». Aguanta tantito."
 
 Yo me acerqué.
 
@@ -180,31 +180,31 @@ No era la talla, ni era la costura, ni era la tela. Era que el patrón estaba tr
 
 Es lo mismo que le pasa a la gente que compra ropa de catálogo y luego culpa a su cuerpo.
 
-—Perdón —dije.
+"Perdón", dije.
 
 Los tres me vieron.
 
-—El problema no es el costado —dije, en mi japonés de diccionario—. Es el hombro. Y la cintura está seis centímetros arriba.
+"El problema no es el costado «dije, en mi japonés de diccionario». Es el hombro. Y la cintura está seis centímetros arriba."
 
 Mika parpadeó.
 
-—¿Cómo?
+"¿Cómo?"
 
-—Tiene el torso largo. El patrón está hecho para un torso corto. Si le mueven el costado, le va a seguir tirando, y la arruga de la axila se le va a ir a la espalda.
+"Tiene el torso largo. El patrón está hecho para un torso corto. Si le mueven el costado, le va a seguir tirando, y la arruga de la axila se le va a ir a la espalda."
 
 Silencio.
 
 La modelo me vio por el espejo, con los ojos muy abiertos, y después se vio el hombro, y después se tocó la axila, por encima de la tela, justo donde yo había dicho.
 
-—Sí —dijo en japonés—. Aquí me jala.
+"Sí «dijo en japonés». Aquí me jala."
 
 Mika se volvió hacia mí.
 
-—¿Y qué harías?
+"¿Y qué harías?"
 
-—Subir el hombro un centímetro, bajar la cintura seis, y dejar el costado como está. Con tres alfileres se ve.
+"Subir el hombro un centímetro, bajar la cintura seis, y dejar el costado como está. Con tres alfileres se ve."
 
-—No traigo alfileres.
+"No traigo alfileres."
 
 Yo saqué los míos de la bolsa del reposabrazos. Los traigo desde los trece años, en un estuche de lata que fue de mi papá, con diez alfileres de cabeza de vidrio y dos agujas.
 
@@ -222,35 +222,35 @@ El vestido se le acomodó encima como si lo hubieran hecho para ella, que era ex
 
 La chava se vio en el espejo y se quedó callada tres segundos, que en el mundo de la ropa es una eternidad.
 
-—Nunca me había quedado bien a la primera —dijo.
+"Nunca me había quedado bien a la primera", dijo.
 
 Y luego, en un japonés rapidísimo que yo apenas seguí:
 
-—Siempre me dicen que es mi cuerpo. Que soy muy alta, que tengo los hombros anchos, que me lo van a arreglar con pins y que en las fotos no se va a notar.
+"Siempre me dicen que es mi cuerpo. Que soy muy alta, que tengo los hombros anchos, que me lo van a arreglar con pins y que en las fotos no se va a notar."
 
 Mika se quedó viendo el piso.
 
-—No es tu cuerpo —le dije—. Es el patrón.
+"No es tu cuerpo «le dije». Es el patrón."
 
 No lo dije con rabia. Lo dije como se dice una medida: es un metro con diez, es dos horas con cuarenta, es el patrón y no tu cuerpo.
 
 La chava se rio, y se le soltaron los hombros, y yo vi cómo se le acomodaba todo el cuerpo de golpe, como si hubiera estado aguantando el aire desde que entró al taller.
 
-—Gracias —dijo—. De verdad. Gracias.
+"Gracias «dijo». De verdad. Gracias."
 
 Me dio las gracias a mí, y se fue al vestidor caminando distinto.
 
 Mika recogió los alfileres que habían quedado en la tarima y me los devolvió.
 
-—Eres el hijo de Sofía —dijo.
+"Eres el hijo de Sofía", dijo.
 
-—Sí.
+"Sí."
 
-—Yo llevo once años haciendo esto.
+"Yo llevo once años haciendo esto."
 
-—Ya sé.
+"Ya sé."
 
-—Nunca se me hubiera ocurrido mirarle el hombro.
+"Nunca se me hubiera ocurrido mirarle el hombro."
 
 No supe qué decir. Le dije gracias, que es lo único que se puede decir cuando alguien te dice una cosa así, y me quedé ahí, con las manos en las ruedas, sintiendo un calor raro en el pecho que no era orgullo exactamente.
 
@@ -264,61 +264,61 @@ Rodé hasta allá y me paré frente a los rollos.
 
 Los conté. Catorce en las repisas de arriba. Catorce telas que yo no podía alcanzar sin levantarme, y que no podía bajar sin ayuda, y que no podía cargar ni en un día bueno.
 
-—¿En qué piensas? —dijo mi mamá.
+"¿En qué piensas?", dijo mi mamá.
 
-—En nada.
+"En nada."
 
-—Jesús.
+"Jesús."
 
 Me volteé a verla.
 
-—En que el taller no está hecho para mí —dije.
+"En que el taller no está hecho para mí", dije.
 
 Ella se quedó callada.
 
 No se defendió, no dijo que exageraba, no dijo que lo iba a arreglar mañana. Sofía Hernández no hace esas cosas tampoco. Se quedó viendo los rollos de arriba, con las manos metidas en los bolsillos del pantalón, y vi cómo se le movía la mandíbula, que es lo único que se le mueve cuando está pensando de verdad.
 
-—Era así antes de ti —dijo al final.
+"Era así antes de ti", dijo al final.
 
-—Ya lo sé.
+"Ya lo sé."
 
-—Y antes del accidente tú no estabas en silla, así que nunca fue un problema para nadie.
+"Y antes del accidente tú no estabas en silla, así que nunca fue un problema para nadie."
 
-—No es un problema. Es un dato.
+"No es un problema. Es un dato."
 
-—¿Cuál es la diferencia?
+"¿Cuál es la diferencia?"
 
-—Que el problema lo tienes que resolver tú. El dato nada más lo tienes que saber.
+"Que el problema lo tienes que resolver tú. El dato nada más lo tienes que saber."
 
 Se rio otra vez, y esta vez fue una risa entera, de las que suelta sin querer.
 
-—Me das miedo cuando tienes razón —dijo.
+"Me das miedo cuando tienes razón", dijo.
 
-—Debería.
+"Debería."
 
 Se quedó un momento más, y luego se agachó, sacó un rollo de la repisa de en medio, y lo puso en mis piernas. Era una lana fría, gris, con un brillo que se movía cuando la movías.
 
-—Toca —dijo.
+"Toca", dijo.
 
 La toqué.
 
-—¿Qué es?
+"¿Qué es?"
 
-—Lana fría. Se llama así y no tiene nada de fría. Viene de una fábrica en Aichi y cuesta como tres veces lo que debería.
+"Lana fría. Se llama así y no tiene nada de fría. Viene de una fábrica en Aichi y cuesta como tres veces lo que debería."
 
-—Cae bien.
+"Cae bien."
 
-—Cae bien porque pesa. Mira.
+"Cae bien porque pesa. Mira."
 
 La dejó caer desde la mesa de corte y la tela se fue al piso como un líquido, sin una sola arruga, y se quedó ahí, hecha un charco gris.
 
-—Eso es lo que hay que saber hacer —dijo mi mamá—. Saber qué va a hacer la tela antes de cortarla.
+"Eso es lo que hay que saber hacer «dijo mi mamá». Saber qué va a hacer la tela antes de cortarla."
 
-—Eso lo aprendí de ti.
+"Eso lo aprendí de ti."
 
 Me vio. Un segundo entero, sin decir nada, y luego habló.
 
-—Un día esto es tuyo.
+"Un día esto es tuyo."
 
 Ahí estaba otra vez. La frase de siempre, la que he oído desde que tengo memoria, la que aparece en cada cumpleaños y en cada cena de Navidad y en cada vez que ella se queda viendo un vestido terminado.
 
@@ -326,7 +326,7 @@ Un día esto es tuyo.
 
 Pero esta vez le añadió algo, y creo que ni siquiera se dio cuenta de que lo estaba diciendo.
 
-—Un día esto es tuyo —dijo—, y ese día le pones el nombre que quieras.
+"Un día esto es tuyo «dijo», y ese día le pones el nombre que quieras."
 
 Se me quedó viendo el pecho, no sé si a propósito, y en ese momento los dos estábamos pensando exactamente lo mismo, mirando la misma cosa.
 
@@ -346,7 +346,7 @@ Y me dio un susto horrible pensarlo, porque era la primera vez que lo pensaba en
 
 Guardo las dos cosas. Las dos caben.
 
-—Vente —dijo mi mamá, ya caminando hacia la puerta—. Te enseño el resto.
+"Vente «dijo mi mamá, ya caminando hacia la puerta». Te enseño el resto."
 
 Me enseñó el resto.
 
@@ -414,19 +414,19 @@ Era una señora chaparrita, de unos setenta, con el cabello blanco corto y una b
 
 Todo en el mismo segundo. Como yo había visto el hombro del vestido.
 
-—Las escaleras —dijo, en japonés.
+"Las escaleras", dijo, en japonés.
 
-—Sí —dije.
+"Sí", dije.
 
 Se quedó callada un momento, y luego se agachó, puso su bolsa en el suelo, y agarró las dos manijas de atrás de mi silla.
 
 Sin preguntar.
 
-—Espere —le dije—. Peso mucho.
+"Espere «le dije». Peso mucho."
 
 Me vio, con una cara que no era de lástima, ni de amabilidad, ni de nada de eso. Era la cara de quien te dice que ya se te hizo tarde.
 
-—Bajamos —dijo.
+"Bajamos", dijo.
 
 Y bajamos.
 

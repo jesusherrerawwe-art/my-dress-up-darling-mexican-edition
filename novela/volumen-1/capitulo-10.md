@@ -30,13 +30,13 @@ Se quedó viéndola un buen rato, sin decir nada, con la bolsa en la mano.
 
 Y luego dijo:
 
-—Ya está.
+"Ya está."
 
-—Ya está.
+"Ya está."
 
-—¿Ya está?
+"¿Ya está?"
 
-—Ya está. Tráete las botas.
+"Ya está. Tráete las botas."
 
 Y se las trajo.
 
@@ -88,7 +88,7 @@ Y lo supe. Y ella lo supo. Y ninguno dijo nada.
 
 Y entonces, con la falda ya puesta y con mis dedos todavía en su cadera, Marin dijo:
 
-—¿Andabas con Nowa?
+"¿Andabas con Nowa?"
 
 ---
 
@@ -98,21 +98,21 @@ No me la cerró la pregunta: me la cerró el momento. Porque Marin no pregunta. 
 
 Y lo hizo. Y lo hizo justo ahí, con la falda recién cerrada y con mi mano todavía en su cadera, porque Marin no sabe esperar el momento bueno: Marin dice las cosas cuando se le ocurren, y se le ocurren cuando se le ocurren, y ésa es la razón por la que uno nunca está listo con ella.
 
-—No —dije.
+"No", dije.
 
 Me aparté. Me fui para atrás con la silla, dos giros, y me quedé a un metro de ella, con las manos en las ruedas.
 
-—No andaba con Nowa —dije—. Nowa me llevó a un karaoke.
+"No andaba con Nowa «dije». Nowa me llevó a un karaoke."
 
-—Nowa te llevó.
+"Nowa te llevó."
 
-—Me llevó. No me preguntó. Me dijo que a las seis en la estación y que no era una pregunta.
+"Me llevó. No me preguntó. Me dijo que a las seis en la estación y que no era una pregunta."
 
-—¿Y fuiste.
+"¿Y fuiste."
 
-—Fui.
+"Fui."
 
-—Con la camiseta.
+"Con la camiseta."
 
 Y ahí estaba. Ahí estaba la cosa.
 
@@ -122,11 +122,11 @@ La de las Chivas. La que está colgada en la pared de mi cuarto y que ella vio e
 
 Y ese día me la puse. Y ella me vio. Y ese día era con Nowa.
 
-—Sí —dije—. Con la camiseta.
+"Sí «dije». Con la camiseta."
 
 Se quedó callada. Se llevó las dos manos a la cintura de la falda, por encima del cierre, y se quedó viéndome desde arriba, y no era una cara de enojo, y no era una cara de tristeza: era la cara quieta del que está armando una cosa con dos piezas que no embonan.
 
-—¿Y por qué te la pusiste? —dijo.
+"¿Y por qué te la pusiste?", dijo.
 
 Y la respuesta era larga. Y la respuesta era que no la elegí, que mi clóset son tres pantalones iguales y cinco camisas blancas y el uniforme, que la ropa que yo hago es para el cuerpo de otro, que la camiseta es la única prenda mía que no es una superficie que hay que cubrir, y que mientras me la estaba poniendo pensé hoy no cuenta.
 
@@ -136,15 +136,15 @@ Y la respuesta era que me la puse porque ese día importaba, y porque ese día i
 
 Y todo eso es la verdad, y todo eso dicho en voz alta suena exactamente igual que una mentira.
 
-—No la elegí —dije.
+"No la elegí", dije.
 
-—Todos eligen lo que se ponen.
+"Todos eligen lo que se ponen."
 
-—No yo. Yo me puse lo que había.
+"No yo. Yo me puse lo que había."
 
 Se quedó callada otro momento. Y luego dijo una cosa que no esperaba, y la dijo sin levantar la voz, y la dijo mirando el piso:
 
-—Yo te la vi puesta y pensé que nunca me la ibas a poner a mí.
+"Yo te la vi puesta y pensé que nunca me la ibas a poner a mí."
 
 Y se quedó ahí, parada en medio de mi cuarto, con la falda de Shizuku cerrada y las botas negras, diciendo eso, con la cara quieta.
 
@@ -156,7 +156,7 @@ Y me quedé callado. Y me quedé callado porque no tenía cómo decirle que no e
 
 Y entonces, sin saber muy bien por qué, me oí decir:
 
-—No puedo estar de pie seis horas.
+"No puedo estar de pie seis horas."
 
 Y se me salió. Se me salió como se sale el agua de una tina cuando se quita el tapón: no se sale porque uno la empuje, se sale porque ya no había dónde tenerla.
 
@@ -202,39 +202,39 @@ Y Marin no dijo ninguna cosa amable.
 
 Dijo:
 
-—¿Y por qué no me lo dijiste el miércoles?
+"¿Y por qué no me lo dijiste el miércoles?"
 
 Me quedé viéndola.
 
-—¿Cómo?
+"¿Cómo?"
 
-—Que por qué no me lo dijiste el miércoles —dijo—. El miércoles te pregunté que si ibas a ir y me dijiste que sí. Y el miércoles yo llevaba una semana sabiendo que algo andaba mal y no sabía qué. Y te lo pregunté, y me dijiste que sí, y yo me fui a mi casa y me quedé despierta hasta las tres pensando que ya no querías ir conmigo.
+"Que por qué no me lo dijiste el miércoles «dijo». El miércoles te pregunté que si ibas a ir y me dijiste que sí. Y el miércoles yo llevaba una semana sabiendo que algo andaba mal y no sabía qué. Y te lo pregunté, y me dijiste que sí, y yo me fui a mi casa y me quedé despierta hasta las tres pensando que ya no querías ir conmigo."
 
 Y se le quebró la voz en la última palabra, una sola vez, y se le compuso sola.
 
 Y siguió:
 
-—Y resulta que no era que no querías. Era que no podías. Y las dos cosas se ven igual desde afuera, nomás que una se arregla y la otra no. Y yo me pasé una semana creyendo la que no se arregla.
+"Y resulta que no era que no querías. Era que no podías. Y las dos cosas se ven igual desde afuera, nomás que una se arregla y la otra no. Y yo me pasé una semana creyendo la que no se arregla."
 
 Y se quedó ahí parada, con las manos en la cintura de la falda, respirando.
 
 Y yo no sabía qué decir. Y no sabía qué decir porque tenía razón, y porque la tenía desde antes de que yo supiera que la tenía, y porque ésa es la peor forma de tener la razón.
 
-—Perdón —dije.
+"Perdón", dije.
 
 Y ella hizo una cosa rarísima: se rio. Se rio una vez, corta, como un ladrido, sin ganas.
 
-—No me pidas perdón —dijo—. No me pidas perdón porque si me pides perdón ya no te lo puedo preguntar.
+"No me pidas perdón «dijo». No me pidas perdón porque si me pides perdón ya no te lo puedo preguntar."
 
-—¿Qué.
+"¿Qué."
 
-—Que cómo le hacemos.
+"Que cómo le hacemos."
 
 Y me quedé vacío. Me quedé con la boca abierta y con las manos en las ruedas de mi silla, en medio de mi cuarto, con la tarde entrando por la ventana, y con Marin Kitagawa parada en mi tapete con la falda de Shizuku puesta preguntándome que cómo le hacemos.
 
-—¿Cómo le hacemos? —dije.
+"¿Cómo le hacemos?", dije.
 
-—Pues sí —dijo—. Tú coses y yo sé de eventos. Tú no puedes estar de pie seis horas y yo sí sé en qué horas hay gente y en qué horas no, y dónde hay sombra, y por dónde se entra y por dónde no. Y tú no sabes nada de eso. Y yo no sé coser. Así que cómo le hacemos.
+"Pues sí «dijo». Tú coses y yo sé de eventos. Tú no puedes estar de pie seis horas y yo sí sé en qué horas hay gente y en qué horas no, y dónde hay sombra, y por dónde se entra y por dónde no. Y tú no sabes nada de eso. Y yo no sé coser. Así que cómo le hacemos."
 
 Y se sentó en el piso.
 
@@ -260,11 +260,11 @@ Y a las siete y media, cuando ya se iba, se levantó del tapete, se quitó la fa
 
 Y desde ahí abajo, sin mirarme, dijo:
 
-—El domingo me enseñas a coser.
+"El domingo me enseñas a coser."
 
-—El domingo es el evento.
+"El domingo es el evento."
 
-—El lunes, entonces. El lunes en la noche, después. Me enseñas a coser.
+"El lunes, entonces. El lunes en la noche, después. Me enseñas a coser."
 
 Y se fue.
 
@@ -280,7 +280,7 @@ Y raros porque el jueves en la noche yo me quedé en la cama despierto hasta las
 
 Y raros porque el viernes en la tarde, cuando salimos de la escuela, Marin me dijo:
 
-—Vamos por la peluca.
+"Vamos por la peluca."
 
 Y nos fuimos.
 
@@ -306,11 +306,11 @@ Estaba de espaldas, en el mostrador del fondo, con el mandil puesto, y con una c
 
 Y mi mamá estaba hablando con el de la tienda, que era un señor mayor con lentes y con un metro de sastre colgado del cuello:
 
-—No, si yo sé que esto es para pelucas —decía—. Yo lo que necesito es pelo para una muñeca. No es lo mismo, pero se parece.
+"No, si yo sé que esto es para pelucas «decía». Yo lo que necesito es pelo para una muñeca. No es lo mismo, pero se parece."
 
 Y el señor decía que sí con la cabeza, y mi mamá siguió:
 
-—Es una hina. Las hacemos en el taller. Y el pelo de las de antes era seda, pero la seda a los diez años se quiebra, y la clienta quiere que se lo pueda peinar su nieta. Así que ando buscando pelo de verdad, de éste, que se pueda lavar.
+"Es una hina. Las hacemos en el taller. Y el pelo de las de antes era seda, pero la seda a los diez años se quiebra, y la clienta quiere que se lo pueda peinar su nieta. Así que ando buscando pelo de verdad, de éste, que se pueda lavar."
 
 Y entonces se dio la vuelta.
 
@@ -320,39 +320,39 @@ Y se quedó con la caja en la mano, y me vio a mí, y vio a Marin parada junto a
 
 Y dijo:
 
-—Hesús.
+"Hesús."
 
 Y yo dije:
 
-—Mamá.
+"Mamá."
 
 Y Marin se volvió hacia mí con los ojos así de grandes, y luego se volvió hacia mi mamá, y entendió. Y se enderezó, y se acomodó el pelo con las dos manos, y se acercó, y se inclinó. Se inclinó completita, de las que se hacen en Japón, de las que a nadie le salen bien si no las aprendió de niña, y le salió perfecta.
 
 Y dijo:
 
-—Mucho gusto. Soy Kitagawa.
+"Mucho gusto. Soy Kitagawa."
 
 Y mi mamá la vio. La vio completa, como ve ella: la cabeza ladeada, buscando las costuras. Y le vio el pelo, que era castaño con las puntas teñidas de rubio y que se le estaba cayendo el tinte. Y le vio la bolsa de la peluca. Y le vio las uñas, que traía pintadas de un color que se le estaba descascarando.
 
 Y dijo:
 
-—Sofía.
+"Sofía."
 
 Y se quedaron las dos viendo quién era quién.
 
 Y entonces Marin cometió el error más grande de su vida, y lo cometió porque es Marin y porque Marin no sabe callarse:
 
-—¿Usted es la que le enseñó a coser?
+"¿Usted es la que le enseñó a coser?"
 
 Y mi mamá se quedó callada un segundo. Y luego dijo, y lo dijo en serio, y lo dijo con orgullo, y por eso dolió:
 
-—Sí. Y la que le va a dar el taller.
+"Sí. Y la que le va a dar el taller."
 
 Y se volvió hacia mí, y me vio, y sonrió. Una sonrisa chiquita, de las de ella.
 
 Y siguió:
 
-—Porque esto lo hace muy bien, pero esto es lo que hace mientras termina la escuela. Después se viene conmigo a Aoyama. Ya tiene su mesa.
+"Porque esto lo hace muy bien, pero esto es lo que hace mientras termina la escuela. Después se viene conmigo a Aoyama. Ya tiene su mesa."
 
 Y lo dijo delante de Marin.
 
@@ -362,7 +362,7 @@ Y lo dijo sin mala intención, que es lo peor de todo. Lo dijo como se dice una 
 
 Y Marin dijo:
 
-—Ah.
+"Ah."
 
 Y se le apagó la cara.
 
@@ -376,7 +376,7 @@ Y abrí la boca para decir algo. Y no dije nada.
 
 Y mi mamá se despidió, y pagó la caja de pelo, y se fue, y antes de salir me tocó el hombro, una vez, con la mano abierta, y me dijo:
 
-—El domingo hay mesa.
+"El domingo hay mesa."
 
 Y se fue.
 
@@ -384,17 +384,17 @@ Y Marin se quedó viendo la puerta un rato largo, y luego se volvió hacia la pa
 
 Y dijo, sin verme:
 
-—Tu mamá no sabe.
+"Tu mamá no sabe."
 
-—No.
+"No."
 
-—¿No sabe que me estás haciendo el disfraz?
+"¿No sabe que me estás haciendo el disfraz?"
 
-—Sabe que estoy haciendo un disfraz. No sabe para quién.
+"Sabe que estoy haciendo un disfraz. No sabe para quién."
 
 Se quedó callada.
 
-—¿Y no se lo vas a decir?
+"¿Y no se lo vas a decir?"
 
 Y la respuesta era que no. Y la respuesta era que sí. Y la respuesta era que el lunes mi mamá vació su sala para ponerme una mesa y que el lunes yo me senté en esa mesa y que esa mesa era para esto, y que yo no se lo había dicho, y que no sabía por qué.
 
@@ -404,11 +404,11 @@ Y Marin se quedó callada.
 
 Y al cabo de un momento dijo, con una voz chiquita que yo no le conocía:
 
-—Pues córtame el fleco.
+"Pues córtame el fleco."
 
-—¿Cómo?
+"¿Cómo?"
 
-—Que me cortes el fleco —dijo—. Tú sabes cortar. Y yo no sé. Y el domingo es pasado mañana.
+"Que me cortes el fleco «dijo». Tú sabes cortar. Y yo no sé. Y el domingo es pasado mañana."
 
 Y me puso la bolsa en las piernas.
 
@@ -430,9 +430,9 @@ Y se le calló la cara, igual que el domingo.
 
 Y dijo:
 
-—Pasado mañana.
+"Pasado mañana."
 
-—Pasado mañana.
+"Pasado mañana."
 
 Y se fue, y yo me quedé con la peluca en el regazo hasta que se me durmieron las piernas.
 
@@ -503,11 +503,11 @@ Y me vio la bolsa.
 
 Y dijo:
 
-—¿Traes todo?
+"¿Traes todo?"
 
 Y yo dije:
 
-—Traigo todo.
+"Traigo todo."
 
 Y mentí.
 

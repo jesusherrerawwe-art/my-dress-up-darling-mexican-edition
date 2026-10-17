@@ -4,11 +4,11 @@ La máquina estaba en la entrada del edificio, envuelta en una caja de madera de
 
 El conserje me vio llegar y se puso de pie, y me dijo algo en japonés que yo no entendí, y luego me lo dijo despacio y ya lo entendí: que llevaba dos días ahí, que pesaba muchísimo, y que si la quería arriba tendría que subirla yo.
 
-—La subo yo —dije.
+"La subo yo", dije.
 
 Me vio, me vio la silla, y volvió a ver la caja.
 
-—La subo yo —repetí.
+"La subo yo", repetí.
 
 Le pedí prestado un diablo, de esos carritos de dos ruedas que usan para mover las cajas, y me las arreglé sola: la caja acostada sobre el carrito, el carrito amarrado al reposabrazos con el cinturón de la mochila, y yo jalando de espaldas por el pasillo, escalón por escalón, hasta la puerta de mi casa.
 
@@ -182,33 +182,33 @@ Encontré las tres en la segunda tienda, en el segundo piso, donde una señora c
 
 Le pedí las tres telas. Me las bajó del estante de arriba, las puso sobre el mostrador y me preguntó:
 
-—¿Para qué es?
+"¿Para qué es?"
 
-—Para una falda de tres capas.
+"Para una falda de tres capas."
 
-—¿De disfraz?
+"¿De disfraz?"
 
-—Sí.
+"Sí."
 
 Se quedó callada un segundo, con las manos sobre la tela, y luego dijo:
 
-—¿Y cuánto la vas a usar?
+"¿Y cuánto la vas a usar?"
 
 Esa pregunta no me la esperaba.
 
-—No sé. Unas horas.
+"No sé. Unas horas."
 
-—¿Y cuánto pesa quien la va a usar?
+"¿Y cuánto pesa quien la va a usar?"
 
 Me eché a reír.
 
-—Cincuenta y dos kilos, más o menos.
+"Cincuenta y dos kilos, más o menos."
 
-—Entonces la de en medio no va a aguantar —dijo—. Ésta es rígida pero se vence con el calor. Necesitas ésta otra.
+"Entonces la de en medio no va a aguantar «dijo». Ésta es rígida pero se vence con el calor. Necesitas ésta otra."
 
 Sacó un rollo que no era el que yo había pedido, una malla finísima, casi transparente, que al tocarla sonaba como el papel.
 
-—Ésta es de sombreros —dijo—. Pesanada, aguanta, y no se vence.
+"Ésta es de sombreros «dijo». Pesanada, aguanta, y no se vence."
 
 La toqué.
 
@@ -224,23 +224,23 @@ Es exactamente lo que hace el dibujo. Lo vi en la tienda, debajo de la lámpara,
 
 Me lo quedé viendo como un minuto, con la tela en las manos, y la señora del cabello rojo me vio y dijo:
 
-—Ésa se llama sombra. Se llama así porque hace eso.
+"Ésa se llama sombra. Se llama así porque hace eso."
 
 Le pagué todo.
 
 Y cuando me estaba dando el cambio me preguntó:
 
-—¿Y tú eres quién?
+"¿Y tú eres quién?"
 
-—Jesús.
+"Jesús."
 
-—¿Cosiste antes?
+"¿Cosiste antes?"
 
-—Desde los trece.
+"Desde los trece."
 
 Se quedó callada, guardando el ticket en la bolsa, y luego me vio con una cara rara.
 
-—Tienes las manos buenas —dijo.
+"Tienes las manos buenas", dijo.
 
 Eso fue todo. Me dio la bolsa, me la puso en las piernas, y volvió a sus rollos.
 
@@ -346,47 +346,47 @@ Y mientras hacía todo eso, pasó lo otro.
 
 Pasó que mi mamá me llamó el martes.
 
-—Jesús.
+"Jesús."
 
-—Dime.
+"Dime."
 
-—¿Vienes mañana?
+"¿Vienes mañana?"
 
 Me quedé callado, con el teléfono en la oreja y la falda de tres capas en las piernas.
 
-—¿Mañana?
+"¿Mañana?"
 
-—Al taller. Dijiste que mañana.
+"Al taller. Dijiste que mañana."
 
 Lo había dicho. Lo había dicho en el taxi, el día que fui, y lo dije con toda la intención del mundo, y después pasó lo de la escuela, y pasó lo del disfraz, y pasó más de un mes.
 
 Más de un mes.
 
-—Mamá —dije—. Es que mañana tengo tarea.
+"Mamá «dije». Es que mañana tengo tarea."
 
-—Jesús, tienes tarea todos los días.
+"Jesús, tienes tarea todos los días."
 
-—Sí, pero mañana tengo mucha.
+"Sí, pero mañana tengo mucha."
 
 Silencio.
 
 Yo con la falda en las piernas, la aguja parada a media costura, y el teléfono quemándome la oreja.
 
-—Bueno —dijo.
+"Bueno", dijo.
 
 Y luego dijo:
 
-—El lugar sigue ahí.
+"El lugar sigue ahí."
 
-—¿Qué lugar?
+"¿Qué lugar?"
 
-—El tuyo. Ya lo terminé. Te lo quería enseñar.
+"El tuyo. Ya lo terminé. Te lo quería enseñar."
 
 Se me cerró la garganta.
 
-—¿Ya lo terminaste?
+"¿Ya lo terminaste?"
 
-—El sábado. Te mandé una foto.
+"El sábado. Te mandé una foto."
 
 Saqué el teléfono, lo puse en altavoz, y busqué la foto.
 
@@ -404,17 +404,17 @@ Me quedé viendo esa foto, con la falda de Shizuku en las piernas y la mariposa 
 
 No era culpa, todavía. Era algo peor: era la sospecha de que a lo mejor sí iba a ser culpa, y de que yo la estaba dejando crecer.
 
-—Está padre —dije.
+"Está padre", dije.
 
-—Ven a verla.
+"Ven a verla."
 
-—Voy el sábado.
+"Voy el sábado."
 
-—El sábado dijiste la otra vez.
+"El sábado dijiste la otra vez."
 
-—El sábado voy.
+"El sábado voy."
 
-—Bueno.
+"Bueno."
 
 Y colgó.
 
@@ -440,7 +440,7 @@ Me quedé viendo la camiseta de mi papá, colgada en su clavo, roja y quieta.
 
 Y le hablé, como a veces le hablo.
 
-—No me digas nada —le dije.
+"No me digas nada", le dije.
 
 La camiseta no dijo nada.
 

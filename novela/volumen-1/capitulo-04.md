@@ -10,29 +10,29 @@ Era otra cosa, y la entiendo ahora, aunque entonces no le supe poner nombre: era
 
 Mi mamá me lo advirtió en el desayuno, sin saber que lo estaba advirtiendo.
 
-—¿Vas a ir solo? —dijo.
+"¿Vas a ir solo?", dijo.
 
-—Sí.
+"Sí."
 
-—A casa de una compañera.
+"A casa de una compañera."
 
-—A casa de una compañera —dije.
+"A casa de una compañera", dije.
 
 Se quedó viéndome por encima de la taza, con esa cara suya de revisar una costura buscando el hilo jalado.
 
-—Lleva la cinta.
+"Lleva la cinta."
 
-—Siempre la traigo.
+"Siempre la traigo."
 
-—Lleva también la regla de tu papá.
+"Lleva también la regla de tu papá."
 
 Eso me lo dijo más despacio.
 
 La regla de mi papá es una regla de madera de sesenta centímetros, con los números grabados a fuego y una esquina rota de cuando se le cayó en el estadio, y llevo tres semanas usándola para todo porque mi máquina sigue en un barco y es lo único suyo que tengo aquí.
 
-—La llevo —dije.
+"La llevo", dije.
 
-—Bueno.
+"Bueno."
 
 Y no dijo nada más, que es su forma de decir las cosas importantes.
 
@@ -44,11 +44,11 @@ Lo puse todo y después lo saqué todo y lo volví a poner, porque acomodar las 
 
 Mi mamá me vio desde la puerta de la cocina.
 
-—Te van a sobrar tres horas —dijo.
+"Te van a sobrar tres horas", dijo.
 
-—¿Para qué?
+"¿Para qué?"
 
-—Para lo que sea que vayas a hacer ahí.
+"Para lo que sea que vayas a hacer ahí."
 
 No le contesté.
 
@@ -64,15 +64,15 @@ Asomó la cabeza, me vio, y desapareció.
 
 A los veinte segundos se abrió la puerta del edificio y salió corriendo, descalza, con el cabello amarrado de cualquier forma y una sudadera enorme que no era de ella, o que por lo menos no era su talla.
 
-—¡Hesús!
+"¡Hesús!"
 
-—Jesús.
+"Jesús."
 
-—¡Jesús! ¡Espérate! ¡No subas!
+"¡Jesús! ¡Espérate! ¡No subas!"
 
-—No iba a subir todavía.
+"No iba a subir todavía."
 
-—Espérate, espérate.
+"Espérate, espérate."
 
 Y se metió otra vez.
 
@@ -80,13 +80,13 @@ Yo me quedé ahí, en la banqueta, sin entender nada, hasta que la vi salir de n
 
 Bajó los veintiocho escalones empujando la silla delante de ella como quien empuja un carrito del súper, con la sudadera ondeando, y cuando llegó abajo se paró frente a mí, jadeando, con las dos manos en la silla.
 
-—Ya está —dijo.
+"Ya está", dijo.
 
 Me quedé viéndola.
 
-—¿Ya está qué?
+"¿Ya está qué?"
 
-—Que ya está. Te vas a subir en ésta.
+"Que ya está. Te vas a subir en ésta."
 
 Y me señaló la silla de la cocina, como si fuera la cosa más normal del mundo.
 
@@ -104,17 +104,17 @@ No me había dicho pobrecito, ni me había pedido perdón por las escaleras, ni 
 
 Nomás había visto los escalones, había visto la silla de su cocina, y había hecho la cuenta.
 
-—Marin —dije.
+"Marin", dije.
 
-—¿Qué?
+"¿Qué?"
 
-—Está chueca.
+"Está chueca."
 
 Se quedó viendo la silla.
 
 Y luego se echó a reír, con la cabeza echada para atrás, ahí parada en la banqueta, descalza, a las dos de la tarde de un sábado.
 
-—Sí —dijo—. Está chueca. Pero te aguanta.
+"Sí «dijo». Está chueca. Pero te aguanta."
 
 Subí en la silla de la cocina.
 
@@ -140,33 +140,33 @@ Me quedé viéndolo desde la puerta, sin moverme, con la libreta en las piernas.
 
 Y entonces hice la cosa que hacen todos y que ella no esperaba de mí:
 
-—¿Quién es? —pregunté.
+"¿Quién es?", pregunté.
 
 Se quedó helada.
 
 Literalmente. Se quedó parada en medio de la pieza, con los brazos caídos, y se volteó a ver el póster, y luego me vio a mí, y luego otra vez el póster.
 
-—¿De verdad me lo preguntas?
+"¿De verdad me lo preguntas?"
 
-—Sí.
+"Sí."
 
-—¿No sabes quién es?
+"¿No sabes quién es?"
 
-—No.
+"No."
 
-—Es Shizuku.
+"Es Shizuku."
 
-—¿La del disfraz?
+"¿La del disfraz?"
 
-—¡La del disfraz! —gritó, y se tapó la cara con las dos manos—. ¡Es Shizuku Kuroe! ¡Es el póster que compré en Comiket el año pasado! ¡Es mi personaje favorito de toda la vida!
+"¡La del disfraz! «gritó, y se tapó la cara con las dos manos». ¡Es Shizuku Kuroe! ¡Es el póster que compré en Comiket el año pasado! ¡Es mi personaje favorito de toda la vida!"
 
 Se destapó la cara y me vio con los ojos brillosos.
 
-—Nadie me había preguntado nunca quién era —dijo—. Todos la ven y ya.
+"Nadie me había preguntado nunca quién era «dijo». Todos la ven y ya."
 
 Me encogí de hombros.
 
-—Yo no sé de esto —dije—. Tú sabes de ropa y yo sé de ropa. Tú sabes de esto y yo no. Enséñame.
+"Yo no sé de esto «dije». Tú sabes de ropa y yo sé de ropa. Tú sabes de esto y yo no. Enséñame."
 
 Y entonces pasó la cosa más bonita de toda la tarde.
 
@@ -188,13 +188,13 @@ Puso el juego en la tele, que era del tamaño de la pared, y me enseñó la esce
 
 Me acerqué hasta donde la silla me dejaba, que era cerca, y me quedé viendo el cuello de Shizuku Kuroe como se ve una costura: buscando por dónde entra.
 
-—El listón no está cosido al cuello —dije—. Está puesto encima, sujeto con un broche atrás. Por eso se le mueve cuando corre.
+"El listón no está cosido al cuello «dije». Está puesto encima, sujeto con un broche atrás. Por eso se le mueve cuando corre."
 
 Marin se quedó con la boca abierta.
 
-—¡Sí! —dijo—. ¡Sí! ¿Cómo lo viste?
+"¡Sí! «dijo». ¡Sí! ¿Cómo lo viste?"
 
-—Porque si estuviera cosido, no se movería.
+"Porque si estuviera cosido, no se movería."
 
 Se quedó viéndome como si yo acabara de hacer un truco de magia.
 
@@ -216,49 +216,49 @@ Y una, subrayada tres veces:
 
 Cuando terminó se quedó callada, esperando.
 
-—Tengo una pregunta —dije.
+"Tengo una pregunta", dije.
 
-—Dime.
+"Dime."
 
-—¿Quieres que sea igual o quieres que se vea bien?
+"¿Quieres que sea igual o quieres que se vea bien?"
 
 Se quedó callada.
 
-—¿No es lo mismo?
+"¿No es lo mismo?"
 
-—Casi nunca es lo mismo.
+"Casi nunca es lo mismo."
 
 Le mostré la libreta.
 
-—En el dibujo, la falda le llega a la mitad del muslo. Tú eres más alta que el dibujo. Si la copio igual de corta, se te va a ver distinto, porque la distancia entre tu cadera y tu rodilla no es la distancia de ella. Y el saco de Shizuku le queda pegado al cuerpo porque en el dibujo no hay tela: hay una línea. Si te lo hago pegado, no vas a poder levantar los brazos.
+"En el dibujo, la falda le llega a la mitad del muslo. Tú eres más alta que el dibujo. Si la copio igual de corta, se te va a ver distinto, porque la distancia entre tu cadera y tu rodilla no es la distancia de ella. Y el saco de Shizuku le queda pegado al cuerpo porque en el dibujo no hay tela: hay una línea. Si te lo hago pegado, no vas a poder levantar los brazos."
 
 Me vio, con la cabeza ladeada.
 
-—¿Y qué harías tú?
+"¿Y qué harías tú?"
 
-—Haría la falda tres centímetros más larga y el saco con una sisa más holgada. Se vería igual en las fotos y te lo podrías poner.
+"Haría la falda tres centímetros más larga y el saco con una sisa más holgada. Se vería igual en las fotos y te lo podrías poner."
 
 Se quedó pensando.
 
 Y luego dijo una cosa que no esperaba.
 
-—Bueno.
+"Bueno."
 
-—¿Bueno?
+"¿Bueno?"
 
-—Bueno. Tú sabes. Hazlo como tú digas.
+"Bueno. Tú sabes. Hazlo como tú digas."
 
 Me quedé viéndola.
 
-—No me estás haciendo caso.
+"No me estás haciendo caso."
 
-—Sí te estoy haciendo caso.
+"Sí te estoy haciendo caso."
 
-—Me acabas de decir que sí sin pensarlo.
+"Me acabas de decir que sí sin pensarlo."
 
 Se encogió de hombros, y se le movió el cabello, y se le acomodó la sudadera.
 
-—Es que te vi el saco de la revista —dijo—. Y tenías razón.
+"Es que te vi el saco de la revista «dijo». Y tenías razón."
 
 No supe qué decir a eso.
 
@@ -266,17 +266,17 @@ Saqué la cinta métrica.
 
 Traigo la mía desde los trece años. Es una de tela, amarilla, con los números negros, y está tan usada que el primer palmo ya casi no se lee. Me la puse en el cuello, como siempre, y la dejé caer sobre el pecho.
 
-—Empezamos —dije.
+"Empezamos", dije.
 
-—¿Por dónde?
+"¿Por dónde?"
 
-—Por la estatura.
+"Por la estatura."
 
 Se levantó de un brinco y se paró contra la pared, derechísima, con los talones juntos.
 
-—¿Así?
+"¿Así?"
 
-—Así.
+"Así."
 
 Yo llegaba, desde la silla, hasta un metro treinta y cinco más o menos. La coronilla de su cabeza estaba como veinticinco centímetros más arriba.
 
@@ -284,7 +284,7 @@ No alcanzaba.
 
 Lo pensé dos segundos, porque lo he pensado mil veces en estos meses, y le di la punta de la cinta.
 
-—Toma el cero —le dije—. Póntelo en la cabeza, hasta arriba. Y deja caer la cinta hasta el piso, bien tirante.
+"Toma el cero «le dije». Póntelo en la cabeza, hasta arriba. Y deja caer la cinta hasta el piso, bien tirante."
 
 Hizo lo que le dije.
 
@@ -292,7 +292,7 @@ La cinta amarilla le cayó por un lado de la cara, pegada a la oreja, y bajó re
 
 Ciento sesenta y cuatro.
 
-—Uno sesenta y cuatro —dije.
+"Uno sesenta y cuatro", dije.
 
 Y me quedó viendo la coronilla, y los tenis, y los tobillos, y la cinta amarilla cayendo como un hilo, y pensé, con toda la frialdad del mundo, que esa era la distancia entre el piso y su cabeza, y que yo la había medido desde el piso porque desde el piso es el único lugar desde donde yo puedo medir algo.
 
@@ -300,7 +300,7 @@ Esa soy yo en esta escena: el tipo que mide desde abajo.
 
 Me lo guardé.
 
-—Ahora los hombros —dije.
+"Ahora los hombros", dije.
 
 Le medí el ancho de hombros. Le medí el cuello, pidiéndole que inclinara un poco la cabeza, porque si no no llegaba. Le medí el largo del brazo, desde el hombro hasta la muñeca, con el brazo caído. Le medí el busto, dando la vuelta con la cinta, pasándola por la espalda, cerrándola adelante.
 
@@ -318,7 +318,7 @@ Ahí, exactamente ahí.
 
 Desde la silla, mi cara quedaba justo enfrente de su cintura, a veinte centímetros, y sus costillas subían y bajaban cuando respiraba, y la cinta amarilla le daba la vuelta, y yo cerré el número y lo dije en voz alta:
 
-—Sesenta y uno.
+"Sesenta y uno."
 
 Y seguí.
 
@@ -340,31 +340,31 @@ Y apunté todo en la libreta, con la regla de mi papá apoyada en la pierna.
 
 Cuando terminé, guardé la cinta.
 
-—Ya está —dije.
+"Ya está", dije.
 
 Y ella dijo:
 
-—¿Ya?
+"¿Ya?"
 
 Me volteé a verla.
 
 Estaba parada en medio de la pieza, con los brazos medio levantados, como si todavía le estuviera midiendo algo, y tenía la cara rara.
 
-—¿Ya? —repitió.
+"¿Ya?", repitió.
 
-—Ya.
+"Ya."
 
-—Pero si no sentí nada.
+"Pero si no sentí nada."
 
 Me reí, porque no pude evitarlo.
 
-—No se trata de sentir algo, Marin. Es una cinta.
+"No se trata de sentir algo, Marin. Es una cinta."
 
-—Ya sé que es una cinta.
+"Ya sé que es una cinta."
 
-—Entonces.
+"Entonces."
 
-—Entonces nada.
+"Entonces nada."
 
 Se dejó caer en su cama, de golpe, con los brazos abiertos, y se quedó viendo el techo.
 
@@ -388,39 +388,39 @@ Me quedé callado.
 
 Y ella, desde la cama, sin voltear a verme, dijo:
 
-—¿Sabes que trabajo de modelo?
+"¿Sabes que trabajo de modelo?"
 
-—Sí.
+"Sí."
 
-—¿Te lo dije yo?
+"¿Te lo dije yo?"
 
-—No. Te vi en una revista.
+"No. Te vi en una revista."
 
 Se quedó callada otro momento, y luego dijo:
 
-—Nadie me mide bien nunca.
+"Nadie me mide bien nunca."
 
 Me quedé esperando.
 
-—En las sesiones —dijo—, la gente de vestuario me pone la ropa y me la acomoda y ya. Y cuando algo me queda mal, me dicen que es mi cuerpo. Y cuando algo me queda bien, me dicen que qué guapa estoy. Y nadie me ha medido nunca para hacerme algo.
+"En las sesiones «dijo», la gente de vestuario me pone la ropa y me la acomoda y ya. Y cuando algo me queda mal, me dicen que es mi cuerpo. Y cuando algo me queda bien, me dicen que qué guapa estoy. Y nadie me ha medido nunca para hacerme algo."
 
 Se quedó viendo el techo.
 
-—Yo creí que cuando alguien te mide para hacerte algo, se siente distinto.
+"Yo creí que cuando alguien te mide para hacerte algo, se siente distinto."
 
 No dije nada.
 
-—Y no se sintió distinto —dijo—. Se sintió como ir al dentista.
+"Y no se sintió distinto «dijo». Se sintió como ir al dentista."
 
 Me eché a reír, y ella también, y la tensión se rompió un poco, pero no del todo.
 
 Y entonces dije la única cosa que se me ocurrió decir, que era la verdad.
 
-—Marin.
+"Marin."
 
-—¿Qué?
+"¿Qué?"
 
-—Nunca he medido a nadie que me importe.
+"Nunca he medido a nadie que me importe."
 
 Se quedó callada.
 
@@ -430,7 +430,7 @@ Y yo me di cuenta de lo que acababa de decir, y no lo arreglé, y no lo suavicé
 
 Nomás lo dejé ahí, en el piso, entre los dos.
 
-—Ah —dijo ella.
+"Ah", dijo ella.
 
 Y se quedó viéndome con la boca medio abierta, y se le fueron poniendo las mejillas del color de la liga del cabello, que otra vez era rosa.
 
@@ -438,43 +438,43 @@ Yo me puse a escribir en la libreta, nomás para tener dónde poner los ojos, y 
 
 Y entonces dije:
 
-—Me falta una medida.
+"Me falta una medida."
 
-—¿Cuál?
+"¿Cuál?"
 
-—La caída del hombro.
+"La caída del hombro."
 
 Se levantó despacio y se paró frente a mí.
 
-—¿Eso qué es?
+"¿Eso qué es?"
 
-—Es el ángulo que hace tu hombro entre el cuello y el brazo. Es la medida que nadie toma y que decide si la ropa te queda bien o te queda más o menos.
+"Es el ángulo que hace tu hombro entre el cuello y el brazo. Es la medida que nadie toma y que decide si la ropa te queda bien o te queda más o menos."
 
 Me acerqué con la silla y le puse la cinta en la base del cuello.
 
 Y entonces se lo dije.
 
-—En la revista —dije—, el saco se te caía porque te lo hicieron con la caída de hombro estándar. Y tu hombro no es estándar. Es más recto. Por eso se te iba para afuera, y por eso te lo acomodabas, y por eso en la quinta foto se veía mejor: porque ya no te lo acomodaste, y se te vio el cuello.
+"En la revista «dije», el saco se te caía porque te lo hicieron con la caída de hombro estándar. Y tu hombro no es estándar. Es más recto. Por eso se te iba para afuera, y por eso te lo acomodabas, y por eso en la quinta foto se veía mejor: porque ya no te lo acomodaste, y se te vio el cuello."
 
 Marin Kitagawa no dijo nada.
 
 Se quedó parada frente a mí, con la cinta en el hombro, y yo vi cómo le pasaban las cosas por la cara, y vi cómo se le llenaban los ojos de agua, y vi cómo apretaba la mandíbula para que no se le notara.
 
-—Me acuerdo de esa sesión —dijo, en un hilo de voz.
+"Me acuerdo de esa sesión", dijo, en un hilo de voz.
 
 Y luego:
 
-—Me acuerdo. Hacía frío. Y el saco no era mío, y se me caía, y la de vestuario me decía que no me moviera.
+"Me acuerdo. Hacía frío. Y el saco no era mío, y se me caía, y la de vestuario me decía que no me moviera."
 
 Se quedó callada.
 
-—Y yo pensé que era culpa mía.
+"Y yo pensé que era culpa mía."
 
 Le puse la cinta en el hombro y apunté el número.
 
 Nueve coma cinco.
 
-—No era tuya —dije—. Era del patrón.
+"No era tuya «dije». Era del patrón."
 
 Y esta vez no lo dije como se dice una medida.
 
@@ -484,25 +484,25 @@ Ella se quedó callada un segundo más, y luego se agachó, despacio, hasta qued
 
 Estábamos a treinta centímetros.
 
-—Jesús.
+"Jesús."
 
-—Dime.
+"Dime."
 
-—Vuelve a medirme.
+"Vuelve a medirme."
 
 Me quedé quieto.
 
-—¿Qué?
+"¿Qué?"
 
-—Que me vuelvas a medir. Todo. Desde el principio.
+"Que me vuelvas a medir. Todo. Desde el principio."
 
-—Ya te medí.
+"Ya te medí."
 
-—Me mediste como una tela.
+"Me mediste como una tela."
 
 Me quedé helado.
 
-—Vuelve a medirme —dijo—. Pero esta vez acuérdate de quién soy.
+"Vuelve a medirme «dijo». Pero esta vez acuérdate de quién soy."
 
 Y ahí, sentado en el piso de su departamento, con la cinta amarilla en las manos y la regla de mi papá en las piernas, entendí por fin qué era lo que estaba pasando.
 
@@ -518,7 +518,7 @@ Respiré hondo.
 
 Y volví a empezar.
 
-—Párate contra la pared.
+"Párate contra la pared."
 
 Se paró contra la pared.
 
@@ -556,7 +556,7 @@ Y lo supo.
 
 Claro que lo supo, porque estaba a veinte centímetros y porque Marin Kitagawa se fija en todo.
 
-—Te tiemblan —dijo.
+"Te tiemblan", dijo.
 
 Con la voz más baja que le he oído nunca.
 
@@ -568,7 +568,7 @@ Me quedé quieto, con la cinta cerrada en su cintura, sin soltarla, sin apretarl
 
 Y dije la verdad, que era lo único que tenía.
 
-—Sí —dije.
+"Sí", dije.
 
 Silencio.
 
@@ -608,33 +608,33 @@ Son manos de oficio. En mi casa nadie las ve.
 
 Marin se las quedó viendo como si fueran la cosa más interesante del mundo.
 
-—Tienes cicatrices —dijo.
+"Tienes cicatrices", dijo.
 
-—Dos.
+"Dos."
 
-—¿De qué?
+"¿De qué?"
 
-—De agujas.
+"De agujas."
 
-—¿Te las rompiste adentro?
+"¿Te las rompiste adentro?"
 
-—Una vez sí. La otra se me clavó.
+"Una vez sí. La otra se me clavó."
 
 Me pasó el dedo por la cicatriz blanca del índice, despacio, con la yema.
 
-—¿Dolió?
+"¿Dolió?"
 
-—Ésa no. La otra sí.
+"Ésa no. La otra sí."
 
 Se quedó callada, con mi mano entre las suyas, y luego dijo una cosa que no me esperaba.
 
-—Son bonitas.
+"Son bonitas."
 
 Me reí.
 
-—Son manos de viejo.
+"Son manos de viejo."
 
-—Son manos de alguien que sabe hacer algo.
+"Son manos de alguien que sabe hacer algo."
 
 Y no lo dijo como un piropo. Lo dijo como se dice una medida: como quien dice esto es madera, esto pesa tres kilos, esto va a caer bien.
 
@@ -652,19 +652,19 @@ Se quedó viendo a Marin. Se quedó viéndome a mí. Se quedó viendo la cinta e
 
 Y dijo:
 
-—¿Interrumpo?
+"¿Interrumpo?"
 
-—No —dijo Marin, demasiado rápido.
+"No", dijo Marin, demasiado rápido.
 
 Nowa nos vio un segundo más.
 
 Y luego, con la naturalidad con la que había sostenido la puerta tres horas antes, dijo:
 
-—Bueno. Yo nomás vine a traer esto. Ya me voy.
+"Bueno. Yo nomás vine a traer esto. Ya me voy."
 
-—No, quédate —dijo Marin.
+"No, quédate", dijo Marin.
 
-—No, mejor me voy —dijo Nowa.
+"No, mejor me voy", dijo Nowa.
 
 Y se fue.
 
@@ -676,29 +676,29 @@ Nos quedamos los dos parados en medio de la pieza, sin decirnos nada, con la bol
 
 Marin agarró el suyo y se lo puso en la frente.
 
-—Hace calor —dijo.
+"Hace calor", dijo.
 
-—Sí.
+"Sí."
 
-—¿Quieres uno?
+"¿Quieres uno?"
 
-—Sí.
+"Sí."
 
 Me lo dio, y lo agarré, y por un segundo los dos nos quedamos viendo el refresco, porque era lo único en todo el departamento que no daba miedo.
 
-—Jesús —dijo.
+"Jesús", dijo.
 
-—Dime.
+"Dime."
 
-—¿Vas a poder hacerlo?
+"¿Vas a poder hacerlo?"
 
 No me lo preguntó por el disfraz. Se lo vi en la cara: no me lo estaba preguntando por el disfraz. Me lo estaba preguntando por si la iba a dejar plantada.
 
-—Sí —dije—. Voy a poder.
+"Sí «dije». Voy a poder."
 
 Asintió.
 
-—Bueno.
+"Bueno."
 
 Y eso fue todo. No me preguntó cómo, ni por qué, ni me pidió que le explicara nada, y yo no le expliqué nada, y los dos nos quedamos con eso, cada quien con lo suyo.
 

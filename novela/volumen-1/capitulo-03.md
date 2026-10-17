@@ -20,33 +20,33 @@ Me vestí a las seis y cuarenta, con la luz de esa hora entrando por la ventana,
 
 No encontré ninguna. Me quedaba bien. Y no me quedaba bien como les queda a los maniquíes, sino como le queda la ropa a la gente que se mueve.
 
-—¿Ya estás? —gritó mi mamá.
+"¿Ya estás?", gritó mi mamá.
 
-—¡Ya!
+"¡Ya!"
 
-—¿Seguro?
+"¿Seguro?"
 
-—Seguro.
+"Seguro."
 
 Me asomé a la sala. Ella estaba de pie junto a la puerta, con su café, vestida para una reunión en Aoyama, impecable como siempre, y cuando me vio se quedó quieta un segundo.
 
-—Déjame ver —dijo.
+"Déjame ver", dijo.
 
 Rodé hasta la mitad de la sala y me paré frente a ella.
 
 Se agachó. Me tocó el cuello de la camisa con dos dedos, como quien toca una fruta para ver si está madura, y luego me dio la vuelta con un dedo para ver la espalda.
 
-—Le moviste al patrón —dijo.
+"Le moviste al patrón", dijo.
 
-—Le moví al patrón.
+"Le moví al patrón."
 
-—¿Sin máquina?
+"¿Sin máquina?"
 
-—A mano. Anoche.
+"A mano. Anoche."
 
 Se quedó callada, y después se enderezó, y yo vi cómo se le acomodaba la cara, que es lo único que se le mueve cuando está orgullosa y no quiere decirlo.
 
-—Te va a ir bien —dijo.
+"Te va a ir bien", dijo.
 
 Y se fue a su reunión.
 
@@ -70,41 +70,41 @@ Estaba ahí parado, haciendo la cuenta, cuando se me acercó una maestra.
 
 Era joven, de lentes, con una carpeta contra el pecho, y me habló en un japonés despacio y clarísimo, del que se usa con los extranjeros cuando alguien decide ser amable.
 
-—Tú eres Fujioka —dijo.
+"Tú eres Fujioka", dijo.
 
-—Jesús. Sí.
+"Jesús. Sí."
 
-—Soy Tanabe, la maestra de tu salón. Te estábamos esperando.
+"Soy Tanabe, la maestra de tu salón. Te estábamos esperando."
 
-—Perdón, llegué temprano.
+"Perdón, llegué temprano."
 
-—No, llegaste a tiempo. Es que te estaba esperando aquí para decirte que nosotros pensamos que sería mejor que usaras el elevador de servicio. Está por fuera, por la parte de atrás, y tiene llave, pero yo te puedo dar una copia. Así no tienes que usar la escalera.
+"No, llegaste a tiempo. Es que te estaba esperando aquí para decirte que nosotros pensamos que sería mejor que usaras el elevador de servicio. Está por fuera, por la parte de atrás, y tiene llave, pero yo te puedo dar una copia. Así no tienes que usar la escalera."
 
 Me lo dijo con la mejor intención del mundo. Se lo vi en la cara, y en lo despacio que lo dijo, y en la forma en que ya traía la llave en la mano, lista, dentro de una bolsita de plástico.
 
 Y yo, que llevo dieciséis meses aprendiendo a decir esto, respiré hondo y lo dije:
 
-—Profesora, ¿y si mejor uso la escalera?
+"Profesora, ¿y si mejor uso la escalera?"
 
 Se quedó viendo la llave.
 
-—Es que son dieciocho escalones...
+"Es que son dieciocho escalones..."
 
-—Los conté.
+"Los conté."
 
-—¿Los contaste?
+"¿Los contaste?"
 
-—Ayer. Dos tramos de nueve.
+"Ayer. Dos tramos de nueve."
 
 Guardó silencio un momento, y yo me preparé para lo que viene siempre: el insistir con cuidado, el pero es que, el no te preocupes.
 
 Pero Tanabe era distinta. Tanabe se guardó la bolsita en la bolsa de la carpeta, se acomodó los lentes, y dijo:
 
-—Bueno. Si algún día quieres la llave, me la pides.
+"Bueno. Si algún día quieres la llave, me la pides."
 
-—Gracias.
+"Gracias."
 
-—Pero llega cinco minutos antes. Los pasillos se llenan.
+"Pero llega cinco minutos antes. Los pasillos se llenan."
 
 Y se fue.
 
@@ -114,7 +114,7 @@ No me había dicho que sí porque fuera fácil. Me había dicho que sí porque y
 
 Subí los dieciocho escalones sentado, como los de Aoyama: un escalón, dos brazos, un escalón. Tardé tres minutos. Llegué al descanso, respiré, y cuando iba en el segundo tramo escuché que alguien subía corriendo por detrás, pasándome a toda velocidad, y una voz de niña que decía:
 
-—¡Voy a llegar tarde, voy a llegar tarde, voy a llegar tarde!
+"¡Voy a llegar tarde, voy a llegar tarde, voy a llegar tarde!"
 
 Pasó a mi lado como un rayo, con el cabello suelto, y desapareció por el pasillo del segundo piso.
 
@@ -144,11 +144,11 @@ Las dos de junto le decían algo y ella se reía sin voltear a verlas, con la bo
 
 La maestra Tanabe dijo mi nombre.
 
-—Hesús.
+"Hesús."
 
 Me volteé.
 
-—Ven al frente, por favor.
+"Ven al frente, por favor."
 
 Rodé hasta el frente del salón, pasé junto a la primera fila, y me puse de lado junto al pizarrón, para quedar viendo a todos de frente. Eso también lo aprendí: de lado se ve mejor, porque así no les hablas a treinta y ocho nucas.
 
@@ -156,7 +156,7 @@ Treinta y ocho pares de ojos mirándome.
 
 Yo he hablado en público desde los doce años, porque en mi escuela de Guadalajara yo era el que organizaba todo, y porque mi papá me enseñó que dar la cara es más fácil que esconderse. Así que no me tembló nada. Me acomodé las mangas, que es lo que hago siempre antes de hablar, y empecé.
 
-—Buenos días —dije en japonés—. Me llamo Jesús Fujioka. Vengo de Guadalajara, en México. Mi mamá es diseñadora y yo coso desde los trece años, así que si se les rompe algo, sé arreglarlo.
+"Buenos días «dije en japonés». Me llamo Jesús Fujioka. Vengo de Guadalajara, en México. Mi mamá es diseñadora y yo coso desde los trece años, así que si se les rompe algo, sé arreglarlo."
 
 Silencio.
 
@@ -164,19 +164,19 @@ Treinta y ocho personas sin decir nada.
 
 Y entonces, desde la tercera fila, junto a la ventana, se oyó una voz clarísima:
 
-—¿En serio coses?
+"¿En serio coses?"
 
 Era ella.
 
 Estaba sentada de golpe, con las dos manos en el escritorio y los ojos así de grandes, y ya no se estaba pintando las uñas, y se le había olvidado que estaba en un salón lleno de gente.
 
-—Sí —dije.
+"Sí", dije.
 
-—¿Ropa? ¿De verdad? ¿Como vestidos?
+"¿Ropa? ¿De verdad? ¿Como vestidos?"
 
-—Vestidos, sí.
+"Vestidos, sí."
 
-—¡Uuuh!
+"¡Uuuh!"
 
 Lo gritó. Lo gritó en medio del salón, con las dos manos en la cara, y sus dos amigas se echaron a reír, y después se rio medio salón, y la maestra Tanabe se tapó la boca con la mano, tratando de no reírse ella también.
 
@@ -196,23 +196,23 @@ El peor lugar del salón. El más conveniente para la silla. Los dos al mismo ti
 
 Me fui para allá, y mientras acomodaba la mochila escuché que la chava de la tercera fila le decía a su amiga, en un susurro que se oía hasta el patio:
 
-—Ay, Dios, sí cose.
+"Ay, Dios, sí cose."
 
 El recreo llegó a las diez y media, y yo me quedé en mi lugar, como quedan todos los que llegan nuevos el primer día: con la mochila en las piernas, sin saber a dónde ir.
 
 A los cuatro minutos se me acercó la primera persona, que fue una chava de cabello corto y aretes grandes, de esas que hablan con todo el cuerpo.
 
-—Tú eres Hesús, ¿no?
+"Tú eres Hesús, ¿no?"
 
-—Jesús. Sí.
+"Jesús. Sí."
 
-—Soy Nowa. Nowa Sugaya. Y ésa de allá —dijo, señalando con el pulgar sin ninguna discreción hacia la tercera fila— es Marin. Marin Kitagawa. Es mi mejor amiga, y hace como media hora que quiere venir a hablarte, pero dice que le da pena, que es mentira, porque a Marin no le da pena nada en toda su vida.
+"Soy Nowa. Nowa Sugaya. Y ésa de allá «dijo, señalando con el pulgar sin ninguna discreción hacia la tercera fila» es Marin. Marin Kitagawa. Es mi mejor amiga, y hace como media hora que quiere venir a hablarte, pero dice que le da pena, que es mentira, porque a Marin no le da pena nada en toda su vida."
 
 Miré hacia la ventana.
 
 Marin estaba de espaldas, con la cara entre las manos, y sus dos amigas le movían los hombros.
 
-—Ahí está —dijo Nowa—. Ya la viste. Ya se va a morir.
+"Ahí está «dijo Nowa». Ya la viste. Ya se va a morir."
 
 Y se fue, tan campante, a comprar algo de la máquina.
 
@@ -230,45 +230,45 @@ Y yo me quedé viéndola.
 
 De cerca era distinta. De cerca tenía los ojos grandes y la piel con una luz rara, como si se la hubieran planchado, y llevaba el cabello rubio recogido con una liga que no era del color del cabello, y las uñas a medias, con tres pintadas y siete sin pintar.
 
-—Hola —dijo.
+"Hola", dijo.
 
-—Hola.
+"Hola."
 
-—Yo soy la de la neta de hace rato.
+"Yo soy la de la neta de hace rato."
 
-—¿La de la neta?
+"¿La de la neta?"
 
-—La que gritó. Perdón. Es que...
+"La que gritó. Perdón. Es que..."
 
 Se quedó callada y se tapó la cara con las dos manos.
 
-—Es que llevo buscando a alguien que sepa coser como un año —dijo, con la voz tapada por las manos—. Un año. Un año.
+"Es que llevo buscando a alguien que sepa coser como un año «dijo, con la voz tapada por las manos». Un año. Un año."
 
 Bajó las manos. Tenía las mejillas de color rosa, y los ojos brillosos, pero no de llanto: de esos que se te ponen cuando alguien por fin te hace caso.
 
-—Te vi en una revista —dije.
+"Te vi en una revista", dije.
 
 Se quedó helada.
 
 Literalmente helada. Como si le hubieran dado pause.
 
-—¿Qué? —dijo.
+"¿Qué?", dijo.
 
-—En una revista. En el súper de Iwatsuki, el de la esquina de la estación. Había unas revistas en el estante de las cajas y había una de marzo, y en la página cuarenta y dos salías tú.
+"En una revista. En el súper de Iwatsuki, el de la esquina de la estación. Había unas revistas en el estante de las cajas y había una de marzo, y en la página cuarenta y dos salías tú."
 
-—No puede ser.
+"No puede ser."
 
-—Sacabas un saco color crema.
+"Sacabas un saco color crema."
 
-—No puede ser —repitió, y se tapó la boca con las dos manos.
+"No puede ser", repitió, y se tapó la boca con las dos manos.
 
-—Y el saco te quedaba grande.
+"Y el saco te quedaba grande."
 
 Silencio absoluto en el salón, o por lo menos a mí me lo pareció.
 
 Se le fueron abriendo los ojos, y yo seguí, porque cuando empiezo a ver una prenda ya no hay quien me pare.
 
-—Te quedaba grande de los hombros. Se te caía. En las primeras cuatro fotos te lo acomodaste con la mano, así, sin darte cuenta, con los dedos de acá —dije, y le mostré con mi mano derecha—, y en la quinta ya no te lo acomodaste. Y en la quinta se veía mejor.
+"Te quedaba grande de los hombros. Se te caía. En las primeras cuatro fotos te lo acomodaste con la mano, así, sin darte cuenta, con los dedos de acá «dije, y le mostré con mi mano derecha», y en la quinta ya no te lo acomodaste. Y en la quinta se veía mejor."
 
 Me callé.
 
@@ -278,15 +278,15 @@ Ella no dijo nada.
 
 Se quedó parada, con la boca medio abierta, y yo vi cómo le pasaban las cosas por la cara, una por una, como las nubes.
 
-—Nadie me había dicho nunca nada de la ropa —dijo.
+"Nadie me había dicho nunca nada de la ropa", dijo.
 
 Y luego, en un hilo de voz:
 
-—Me dijeron que se me veían las piernas. Me dijeron que estaba muy guapa. Me dijeron que parecía modelo. Mi papá me dijo que estaba muy grande.
+"Me dijeron que se me veían las piernas. Me dijeron que estaba muy guapa. Me dijeron que parecía modelo. Mi papá me dijo que estaba muy grande."
 
 Se quedó callada un segundo, y luego:
 
-—Nadie me había dicho que el saco me quedaba grande.
+"Nadie me había dicho que el saco me quedaba grande."
 
 Yo no supe qué decir. Me quedé ahí, con las manos en las ruedas, sintiendo el peso de la tontería que acababa de soltar, y pensando que nomás me faltaba decirle que le bajara el hombro un centímetro.
 
@@ -294,53 +294,53 @@ Pero ella no se fue.
 
 Se sentó en el escritorio de al lado, de medio lado, colgando las piernas, y se quedó ahí, con la cabeza ladeada, viéndome.
 
-—Y en la quinta, ¿por qué se veía mejor? —dijo.
+"Y en la quinta, ¿por qué se veía mejor?", dijo.
 
-—Porque ya no te lo acomodaste.
+"Porque ya no te lo acomodaste."
 
-—Sí, pero ¿por qué se veía mejor?
+"Sí, pero ¿por qué se veía mejor?"
 
-—Porque se te veía el cuello.
+"Porque se te veía el cuello."
 
 Se quedó viéndome un segundo más, y luego se echó a reír.
 
 Se echó a reír con toda la boca, echando la cabeza para atrás, y la risa se oyó en todo el salón, y sus amigas voltearon, y Nowa, que venía cruzando el pasillo con una lata de café en la mano, se paró en seco y nos vio con una cara rarísima, que yo entonces no entendí.
 
-—¿Sabes que eres rarísimo? —dijo Marin, cuando por fin se le acabó la risa.
+"¿Sabes que eres rarísimo?", dijo Marin, cuando por fin se le acabó la risa.
 
-—Me lo dicen seguido.
+"Me lo dicen seguido."
 
-—No, en serio. Eres rarísimo. Te vi una foto de una revista y lo primero que viste fue el saco.
+"No, en serio. Eres rarísimo. Te vi una foto de una revista y lo primero que viste fue el saco."
 
-—Es mi trabajo.
+"Es mi trabajo."
 
-—¿De verdad coses?
+"¿De verdad coses?"
 
-—De verdad.
+"De verdad."
 
-—¿Y has hecho de todo?
+"¿Y has hecho de todo?"
 
-—Casi de todo.
+"Casi de todo."
 
 Se mordió el labio, un segundo, y yo vi venir la pregunta antes de que la hiciera, porque se le puso la cara que se le pone a la gente cuando lleva mucho rato aguantando las ganas de algo.
 
-—¿Y sabes hacer disfraces?
+"¿Y sabes hacer disfraces?"
 
 Ahí estaba.
 
-—Nunca he hecho uno —dije.
+"Nunca he hecho uno", dije.
 
-—¿Nunca?
+"¿Nunca?"
 
-—Nunca.
+"Nunca."
 
-—Pero ¿sabrías?
+"Pero ¿sabrías?"
 
 No contesté enseguida.
 
 Me quedé pensando. Y lo que pensé no fue ni sí ni no: fue que un disfraz es un problema técnico, y que yo nunca había resuelto ese problema técnico en particular, y que un saco que se cae de los hombros es un problema técnico, y que la tela es la tela, y que un cuerpo es un cuerpo, y que yo llevaba tres semanas sin coser nada, con la máquina en un barco en medio del Pacífico, y las manos me ardían.
 
-—Sabría —dije.
+"Sabría", dije.
 
 Marin Kitagawa se quedó viéndome como si le acabara de decir que sí le podía enseñar a volar.
 
@@ -374,27 +374,27 @@ Me contó que el salón se divide en tres bandos desde la primera semana y que n
 
 Me lo dijo como quien te dice dónde hay una máquina expendedora.
 
-—El del fondo —dijo—. El de la esquina, junto a las escaleras de incendios. Ése nadie lo usa.
+"El del fondo «dijo». El de la esquina, junto a las escaleras de incendios. Ése nadie lo usa."
 
-—Gracias.
+"Gracias."
 
-—De nada. Y el elevador está bien pero da la vuelta al edificio y tardas como seis minutos, así que si vas con tiempo usa la escalera y ya, no seas heroico.
+"De nada. Y el elevador está bien pero da la vuelta al edificio y tardas como seis minutos, así que si vas con tiempo usa la escalera y ya, no seas heroico."
 
 Me reí.
 
-—¿Tú cómo sabes todo esto? —le pregunté.
+"¿Tú cómo sabes todo esto?", le pregunté.
 
 Se encogió de hombros.
 
-—Porque mi hermana va en tercero y me contó todo el primer día. Y porque yo me fijo en las cosas.
+"Porque mi hermana va en tercero y me contó todo el primer día. Y porque yo me fijo en las cosas."
 
 Asentí.
 
-—Yo también me fijo en las cosas.
+"Yo también me fijo en las cosas."
 
 Me vio, con la lata a medio camino de la boca, y por un segundo se quedó seria, como si acabara de entender algo de mí que yo no había dicho.
 
-—Sí —dijo—. Se te nota.
+"Sí «dijo». Se te nota."
 
 Y luego se fue, tan ruidosa como había llegado, a sentarse con Marin.
 
@@ -414,15 +414,15 @@ Marin se puso roja. Yo no me puse rojo porque a mí no se me pone, pero sentí e
 
 La gente se fue saliendo de a poco. A las dos menos cuarto ya nomás quedábamos cuatro: nosotros dos, un chavo que limpiaba las ventanas con una rapidez sospechosa, y Nowa, que estaba parada en la puerta con cara de no querer irse.
 
-—Nowa —dijo Marin, con una voz rarísima—. Ya vete.
+"Nowa «dijo Marin, con una voz rarísima». Ya vete."
 
-—No quiero.
+"No quiero."
 
-—Vete.
+"Vete."
 
-—Pero...
+"Pero..."
 
-—Vete.
+"Vete."
 
 Nowa se fue. Pero antes de irse volteó, me vio, y me hizo una seña con la mano que yo no entendí, como de ánimo, o como de advertencia, y que hoy, mirándola desde aquí, creo que eran las dos cosas.
 
@@ -434,7 +434,7 @@ Ella agarró el borrador y se fue al pizarrón, y empezó a borrar con una energ
 
 Yo rodé hasta el pizarrón y me quedé ahí, abajo, con el trapo en las piernas.
 
-—Alcánzame de arriba, ¿no? —le dije.
+"Alcánzame de arriba, ¿no?", le dije.
 
 Se detuvo.
 
@@ -446,7 +446,7 @@ Y entonces, en vez de borrar lo de arriba, se agachó, agarró la escoba que est
 
 Se quedó viendo su propio invento, con la cara iluminada.
 
-—Listo —dijo.
+"Listo", dijo.
 
 Y empezó a borrar lo de arriba con la escoba, parada en el suelo, sin subirse a nada, riéndose sola.
 
@@ -464,7 +464,7 @@ Nomás arregló el problema.
 
 Y cuando terminó lo de arriba, me dio la escoba y dijo:
 
-—Tú borra lo de abajo, que es lo tuyo.
+"Tú borra lo de abajo, que es lo tuyo."
 
 Y nos pusimos a borrar el pizarrón entre los dos, uno al lado del otro, ella de pie con su escoba y yo sentado con mi trapo, riéndonos de la tontería que acababa de inventar.
 
@@ -484,23 +484,23 @@ Me quedé viendo ese puño, con las puntadas chuecas y el hilo blanco sobre la t
 
 Y entonces ella habló.
 
-—Hesús.
+"Hesús."
 
-—Jesús.
+"Jesús."
 
-—Jesús. Necesito preguntarte una cosa.
+"Jesús. Necesito preguntarte una cosa."
 
 Se quedó viéndome. Y yo vi que le temblaban las manos, nomás un poquito, y que tenía los ojos así de brillosos otra vez, pero esta vez de otra cosa.
 
-—Es de un juego —dijo—. El personaje se llama Shizuku. Shizuku Kuroe. Y quiero disfrazarme de ella desde hace como dos años y nunca he podido porque no sé coser, y busqué tutorials y no entendí nada, y le pregunté a mi papá y me dijo que mejor comprara uno ya hecho, pero no quiero uno ya hecho, porque no es lo mismo, porque no es lo mismo ni de chiste.
+"Es de un juego «dijo». El personaje se llama Shizuku. Shizuku Kuroe. Y quiero disfrazarme de ella desde hace como dos años y nunca he podido porque no sé coser, y busqué tutorials y no entendí nada, y le pregunté a mi papá y me dijo que mejor comprara uno ya hecho, pero no quiero uno ya hecho, porque no es lo mismo, porque no es lo mismo ni de chiste."
 
 Lo dijo de jalón, sin respirar, todo junto.
 
-—Y yo no sé si tú sepas hacer eso, ni si te interese, ni si te parezca ridículo, porque además es de un juego que es... es un juego que es de... —se le atoró la voz, y se le puso la cara del color de su liga para el cabello, que era rosa— ... es un juego de adultos. Pero el personaje no es... o sea, lo que quiero decir es que Shizuku es... ella es...
+"Y yo no sé si tú sepas hacer eso, ni si te interese, ni si te parezca ridículo, porque además es de un juego que es... es un juego que es de... «se le atoró la voz, y se le puso la cara del color de su liga para el cabello, que era rosa» ... es un juego de adultos. Pero el personaje no es... o sea, lo que quiero decir es que Shizuku es... ella es..."
 
 Se tapó la cara con las dos manos.
 
-—Ay, Dios, olvídalo, olvídalo, ya mejor olvídalo.
+"Ay, Dios, olvídalo, olvídalo, ya mejor olvídalo."
 
 Yo no sabía de qué me estaba hablando. Ni quién era Shizuku, ni qué juego era, ni por qué le daba tanta vergüenza, ni por qué se le estaba poniendo la cara del color de su liga para el cabello.
 
@@ -512,29 +512,29 @@ Sabía que un disfraz es el problema técnico más difícil de todos, porque no 
 
 Y sabía que llevaba tres semanas con la máquina en un barco y las manos ardiendo.
 
-—Sí —dije.
+"Sí", dije.
 
 Levantó la cara de golpe, con las manos todavía en los ojos.
 
-—¿Sí?
+"¿Sí?"
 
-—Sí. Lo hago.
+"Sí. Lo hago."
 
-—¿En serio?
+"¿En serio?"
 
-—En serio.
+"En serio."
 
-—¿Sí?
+"¿Sí?"
 
-—Sí.
+"Sí."
 
 Y entonces hizo una cosa que no me esperaba: se agachó, a mi altura, y me vio de frente, a veinte centímetros, con los ojos brillosos y la boca abierta.
 
-—Gracias —dijo—. Gracias, gracias, gracias.
+"Gracias «dijo». Gracias, gracias, gracias."
 
 Y se enderezó de un brinco, agarró su mochila, y salió corriendo del salón, gritando por el pasillo:
 
-—¡Nowa, Nowa, dijo que sí, dijo que sí!
+"¡Nowa, Nowa, dijo que sí, dijo que sí!"
 
 La oí gritar hasta la escalera.
 

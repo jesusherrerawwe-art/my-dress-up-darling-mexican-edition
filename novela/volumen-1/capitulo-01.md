@@ -18,11 +18,11 @@ Mil doscientos por sesenta y ocho: ochocientos dieciséis metros.
 
 Y yo llevaba cuarenta y tres minutos de pie.
 
-—Jesús.
+"Jesús."
 
 Mi mamá no dijo nada más. No me ofreció el brazo, no me preguntó si estaba bien, no sugirió que pidiéramos una de esas sillas del aeropuerto. Sofía Hernández no hace esas cosas. Se limitó a caminar un poco más despacio, y ese es su modo de cuidarme.
 
-—Voy bien —le contesté.
+"Voy bien", le contesté.
 
 Era mentira a medias. Iba bien en el sentido en que iba a llegar. Iba mal en el sentido en que, a los cuarenta minutos, ya sabía exactamente cuánto me quedaba. Una hora con diecisiete minutos. Después de eso iba a necesitar la silla el resto del día.
 
@@ -36,11 +36,11 @@ Hoy era un día bueno. Iba a aprovecharlo.
 
 Pasamos migración. El oficial era un tipo joven con la cara de quien lleva nueve horas haciendo lo mismo. Me preguntó el motivo del viaje en un japonés rapidísimo.
 
-—Residencia —dije—. Mi madre trabaja aquí.
+"Residencia «dije». Mi madre trabaja aquí."
 
 Lo dije bien, pero lo dije raro. Mi japonés es el de mi papá, no el de la calle. Es un japonés de casa, de sobremesa, con los verbos enteros y ninguna contracción. El oficial me miró un segundo de más y selló el pasaporte.
 
-—Bienvenido —dijo, y ya.
+"Bienvenido", dijo, y ya.
 
 Mi papá se llamaba Kenjiro Fujioka. Murió cuando yo tenía trece años, y me dejó el apellido, un japonés de diccionario y una camiseta de las Chivas que me queda grande.
 
@@ -48,25 +48,25 @@ No me quejo. Hay quien hereda menos.
 
 Del aeropuerto salimos directo a la zona de equipaje. Yo iba contando los metros como quien cuenta puntadas, y en el momento en que vi la cinta girando sola, vacía, todavía sin maletas, supe que iba a tener que esperar de pie otros doce minutos.
 
-—Siéntate donde puedas —dijo mi mamá.
+"Siéntate donde puedas", dijo mi mamá.
 
-—No hay dónde.
+"No hay dónde."
 
-—En el suelo.
+"En el suelo."
 
-—Mamá.
+"Mamá."
 
-—En el suelo no se te acaba nada, Jesús.
+"En el suelo no se te acaba nada, Jesús."
 
 Tenía razón. Me senté en el suelo, con la espalda contra una columna, y desde ahí vi llegar la primera maleta. Después la segunda. Después, envuelta en plástico de burbujas y con una etiqueta de objeto frágil, la silla.
 
 No es una silla médica. Nunca lo fue. El asiento lo tapicé yo, en Guadalajara, con una lona azul marino que sobró de un pedido de la marca, y las cintas de los reposabrazos son del mismo rojo que usa Nippon Maya en las etiquetas. Mi mamá se rio cuando la vio terminada.
 
-—Le pusiste la marca —dijo.
+"Le pusiste la marca", dijo.
 
-—Le puse un color.
+"Le puse un color."
 
-—Lo mismo, pero con hilo.
+"Lo mismo, pero con hilo."
 
 Veinte minutos después iba sentado en ella, rodando por un pasillo que olía a café de máquina y a piso recién trapeado. Sentarse fue como quitarse un abrigo en pleno mayo en Guadalajara. Ese alivio no se lo puedo explicar a nadie que no cuente sus horas.
 
@@ -74,21 +74,21 @@ Antes de llegar a la salida pasó lo de siempre.
 
 Una empleada de la aerolínea, joven, con el chaleco puesto y la mejor de las intenciones, se nos acercó empujando una silla de aeropuerto.
 
-—¿Necesita ayuda? —me preguntó, y después, sin esperar respuesta, le habló a mi mamá—. ¿Su hijo necesita ayuda?
+"¿Necesita ayuda? «me preguntó, y después, sin esperar respuesta, le habló a mi mamá». ¿Su hijo necesita ayuda?"
 
-—Gracias, no —dije.
+"Gracias, no", dije.
 
-—Es que hasta la salida hay como ochocientos metros...
+"Es que hasta la salida hay como ochocientos metros..."
 
-—Ochocientos dieciséis.
+"Ochocientos dieciséis."
 
-—¿Cómo?
+"¿Cómo?"
 
-—Que son ochocientos dieciséis metros. Ya los conté. Gracias.
+"Que son ochocientos dieciséis metros. Ya los conté. Gracias."
 
 Se quedó parada sin saber muy bien qué hacer con la información, y volvió a mirar a mi mamá, como si a mí se me hubiera roto el español durante el vuelo.
 
-—Ya va en su silla —dijo Sofía, en un tono que no admitía réplica—. La trajimos con nosotros.
+"Ya va en su silla «dijo Sofía, en un tono que no admitía réplica». La trajimos con nosotros."
 
 Y eso fue todo. La chica se fue empujando su silla vacía, y yo respiré hondo para no sonar grosero, porque no era grosera, y porque la neta es que uno se acaba acostumbrando.
 
@@ -102,11 +102,11 @@ Las reglas no las inventé yo. Me las dieron en un hospital de Guadalajara, en u
 
 La doctora era una señora bajita, de unos cincuenta años, con las uñas pintadas de verde. No me acuerdo de su nombre, y me da vergüenza no acordarme. Me habló así:
 
-—Vas a caminar. Eso ya lo sabemos. Lo que no sabemos es cuánto, así que vas a tener que aprender a contarlo.
+"Vas a caminar. Eso ya lo sabemos. Lo que no sabemos es cuánto, así que vas a tener que aprender a contarlo."
 
-—¿Contar qué?
+"¿Contar qué?"
 
-—El tiempo de pie. Como si fuera dinero. Te despiertas con una cantidad y la gastas durante el día. Cuando se te acaba, se te acabó.
+"El tiempo de pie. Como si fuera dinero. Te despiertas con una cantidad y la gastas durante el día. Cuando se te acaba, se te acabó."
 
 Me dio una libreta. La perdí a los dos meses y la reemplacé con el reloj.
 
@@ -128,7 +128,7 @@ Nos subimos a un taxi. O más bien, nos subimos a un taxi enorme, silencioso, co
 
 Eso se lo agradecí sin decírselo.
 
-—¿A dónde? —preguntó.
+"¿A dónde?", preguntó.
 
 Mi mamá le dio la dirección en un japonés perfecto, rápido, sin un solo acento. El japonés de Sofía Hernández es el japonés de quien ha negociado con proveedores en Aoyama durante quince años. Yo soy el que suena a extranjero en el país de su papá.
 
@@ -144,21 +144,21 @@ El día que nos fuimos hubo once personas en la casa. Once. Mi tía lloró desde
 
 Nadie me dijo pobrecito. Eso se lo voy a agradecer siempre a mi gente.
 
-—¿En qué piensas? —preguntó mi mamá.
+"¿En qué piensas?", preguntó mi mamá.
 
-—En que aquí hace frío.
+"En que aquí hace frío."
 
-—Estás en marzo, y es Japón. Obvio.
+"Estás en marzo, y es Japón. Obvio."
 
-—En Guadalajara a esta hora debe andar por los veintiocho grados.
+"En Guadalajara a esta hora debe andar por los veintiocho grados."
 
-—Y con la humedad que ya extrañas, seguro.
+"Y con la humedad que ya extrañas, seguro."
 
 Sonrió sin verme, mirando su teléfono. En la pantalla iba pasando un hilo de mensajes en japonés que yo solo alcanzaba a entender a medias. Ella ni siquiera se daba cuenta de que yo estaba tratando de leerlos.
 
-—¿Todo bien con la marca? —pregunté.
+"¿Todo bien con la marca?", pregunté.
 
-—Todo bien. Nada que no se arregle con una llamada.
+"Todo bien. Nada que no se arregle con una llamada."
 
 Nippon Maya. Su marca. Nació en un departamento prestado en la Colonia Americana, con dos máquinas y una deuda que mi papá pagó sin decirle nada, y quince años después tenía nombre en tres idiomas y clientes que pedían cita con seis meses de anticipación.
 
@@ -168,15 +168,15 @@ Un día te vas a hacer cargo.
 
 Esa frase la he oído desde que tengo memoria, y nunca he sabido si es una promesa o una condena.
 
-—¿Y la escuela? —preguntó.
+"¿Y la escuela?", preguntó.
 
-—¿Qué tiene?
+"¿Qué tiene?"
 
-—Que empiezas en dos semanas.
+"Que empiezas en dos semanas."
 
-—Lo sé.
+"Lo sé."
 
-—¿Y estás nervioso?
+"¿Y estás nervioso?"
 
 Lo pensé un segundo. No, no estaba nervioso. A mí la gente se me da. Siempre se me ha dado. En mi escuela de Guadalajara era el que organizaba las juntadas, el que sabía quién andaba peleado con quién, el que conseguía permiso para usar la cancha. Caer bien es un oficio, y yo lo practiqué desde chico.
 
@@ -186,41 +186,41 @@ Así que sí: el más grande del salón, otra vez. En los dos sentidos.
 
 Pero también es cierto que nunca he entrado a un salón nuevo, en un país que no es el mío, con la silla por delante.
 
-—Un poco —dije.
+"Un poco", dije.
 
-—Mientes bien —dijo mi mamá—. Casi tan bien como yo.
+"Mientes bien «dijo mi mamá». Casi tan bien como yo."
 
 Me quedé viendo el paisaje un rato, y ya estábamos entrando a una zona de edificios más juntos cuando volví a hablar.
 
-—¿Por qué nos venimos, mamá?
+"¿Por qué nos venimos, mamá?"
 
 Lo solté sin pensarlo. No porque fuera una pregunta grosera, sino porque era una pregunta de niño, y yo ya no tengo edad para ésas.
 
 Ella guardó el teléfono.
 
-—Porque la marca ya no cabe en Guadalajara —dijo.
+"Porque la marca ya no cabe en Guadalajara", dijo.
 
-—¿Nada más?
+"¿Nada más?"
 
-—Porque aquí están los proveedores, y los talleres, y la gente que sabe coser como yo necesito que se cosa.
+"Porque aquí están los proveedores, y los talleres, y la gente que sabe coser como yo necesito que se cosa."
 
 Asentí. Era cierto y lo sabía. Pero había algo más, y estoy seguro de que lo vi en su cara, como se ve una puntada mal dada: un hilo jalando por debajo de la tela.
 
-—Y porque aquí hay mejores especialistas —añadió, mirando hacia adelante—. Para tu cadera. Los mejores.
+"Y porque aquí hay mejores especialistas «añadió, mirando hacia adelante». Para tu cadera. Los mejores."
 
 Ahí estaba. El hilo.
 
 Yo lo dejé pasar. No porque no lo hubiera escuchado, sino porque una cosa es ver una puntada y otra muy distinta es jalarla.
 
-—Ah —dije nada más.
+"Ah", dije nada más.
 
-—Ah —repitió ella.
+"Ah", repitió ella.
 
 Y volvió a su teléfono.
 
 El taxi se detuvo frente a un edificio de seis pisos, estrecho, con la entrada cubierta y un buzón metálico que parecía de otro siglo. Barrio residencial. Silencio. Un gato negro en una barda.
 
-—Llegamos —dijo ella.
+"Llegamos", dijo ella.
 
 Nuestro departamento estaba en el cuarto piso. Sí, hay elevador. Eso fue lo primero que pregunté por correo, antes de aceptar venir, y lo primero que verifiqué al entrar: el elevador mide un metro cuarenta de ancho y la puerta abre completa. Caben la silla y una persona más.
 
@@ -312,9 +312,9 @@ Me quedé viendo la calle un rato más.
 
 Afuera empezaba a oscurecer y Japón se veía gris y ordenado y completamente ajeno, con sus cables y sus semáforos y sus letreros que yo no terminaba de entender. En la pared de mi cuarto, la camiseta de mi papá seguía ahí, derecha, roja, imposible.
 
-—¡Jesús, ven a cenar! —gritó mi mamá desde la sala.
+"¡Jesús, ven a cenar!", gritó mi mamá desde la sala.
 
-—¡Voy! —contesté, sin moverme.
+"¡Voy!", contesté, sin moverme.
 
 Me quedé un minuto más en la ventana. La calle se había quedado vacía, y la risa ya no estaba en ninguna parte.
 
@@ -322,63 +322,63 @@ Cenamos en cajas. Mi mamá puso dos platos sobre una de las de la mudanza, con e
 
 Comimos en silencio un rato. Del tipo de silencio que no incomoda.
 
-—¿Qué viste? —dijo, de pronto.
+"¿Qué viste?", dijo, de pronto.
 
-—¿Cómo?
+"¿Cómo?"
 
-—En la ventana. Te quedaste viendo la calle como media hora.
+"En la ventana. Te quedaste viendo la calle como media hora."
 
-—Fueron dos minutos.
+"Fueron dos minutos."
 
-—Jesús.
+"Jesús."
 
-—Vi a una chica. Iba corriendo.
+"Vi a una chica. Iba corriendo."
 
-—¿Y?
+"¿Y?"
 
-—Y nada. Iba corriendo.
+"Y nada. Iba corriendo."
 
 Mi mamá dejó los palillos en el plato y me miró con esos ojos suyos, que son los mismos con los que revisa una costura cuando sabe que algo está mal pero todavía no dice qué.
 
-—Vas a conocer a mucha gente —dijo.
+"Vas a conocer a mucha gente", dijo.
 
-—Lo sé.
+"Lo sé."
 
-—Y vas a estar bien.
+"Y vas a estar bien."
 
-—Eso no lo sabes.
+"Eso no lo sabes."
 
-—Lo sé mejor que tú.
+"Lo sé mejor que tú."
 
 No le contesté. Tenía razón y no me gustaba que la tuviera.
 
-—¿Cuánto te queda? —preguntó después.
+"¿Cuánto te queda?", preguntó después.
 
 Miré el reloj. Lo traigo puesto desde que salí del hospital, y lo único que hago con él es ponerle un temporizador.
 
-—Nada. Se me acabó hace como dos horas.
+"Nada. Se me acabó hace como dos horas."
 
-—Te pasaste.
+"Te pasaste."
 
-—Me pasé como cuarenta minutos.
+"Me pasé como cuarenta minutos."
 
-—Mañana vas a estar castigado.
+"Mañana vas a estar castigado."
 
-—Mañana no me voy a levantar.
+"Mañana no me voy a levantar."
 
 Ella se rio, y fue una risa corta, de esas que suelta sin querer, y yo me quedé viendo el plato con una especie de calor en el pecho que no supe dónde poner. Mi mamá no es de abrazos. Mi mamá es de esto: de acordarse de tus propias reglas mejor que tú, y de no hacerte un escándalo con ellas.
 
-—El taller nuevo tiene un lugar para ti —dijo, ya casi para terminar.
+"El taller nuevo tiene un lugar para ti", dijo, ya casi para terminar.
 
 Lo dijo sin mirarme, recogiendo los platos.
 
-—¿Cuándo lo vemos?
+"¿Cuándo lo vemos?"
 
-—Cuando quieras.
+"Cuando quieras."
 
-—Mañana.
+"Mañana."
 
-—Mañana, entonces.
+"Mañana, entonces."
 
 Rodé hasta la puerta de mi cuarto. Antes de entrar volteé a ver la camiseta una vez más, derecha en su clavo, roja, imposible, y apagué la luz.
 

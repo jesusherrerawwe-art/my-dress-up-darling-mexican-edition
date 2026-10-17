@@ -4,23 +4,23 @@ El lunes, a la hora de la salida, Nowa me esperó junto a la puerta del salón c
 
 No la dijo. No hacía falta: la traía puesta desde el viernes.
 
-—Hoy —dijo.
+"Hoy", dijo.
 
-—Hoy.
+"Hoy."
 
 Era la tercera vez que le decía «mañana» y la tercera vez que llegaba el día sin que yo hubiera abierto la boca. El viernes en la banqueta mojada le dije que el sábado. El sábado no la vi. El domingo tampoco. Y el lunes, en la escuela, Marin se pasó las seis horas con la cabeza agachada sobre su celular, y Nowa se pasó las seis horas mirándome a mí.
 
-—No me digas «hoy» —dijo—. Dímelo el jueves, cuando lo hayas hecho.
+"No me digas «hoy» «dijo». Dímelo el jueves, cuando lo hayas hecho."
 
-—No sé si voy a poder el jueves.
+"No sé si voy a poder el jueves."
 
-—El evento es el domingo —dijo—. Si se lo dices el jueves, le quedan tres días para decidir si quiere verte la cara. Si se lo dices el sábado, no le queda ninguno. Y si no se lo dices, va a ir sola con dos boletos en la bolsa.
+"El evento es el domingo «dijo». Si se lo dices el jueves, le quedan tres días para decidir si quiere verte la cara. Si se lo dices el sábado, no le queda ninguno. Y si no se lo dices, va a ir sola con dos boletos en la bolsa."
 
 Lo dijo sin levantar la voz. Lo dijo como quien le recuerda a alguien la hora de un tren.
 
-—Nowa.
+"Nowa."
 
-—No me pidas que te entienda —dijo—. Te quiero, y por eso te lo digo: no me pidas que te entienda.
+"No me pidas que te entienda «dijo». Te quiero, y por eso te lo digo: no me pidas que te entienda."
 
 Y se fue para su salón, y yo me quedé con la mochila en las piernas y con el celular en la mano, y con tres mensajes de mi mamá que llevaban ahí desde el sábado por la mañana.
 
@@ -68,7 +68,7 @@ Me vio. Y no dijo llegaste tarde. No dijo te esperé el sábado. No dijo me ment
 
 Dijo:
 
-—Anda, entra. Se está haciendo tarde.
+"Anda, entra. Se está haciendo tarde."
 
 Y se hizo a un lado.
 
@@ -98,9 +98,9 @@ Y lo hizo hace una semana. Y la dejó ahí, armada, con la televisión en el pis
 
 Me quedé en la puerta de la sala, desde el pasillo, sin entrar.
 
-—Es más grande de lo que parece en la foto —dije.
+"Es más grande de lo que parece en la foto", dije.
 
-—Es el largo de la sala —dijo mi mamá, desde la cocina—. No cabía más grande.
+"Es el largo de la sala «dijo mi mamá, desde la cocina». No cabía más grande."
 
 Y siguió moviendo cosas en la estufa.
 
@@ -120,7 +120,7 @@ Y le atinó.
 
 Me quedé con las manos en la orilla de la mesa, con los muslos metidos debajo, sin moverme, y sentí que se me calentaba la cara, y no me pasa seguido, y cuando me pasa es por lo mismo de siempre: porque alguien me hizo un lugar y yo no sabía que me lo estaban haciendo.
 
-—Siéntate —dijo mi mamá desde la cocina.
+"Siéntate", dijo mi mamá desde la cocina.
 
 Y me senté.
 
@@ -205,13 +205,13 @@ No dijo nada. Mi mamá no dice nada cuando ve algo: mi mamá espera. Y es la cos
 
 Y a mí se me acabó la oportunidad en como cuatro segundos, porque yo no iba a decir nada.
 
-—Ese hilo no es mío —dijo.
+"Ese hilo no es mío", dijo.
 
-—No.
+"No."
 
-—¿De qué es?
+"¿De qué es?"
 
-—De un disfraz.
+"De un disfraz."
 
 Se acercó. Puso la taza en la mesa, lejos de la tela, que es otra cosa que hace siempre: nunca pone una taza cerca de una tela, ni aunque la tela esté doblada y la taza tenga plato. Yo lo hago también. Lo hago desde antes de saber por qué lo hacía.
 
@@ -219,23 +219,23 @@ Y se quedó viendo la falda extendida.
 
 Y no la tocó. Eso también es mi mamá: no toca la tela de otro sin permiso. Ni la de su hijo.
 
-—¿Quién cortó esto? —dijo.
+"¿Quién cortó esto?", dijo.
 
-—Yo.
+"Yo."
 
-—¿Dónde?
+"¿Dónde?"
 
-—En mi cuarto.
+"En mi cuarto."
 
-—¿En la mesa?
+"¿En la mesa?"
 
-—No.
+"No."
 
 Se quedó callada un momento.
 
-—¿En el piso?
+"¿En el piso?"
 
-—En la cama.
+"En la cama."
 
 Y ahí sí se quedó callada de verdad.
 
@@ -243,79 +243,79 @@ Porque mi mamá puede oír que cortaste una falda en el piso y pensar que es rar
 
 Y todo eso le pasó por la cara en el orden correcto, y ella no dijo ni una palabra de eso. Dijo otra cosa:
 
-—¿Para quién es?
+"¿Para quién es?"
 
-—Para una compañera del salón.
+"Para una compañera del salón."
 
-—¿Te paga?
+"¿Te paga?"
 
-—No.
+"No."
 
 Y eso sí la paró en seco, porque mi mamá es la dueña de una marca y porque en su mundo la gente cobra. Se quedó con la taza en la mano, a medio camino de la boca.
 
-—¿No te paga.
+"¿No te paga."
 
-—No.
+"No."
 
-—¿Y la tela quién la pagó?
+"¿Y la tela quién la pagó?"
 
-—Yo.
+"Yo."
 
-—¿Con qué dinero.
+"¿Con qué dinero."
 
-—Con el de la escuela.
+"Con el de la escuela."
 
 Y entonces sí me vio. Me vio completo, como me veía cuando yo tenía doce años y le decía que ya había hecho la tarea, y es la misma mirada, y tiene la misma edad, y yo sigo cayendo en ella de la misma manera.
 
-—Hesús.
+"Hesús."
 
-—Mamá.
+"Mamá."
 
-—Mentiste con la tarea.
+"Mentiste con la tarea."
 
-—Sí.
+"Sí."
 
-—Dos veces.
+"Dos veces."
 
-—Sí.
+"Sí."
 
-—¿Y el lunes por qué no me contestaste.
+"¿Y el lunes por qué no me contestaste."
 
 No dije nada.
 
-—Te caíste —dijo.
+"Te caíste", dijo.
 
 Y lo dijo sin pregunta. Lo dijo como se dice una cosa que ya se sabe.
 
-—¿Cómo sabes?
+"¿Cómo sabes?"
 
-—Porque te llamé y no contestaste. Y porque cuando no contestas es que te caíste. Y porque llevo dieciséis meses sabiendo que cuando no contestas es que te caíste.
+"Porque te llamé y no contestaste. Y porque cuando no contestas es que te caíste. Y porque llevo dieciséis meses sabiendo que cuando no contestas es que te caíste."
 
 Y me quedé sin nada. Me quedé sin la respuesta armada, sin la explicación, sin el orden en que yo quería dar las cosas. Me quedé sentado en su mesa, en su sala, con su taza en su mantel individual, y con dieciséis meses de mi mamá sabiendo todo y sin decirme nada para no espantarme.
 
-—No fue nada —dije.
+"No fue nada", dije.
 
-—No te pregunté si fue nada.
+"No te pregunté si fue nada."
 
 Silencio. Se tomó el café. Yo me quedé viendo la gabardina.
 
-—¿Vas a ir? —dijo.
+"¿Vas a ir?", dijo.
 
 Y ahí sí me agarró dormido, porque eso yo no se lo había dicho a nadie más que a Nowa, y porque no se lo iba a decir a ella nunca.
 
-—¿A dónde.
+"¿A dónde."
 
-—Al evento.
+"Al evento."
 
-—¿Cómo sabes lo del evento?
+"¿Cómo sabes lo del evento?"
 
-—Porque te conozco —dijo—. Porque te pasaste una semana contando días. Porque me hablaste a las tres de la mañana para decirme que te habías caído, y a un muchacho que se cae a las tres de la mañana no se le pregunta nada, se le dice que se duerma. Y porque te estoy viendo un carrete de hilo morado en una sala que yo vacié para ti.
+"Porque te conozco «dijo». Porque te pasaste una semana contando días. Porque me hablaste a las tres de la mañana para decirme que te habías caído, y a un muchacho que se cae a las tres de la mañana no se le pregunta nada, se le dice que se duerma. Y porque te estoy viendo un carrete de hilo morado en una sala que yo vacié para ti."
 
 Y se quedó viendo el carrete.
 
 Y luego dijo, y no lo dijo feo, y no lo dijo con lástima, y por eso me dolió:
 
-—¿Por qué no me lo dijiste?
+"¿Por qué no me lo dijiste?"
 
 Y yo no supe. Y me quedé callado. Y la respuesta era larga y yo la tenía toda enredada, igual que el viernes en la banqueta, y mientras yo no sabía por dónde empezar, ella se iba a quedar esperando.
 
@@ -353,69 +353,69 @@ Y el celular se apagó solo a los cinco segundos, y la sala se quedó oscura.
 
 Y mi mamá dijo:
 
-—Contéstale.
+"Contéstale."
 
 Me quedé viendo la pantalla negra.
 
-—No puedo.
+"No puedo."
 
-—¿Por qué no puedes.
+"¿Por qué no puedes."
 
-—Porque si le contesto esto, le tengo que decir lo otro.
+"Porque si le contesto esto, le tengo que decir lo otro."
 
-—¿Lo otro.
+"¿Lo otro."
 
-—Que no iba a ir al evento. Que sí voy. Que me caí. Que llevo cinco noches cosiendo esto en mi cama en lugar de coserlo aquí. Que el viernes me vio con Nowa.
+"Que no iba a ir al evento. Que sí voy. Que me caí. Que llevo cinco noches cosiendo esto en mi cama en lugar de coserlo aquí. Que el viernes me vio con Nowa."
 
 Y mi mamá se quedó callada. Y luego se sentó. Se sentó en la silla que estaba al final de la mesa, la que ella deja ahí para cuando yo necesito que alguien se siente enfrente, y cruzó las manos sobre el lino, y me vio con la cara de mi mamá.
 
-—¿Te vio con Nowa.
+"¿Te vio con Nowa."
 
-—Sí.
+"Sí."
 
-—¿Y qué vio.
+"¿Y qué vio."
 
-—No sé qué vio. Vio lo que se ve.
+"No sé qué vio. Vio lo que se ve."
 
 Mi mamá asintió. Una vez, despacio.
 
-—¿Y tú qué sientes por esa muchacha?
+"¿Y tú qué sientes por esa muchacha?"
 
 Y ahí estaba. Ahí estaba la pregunta, y la había hecho mi mamá, y no había manera de esquivarla, porque a mi mamá no se le esquiva nada y porque yo llevaba cinco días buscando a alguien que me la hiciera en voz alta.
 
-—No sé —dije.
+"No sé", dije.
 
-—Sí sabes.
+"Sí sabes."
 
-—Sí sé.
+"Sí sé."
 
-—¿Y qué vas a hacer?
+"¿Y qué vas a hacer?"
 
-—No sé.
+"No sé."
 
-—¿Vas a ir al evento?
+"¿Vas a ir al evento?"
 
 Y me quedé callado, y la respuesta era la de siempre: la cuenta dice que no, y yo digo que sí, y el sí es peor.
 
-—No sé —dije.
+"No sé", dije.
 
 Mi mamá se quedó viendo sus propias manos sobre el lino.
 
 Y luego dijo una cosa que yo no esperaba.
 
-—Tu papá no me dijo nada durante siete meses.
+"Tu papá no me dijo nada durante siete meses."
 
 Levanté la cara.
 
-—Siete meses —dijo—. Me hablaba de la escuela, del equipo, del clima, y de lo que se le ofreciera. Y yo me di cuenta de que me estaba midiendo la silla de la camioneta, y le pregunté que para qué, y me dijo que para nada. Y a los siete meses me dijo que se le había hecho tarde y que ya no iba a alcanzar.
+"Siete meses «dijo». Me hablaba de la escuela, del equipo, del clima, y de lo que se le ofreciera. Y yo me di cuenta de que me estaba midiendo la silla de la camioneta, y le pregunté que para qué, y me dijo que para nada. Y a los siete meses me dijo que se le había hecho tarde y que ya no iba a alcanzar."
 
 Se quedó callada.
 
-—No te lo cuento para que te asustes —dijo—. Te lo cuento para que sepas que hay dos maneras de quedarse callado. Una es la de él, que se calló porque creía que decirlo me lo iba a poner a mí en los hombros. Y otra es la tuya, que te callas porque no quieres que nadie te vea caerte. Y son la misma tontería, nada más que de distinto color.
+"No te lo cuento para que te asustes «dijo». Te lo cuento para que sepas que hay dos maneras de quedarse callado. Una es la de él, que se calló porque creía que decirlo me lo iba a poner a mí en los hombros. Y otra es la tuya, que te callas porque no quieres que nadie te vea caerte. Y son la misma tontería, nada más que de distinto color."
 
 Y se levantó. Y se fue para la cocina. Y desde la cocina dijo, con la voz de quien está pelando una cebolla:
 
-—Contéstale. Aunque le contestes puras tonterías. Contéstale.
+"Contéstale. Aunque le contestes puras tonterías. Contéstale."
 
 Y yo me quedé sentado en su mesa, con el celular apagado boca arriba, y con el hilo morado enhebrado en la máquina, y con el ruedo ya cortado, derecho, por primera vez en cinco noches.
 
@@ -431,11 +431,11 @@ Le pregunté por el cierre.
 
 Se lo pregunté así, sin explicarle nada, como quien suelta una cosa que lleva mucho tiempo guardada:
 
-—Mamá. ¿Dónde le pongo el cierre?
+"Mamá. ¿Dónde le pongo el cierre?"
 
 Y mi mamá no me preguntó qué cierre, ni de qué falda, ni de qué disfraz. Se levantó, se fue a su cuarto y volvió con una caja de latón, de las de galletas, llena de cierres invisibles ordenados por color. La puso en la mesa. La abrió.
 
-—Enséñame dónde se abre en el dibujo —dijo.
+"Enséñame dónde se abre en el dibujo", dijo.
 
 Saqué el celular, pero no abrí la foto de las botas: abrí la imagen de Shizuku, la del póster de su cuarto, la que yo me sabía de memoria. Se la puse enfrente.
 
@@ -443,35 +443,35 @@ Y mi mamá la vio.
 
 La vio como ve ella, que es como se ve una prenda cuando uno sabe que la va a tener que hacer: con la cabeza ladeada, buscando las costuras, no mirando a la muchacha. Le dio la vuelta al celular. Se acercó la imagen a la cara. Y tardó como veinte segundos.
 
-—No tiene cierre —dijo.
+"No tiene cierre", dijo.
 
-—No tiene cierre.
+"No tiene cierre."
 
-—¿Y sabes por qué no tiene cierre?
+"¿Y sabes por qué no tiene cierre?"
 
-—Porque no lo dibujaron.
+"Porque no lo dibujaron."
 
-—No —dijo—. Porque el dibujo no se lo tiene que poner.
+"No «dijo». Porque el dibujo no se lo tiene que poner."
 
 Y se quedó viendo la imagen un momento más, y luego la puso boca abajo sobre el lino, con la pantalla contra la mesa, y me vio a mí.
 
-—El dibujo no tiene cierre porque el dibujo no tiene un cuerpo que tenga que entrar y salir de la falda —dijo—. La muchacha sí. Y la muchacha tiene cadera, y la cadera es más ancha que la cintura, y por la cintura entra la falda pero por la cadera no. Así que le pones el cierre donde el dibujo no lo ve nunca, y lo haces invisible, y te callas.
+"El dibujo no tiene cierre porque el dibujo no tiene un cuerpo que tenga que entrar y salir de la falda «dijo». La muchacha sí. Y la muchacha tiene cadera, y la cadera es más ancha que la cintura, y por la cintura entra la falda pero por la cadera no. Así que le pones el cierre donde el dibujo no lo ve nunca, y lo haces invisible, y te callas."
 
-—¿Y dónde es eso?
+"¿Y dónde es eso?"
 
-—Aquí —dijo, y puso un dedo en el costado izquierdo de la falda, a la altura de la cadera—. Al costado, del lado del corazón, porque es el lado que la gente menos ve y el que más tapa el brazo cuando caminas. Y de arriba abajo, con un cierre invisible, cosido con el prensatelas de un lado, despacio, y planchado después con la plancha de punta y un trapo húmedo encima, porque el cierre invisible se plancha o se ve.
+"Aquí «dijo, y puso un dedo en el costado izquierdo de la falda, a la altura de la cadera». Al costado, del lado del corazón, porque es el lado que la gente menos ve y el que más tapa el brazo cuando caminas. Y de arriba abajo, con un cierre invisible, cosido con el prensatelas de un lado, despacio, y planchado después con la plancha de punta y un trapo húmedo encima, porque el cierre invisible se plancha o se ve."
 
 Se levantó. Fue por la plancha.
 
 Y mientras la plancha se calentaba me dijo una cosa que no se me va a olvidar nunca:
 
-—Y nunca te disculpes por un cierre.
+"Y nunca te disculpes por un cierre."
 
 Me quedé viéndola.
 
-—¿Cómo?
+"¿Cómo?"
 
-—Que nunca te disculpes por un cierre —dijo—. Porque hay gente que te va a ver el cierre y te lo va a señalar, y te va a decir que en el dibujo no está. Y tú vas a saber que está, y vas a saber por qué está, y vas a saber que sin él la muchacha no se mete en la falda. El cierre no es un error. Es lo que hace que la prenda se pueda poner. Y el que te lo señale no sabe coser.
+"Que nunca te disculpes por un cierre «dijo». Porque hay gente que te va a ver el cierre y te lo va a señalar, y te va a decir que en el dibujo no está. Y tú vas a saber que está, y vas a saber por qué está, y vas a saber que sin él la muchacha no se mete en la falda. El cierre no es un error. Es lo que hace que la prenda se pueda poner. Y el que te lo señale no sabe coser."
 
 Se quedó planchando. Yo me quedé con la caja de cierres en la mano.
 
@@ -498,11 +498,11 @@ Sacó dos platos, y los puso sobre el lino, en el extremo que yo no había usado
 
 Y le dije:
 
-—Mamá. Vas a manchar la mesa.
+"Mamá. Vas a manchar la mesa."
 
 Y ella dijo:
 
-—La mesa no se mueve.
+"La mesa no se mueve."
 
 Y se sentó. Y comimos ahí, los dos, en la mesa de corte, con la gabardina negra de Shizuku extendida en el otro extremo, a un metro de mi plato, y con el carrete de hilo morado junto a la sal.
 
@@ -510,17 +510,17 @@ Comimos arroz con frijoles, que es lo que ella cocina cuando no sabe qué decir.
 
 Y cuando terminamos, ella recogió los platos y yo me quedé ahí, y ella se dio cuenta, y me dijo:
 
-—Déjalos. Mañana los lavo.
+"Déjalos. Mañana los lavo."
 
 Y yo dije:
 
-—Gracias por la mesa.
+"Gracias por la mesa."
 
 Y ella se quedó parada con los platos en la mano, en la puerta de la cocina, y me vio.
 
 Y dijo:
 
-—Yo no la hice para que la vieras, Hesús. La hice para que cortaras.
+"Yo no la hice para que la vieras, Hesús. La hice para que cortaras."
 
 Y se metió a la cocina.
 
@@ -532,7 +532,7 @@ Ella me acompañó hasta el elevador, con el mandil puesto, descalza, porque Sof
 
 Y dijo:
 
-—Un día esto es tuyo.
+"Un día esto es tuyo."
 
 Y se lo dice a todo: se lo dice al taller, se lo dice a la marca, se lo dice a la mesa. Lo dice desde que yo tenía diez años, y lo dice en serio, y lo dice sin preguntarme si yo lo quiero, que es la única cosa que mi mamá no me ha preguntado nunca.
 

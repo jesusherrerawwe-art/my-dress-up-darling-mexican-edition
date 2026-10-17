@@ -4,15 +4,15 @@ Nowa me raptó el viernes a las seis de la tarde.
 
 No es un modo de hablar: me raptó. Yo estaba guardando las cosas en el salón, despacio, porque el viernes todavía me dolía la espalda del lunes, y se plantó enfrente con la mochila colgada de un hombro, los aretes grandes y la cara de quien ya decidió algo.
 
-—A las seis —dijo.
+"A las seis", dijo.
 
-—¿A las seis qué?
+"¿A las seis qué?"
 
-—A las seis en la estación. No llegues tarde.
+"A las seis en la estación. No llegues tarde."
 
-—Nowa.
+"Nowa."
 
-—No es una pregunta.
+"No es una pregunta."
 
 Y se fue.
 
@@ -24,13 +24,13 @@ Llegué a las seis y cinco.
 
 Estaba sentada en la banca, viendo el celular, con la chamarra de mezclilla y los tenis de siempre. Y cuando me vio se levantó, y se le notó que se iba a reír de algo, y no se rio.
 
-—Te pusiste la camiseta —dijo.
+"Te pusiste la camiseta", dijo.
 
-—Me la puse.
+"Me la puse."
 
-—Yo te dije que te pusieras ropa normal.
+"Yo te dije que te pusieras ropa normal."
 
-—Es lo que tengo.
+"Es lo que tengo."
 
 Y no era un chiste: era lo que tenía.
 
@@ -72,17 +72,17 @@ Se sentó en el piso.
 
 No lo pensó: se sentó en el piso, con las piernas cruzadas, porque la mesa era baja y porque en el piso se está bien. Y yo me quedé viéndola hacerlo y me acordé de Marin el domingo, sentada en mi tapete, y de lo que me había costado entender que no me lo estaba haciendo por mí.
 
-—¿Qué? —dijo.
+"¿Qué?", dijo.
 
-—Nada.
+"Nada."
 
-—Te quedaste viendo.
+"Te quedaste viendo."
 
-—Me quedé viendo.
+"Me quedé viendo."
 
-—Si quieres me siento en la silla.
+"Si quieres me siento en la silla."
 
-—No te sientes en la silla —dijo—. El piso está bien.
+"No te sientes en la silla «dijo». El piso está bien."
 
 Y se quedó en el piso.
 
@@ -112,15 +112,15 @@ Eso fue el karaoke. Eso y nada más, y por eso funciona: porque no es terapia, e
 
 La segunda canción era rapidísima, de ésas que en Japón se cantan como un trabalenguas, y yo la pronuncié como se pronuncia un idioma que no es el tuyo: tratando de que sonara bien y sabiendo que no sonaba bien. Nowa se tuvo que sentar en las piernas de la risa.
 
-—Otra vez —dijo.
+"Otra vez", dijo.
 
-—No.
+"No."
 
-—Otra vez.
+"Otra vez."
 
-—Nowa.
+"Nowa."
 
-—Otra vez, Hesús.
+"Otra vez, Hesús."
 
 Me llamo Hesús en este país, porque aquí no existe la jota, y decidí no corregirlo nunca: lo decidí el primer día, en la oficina de la escuela, mientras la maestra Tanabe me lo decía por tercera vez sin que yo le dijera nada. Es mi nombre en la boca de mi papá, que era de Guadalajara, y es mi nombre en la boca de todos ellos, y es mi nombre.
 
@@ -162,21 +162,21 @@ Y empezó.
 
 Los primeros compases salieron por las bocinas de esa cabina del quinto piso de un edificio de la salida este de Omiya, con el volumen altísimo, y Nowa se quedó viendo la pantalla y luego se quedó viéndome a mí.
 
-—¿Qué es? —dijo.
+"¿Qué es?", dijo.
 
-—Es una canción.
+"Es una canción."
 
-—Ya sé que es una canción. ¿De qué habla?
+"Ya sé que es una canción. ¿De qué habla?"
 
 Y yo le dije, y mientras se lo decía me di cuenta de que no se lo podía decir en japonés, porque hay cosas que no se pueden decir en un idioma que aprendiste de tu papá en una sala:
 
-—Habla de un tipo que no tiene nada. Y que dice que es el rey.
+"Habla de un tipo que no tiene nada. Y que dice que es el rey."
 
 Se quedó viendo la pantalla.
 
-—¿Y lo dice en serio?
+"¿Y lo dice en serio?"
 
-—No —dije—. No lo dice en serio.
+"No «dije». No lo dice en serio."
 
 Y empecé a cantar.
 
@@ -190,11 +190,11 @@ Y Nowa no se rio.
 
 Cuando terminé, se quedó callada un momento, y luego dijo:
 
-—No entendí nada.
+"No entendí nada."
 
-—Nada.
+"Nada."
 
-—Pero sonó a que sí entendí.
+"Pero sonó a que sí entendí."
 
 Se rio, y se echó el refresco, y puso otra canción, y la noche siguió. Y no me preguntó de qué hablaba la parte de la piedra, y yo se lo agradecí, y ese agradecimiento fue la primera cosa que sentí por ella que no era gratitud.
 
@@ -208,11 +208,11 @@ Y con el ruido apagado volvió todo: la cuenta, los once años, el piso de mi cu
 
 Caminamos media cuadra así. Y yo iba pensando en que se me iba a acabar la calle, porque la estación estaba a tres cuadras y después de la estación cada quien agarraba su tren, y ya no iba a tener a nadie enfrente, y se me iba a quedar todo adentro otra vez. Y esa noche no me lo iba a aguantar.
 
-—Oye —dijo.
+"Oye", dijo.
 
-—Dime.
+"Dime."
 
-—¿Qué te pasa?
+"¿Qué te pasa?"
 
 Y ahí se me rompió.
 
@@ -244,7 +244,7 @@ Pero esto no.
 
 Y le dije la última cosa, que era la única que no le había dicho a nadie, ni a mi mamá, ni a mí mismo en voz alta:
 
-—Estoy enamorado de ella.
+"Estoy enamorado de ella."
 
 Y lo dije en la calle, en una calle mojada de Omiya, a las nueve y media de la noche, con la camiseta de mi papá puesta.
 
@@ -256,75 +256,75 @@ Y Nowa se paró.
 
 Se paró en seco, ahí, en media banqueta, y se quedó viendo el piso mojado, y yo vi cómo se le ordenaba la cara, y lo que vi no fue sorpresa: fue la cara de alguien que confirma una cosa que ya sabía y que de todos modos le duele, que es la peor cara del mundo y la que yo le había puesto a ella el martes.
 
-—No me lo tenías que decir a mí —dijo.
+"No me lo tenías que decir a mí", dijo.
 
-—Lo sé.
+"Lo sé."
 
-—Me lo tenías que decir a ella.
+"Me lo tenías que decir a ella."
 
-—Lo sé.
+"Lo sé."
 
-—Y no te atrevas a sentirte mal por mí.
+"Y no te atrevas a sentirte mal por mí."
 
-—Nowa.
+"Nowa."
 
-—No te atrevas. Te conozco desde hace tres semanas y ya sé cómo eres: te vas a pasar la noche pensando que me lastimaste, y el lunes me vas a tratar raro, y yo te voy a tener que decir que estoy bien, y nos vamos a pasar un mes con esa cosa en medio. No.
+"No te atrevas. Te conozco desde hace tres semanas y ya sé cómo eres: te vas a pasar la noche pensando que me lastimaste, y el lunes me vas a tratar raro, y yo te voy a tener que decir que estoy bien, y nos vamos a pasar un mes con esa cosa en medio. No."
 
-—No sé qué decir.
+"No sé qué decir."
 
-—No digas nada. Ya dijiste.
+"No digas nada. Ya dijiste."
 
 Se quedó callada un momento, con las manos en los bolsillos de la chamarra, viendo la calle mojada.
 
-—Pero sí me va a doler —dijo.
+"Pero sí me va a doler", dijo.
 
-—Lo sé.
+"Lo sé."
 
-—No lo sabes. Te lo digo para que lo sepas: sí me va a doler. Y no quiero que por eso dejes de hablarme, ni que me trates como si yo fuera de cristal, ni que me compenses.
+"No lo sabes. Te lo digo para que lo sepas: sí me va a doler. Y no quiero que por eso dejes de hablarme, ni que me trates como si yo fuera de cristal, ni que me compenses."
 
-—¿Que te compense?
+"¿Que te compense?"
 
-—Que no me compenses. No me cuentes tus cosas con ella para que yo me sienta mejor. Ésa es la peor.
+"Que no me compenses. No me cuentes tus cosas con ella para que yo me sienta mejor. Ésa es la peor."
 
-—Normal, entonces.
+"Normal, entonces."
 
-—Normal. Prométemelo.
+"Normal. Prométemelo."
 
-—Te lo prometo.
+"Te lo prometo."
 
 Y se rio, y se le quebró la risa, y se le notó, y los dos hicimos como que no se le había quebrado.
 
 Se quedó callada un momento, y después dijo, casi riéndose, con la voz rara:
 
-—Te iba a decir que no me dijeras nada de lo que sientes hasta que hablaras con ella. Iba a decirte eso el martes. Ya es tarde.
+"Te iba a decir que no me dijeras nada de lo que sientes hasta que hablaras con ella. Iba a decirte eso el martes. Ya es tarde."
 
 Y se quedó ahí parada, con las manos en los bolsillos de la chamarra de mezclilla, y luego dijo:
 
-—Ve a decírselo.
+"Ve a decírselo."
 
-—No puedo.
+"No puedo."
 
-—¿Por qué no?
+"¿Por qué no?"
 
 Y fue la primera vez que le contesté una cosa así sin pensarla:
 
-—Porque si se lo digo, ella me va a decir que no importa. Me va a decir que vaya en la silla, o que nos sentemos en el piso, o que se queda conmigo todo el día y no se disfraza. Y va a decir que no importa, y lo va a decir en serio, porque Marin es así. Y yo me lo voy a creer. Y después, en el evento, ella va a estar pendiente de mí cada minuto, y no se lo va a decir a nadie, y se va a reír, y le van a tomar cien fotos, y en las cien va a estar pensando si yo estoy bien. Y no se lo puedo hacer.
+"Porque si se lo digo, ella me va a decir que no importa. Me va a decir que vaya en la silla, o que nos sentemos en el piso, o que se queda conmigo todo el día y no se disfraza. Y va a decir que no importa, y lo va a decir en serio, porque Marin es así. Y yo me lo voy a creer. Y después, en el evento, ella va a estar pendiente de mí cada minuto, y no se lo va a decir a nadie, y se va a reír, y le van a tomar cien fotos, y en las cien va a estar pensando si yo estoy bien. Y no se lo puedo hacer."
 
 Nowa me vio.
 
 Y entonces dijo la cosa que yo no esperaba, la cosa que nadie me había dicho nunca, y que era la cosa que Marin nunca le habría contado a nadie:
 
-—Marin deja la televisión prendida para dormir.
+"Marin deja la televisión prendida para dormir."
 
 Me quedé viendo.
 
-—¿Qué?
+"¿Qué?"
 
-—La deja prendida. La sala. Toda la noche. Dice que es porque se queda dormida viéndola, pero no es por eso. Es que la tele hace un ruido chiquito y la casa deja de estar sola.
+"La deja prendida. La sala. Toda la noche. Dice que es porque se queda dormida viéndola, pero no es por eso. Es que la tele hace un ruido chiquito y la casa deja de estar sola."
 
 Y lo dijo así, sin darle importancia, mirando la calle mojada.
 
-—Y no se lo cuentes —dijo.
+"Y no se lo cuentes", dijo.
 
 Y yo me quedé ahí, en la banqueta de Omiya, y entendí dos cosas al mismo tiempo.
 
@@ -338,25 +338,25 @@ A ella se le escapó lo que sentía, y a mí se me escapó darme cuenta, y ningu
 
 Y se quedó viendo la calle mojada un momento, y dijo:
 
-—Oye.
+"Oye."
 
-—Dime.
+"Dime."
 
-—La canción. La de tu papá.
+"La canción. La de tu papá."
 
-—¿Qué?
+"¿Qué?"
 
-—No me acuerdo cómo sonaba. Pero me acuerdo de tu cara.
+"No me acuerdo cómo sonaba. Pero me acuerdo de tu cara."
 
 Se quedó callada un segundo.
 
-—No cantabas como si fuera mentira.
+"No cantabas como si fuera mentira."
 
 Y no supe qué contestarle, porque la canción sí era mentira: era la canción de un tipo que no tiene nada y que dice que es el rey, y yo la había cantado sentado, con la camiseta de un muerto puesta, en el quinto piso de un edificio de la salida este de Omiya. Y la había cantado sin una pizca de mentira en la voz. Y ésa es la única vez en mi vida que he cantado una mentira y ha sonado a verdad.
 
-—Gracias —dije.
+"Gracias", dije.
 
-—Por nada.
+"Por nada."
 
 Y echamos a andar otra vez.
 
@@ -380,17 +380,17 @@ Y era con Nowa.
 
 Y no había una sola cosa de esa escena que no pareciera exactamente lo que parecía.
 
-—Hola —dijo.
+"Hola", dijo.
 
 Y esa fue la peor parte, porque no lo dijo raro. Lo dijo con la voz de siempre, la de la chica que corre por la banqueta de enfrente riéndose, la de la que amarra un trapo a una escoba con una liga del cabello. Lo dijo como si hubiera llegado tarde a una cosa que le tocaba ver.
 
 Nowa dio un paso para atrás, sin querer, y ese paso fue lo que me mató, porque fue el paso que da alguien que sabe que la otra persona está viendo algo malo.
 
-—Hola —dijo Nowa.
+"Hola", dijo Nowa.
 
 Y Marin se quedó viendo la camiseta un segundo más, y luego me vio la cara, y luego dijo:
 
-—Te queda bien.
+"Te queda bien."
 
 Y se fue.
 
@@ -410,15 +410,15 @@ Y entonces Nowa se agachó, recogió una cosa del piso y me la puso en las piern
 
 Era la bolsa del mandado de Marin. Se le había quedado en la banqueta cuando se dio la vuelta. Se le cayó, o la dejó, y yo nunca supe cuál de las dos cosas, y todavía me lo pregunto.
 
-—Toma —dijo Nowa.
+"Toma", dijo Nowa.
 
 Y me quedé ahí, en media banqueta de Omiya, con la bolsa del mandado de Marin en las piernas y la mejor amiga de Marin parada enfrente, viéndome sin decir nada.
 
-—Anda —dijo.
+"Anda", dijo.
 
-—No la voy a alcanzar.
+"No la voy a alcanzar."
 
-—No. Pero anda.
+"No. Pero anda."
 
 Y me estaba dando la única excusa que yo tenía para hablarle, y lo sabía, y lo hizo a propósito. Y ésa es Nowa: la que empuja hacia la persona correcta aunque le cueste a ella.
 
@@ -428,7 +428,7 @@ Nowa me acompañó hasta el tren.
 
 No me dijo nada en todo el camino, ni una cosa, y cuando llegamos al andén se quedó parada enfrente de mí, con las manos en los bolsillos, y me dijo:
 
-—Mañana se lo dices.
+"Mañana se lo dices."
 
 Y yo dije que sí.
 

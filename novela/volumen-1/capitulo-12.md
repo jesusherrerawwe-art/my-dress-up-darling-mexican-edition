@@ -110,7 +110,7 @@ Y volvió a tocar. Dos veces, otra vez.
 
 Y luego dijo:
 
-—Hesús.
+"Hesús."
 
 Y lo dijo bajito. Lo dijo pegada a la puerta, con la boca casi en la madera, y lo dijo sin exigir nada, y lo dijo como quien le habla a alguien que está dormido.
 
@@ -130,11 +130,11 @@ Y al ratito la oí hablar. Y habló sola, o me habló a mí, y no supe cuál de 
 
 Y dijo:
 
-—Nomás quiero aprender.
+"Nomás quiero aprender."
 
 Y se quedó callada, y luego dijo:
 
-—No te estoy pidiendo nada más.
+"No te estoy pidiendo nada más."
 
 Y yo me quedé con las dos manos en las ruedas de la silla, empujándome un centímetro para adelante y otro para atrás, sin ir a ninguna parte, oyéndola.
 
@@ -192,11 +192,11 @@ Y volvió, y se secó las manos en el mandil, y se quedó parada enfrente de mí
 
 Y dijo:
 
-—Bueno.
+"Bueno."
 
 Y yo dije:
 
-—Bueno.
+"Bueno."
 
 Y entonces se lo dije todo.
 
@@ -226,49 +226,49 @@ Y se quedó callada mucho rato, que en mi mamá no quiere decir que no sepa qué
 
 Y luego dijo:
 
-—¿Y ella qué dijo?
+"¿Y ella qué dijo?"
 
 Y yo dije:
 
-—Que se lo dijera yo.
+"Que se lo dijera yo."
 
 Y mi mamá asintió, una vez, despacio.
 
 Y dijo:
 
-—Estuvo bien.
+"Estuvo bien."
 
 Y yo levanté la cara.
 
 Y ella dijo:
 
-—Estuvo bien que ella te lo pidiera. Porque si lo dices nada más porque se te ocurre, te lo guardas. Y si lo dices porque ella te lo pide, ya lo dijiste enfrente de alguien y ya no lo puedes negar.
+"Estuvo bien que ella te lo pidiera. Porque si lo dices nada más porque se te ocurre, te lo guardas. Y si lo dices porque ella te lo pide, ya lo dijiste enfrente de alguien y ya no lo puedes negar."
 
 Y se quedó callada otro poco, y le dio la vuelta a una cosa que traía en la cabeza, y la dijo:
 
-—Tu papá no lo dijo nunca. Se lo llevó.
+"Tu papá no lo dijo nunca. Se lo llevó."
 
 Y yo me quedé viendo.
 
 Y ella dijo:
 
-—Los siete meses que te conté. Y luego los que vinieron. Y lo último que me dijo fue que se le había hecho tarde, como si fuera un problema de reloj. Y yo me quedé con la sensación de que me había dejado fuera de la decisión. No de la enfermedad: de la decisión.
+"Los siete meses que te conté. Y luego los que vinieron. Y lo último que me dijo fue que se le había hecho tarde, como si fuera un problema de reloj. Y yo me quedé con la sensación de que me había dejado fuera de la decisión. No de la enfermedad: de la decisión."
 
 Y se quedó viendo sus propias manos en el lino.
 
 Y dijo:
 
-—Tú por lo menos se lo diste a ella. Se lo pusiste enfrente y se lo dejaste decidir.
+"Tú por lo menos se lo diste a ella. Se lo pusiste enfrente y se lo dejaste decidir."
 
 Y yo dije:
 
-—¿Decidir qué?
+"¿Decidir qué?"
 
 Y mi mamá me vio.
 
 Y dijo:
 
-—Si se queda.
+"Si se queda."
 
 ---
 
@@ -300,17 +300,17 @@ Y me la puso enfrente.
 
 Y dijo:
 
-—La clienta viene el jueves.
+"La clienta viene el jueves."
 
 Y se quedó viendo, y luego dijo:
 
-—Es de seda. Perdóname, te mentí. No es lino: es seda color hueso, y es de lo más difícil que hay, porque la seda se mueve sola y porque el bies no perdona.
+"Es de seda. Perdóname, te mentí. No es lino: es seda color hueso, y es de lo más difícil que hay, porque la seda se mueve sola y porque el bies no perdona."
 
 Y me vio.
 
 Y dijo:
 
-—Te la dejo a ti.
+"Te la dejo a ti."
 
 ---
 
@@ -406,43 +406,43 @@ Y se quedó viendo todo eso un buen rato, con las manos en las bolsas de la cham
 
 Y luego dijo:
 
-—Te fuiste a la máquina.
+"Te fuiste a la máquina."
 
 Y yo me quedé callado.
 
 Y ella dijo:
 
-—Se te acabó una cosa y te fuiste a la otra. Y la otra la haces bien, y te sale bien, y te hace sentir bien, y nadie te puede decir nada.
+"Se te acabó una cosa y te fuiste a la otra. Y la otra la haces bien, y te sale bien, y te hace sentir bien, y nadie te puede decir nada."
 
 Y yo dije:
 
-—Estoy trabajando.
+"Estoy trabajando."
 
 Y ella dijo:
 
-—Estás escondido.
+"Estás escondido."
 
 Y se acercó a la mesa, y se quedó viendo las hojas, y alargó la mano y tocó la primera, la de las cinco líneas rectas paralelas separadas un dedo.
 
 Y dijo:
 
-—Le dibujaste las líneas.
+"Le dibujaste las líneas."
 
 Y yo no dije nada.
 
 Y ella dijo:
 
-—Le dibujaste las líneas con regla.
+"Le dibujaste las líneas con regla."
 
 Y se quedó callada, y luego dijo, y lo dijo sin coraje, y por eso me dolió:
 
-—Hesús. Le preparaste la clase. Le pusiste la silla. Le enhebraste la máquina. Y no le abriste.
+"Hesús. Le preparaste la clase. Le pusiste la silla. Le enhebraste la máquina. Y no le abriste."
 
 Y yo me quedé viendo el piso.
 
 Y ella dijo:
 
-—Eso no es no poder. Eso es otra cosa.
+"Eso no es no poder. Eso es otra cosa."
 
 Y se quedó parada enfrente de mí, esperando a que yo dijera algo, y yo no dije nada, y ella se quedó esperando, y al cabo de un rato se sentó en el piso.
 
@@ -450,13 +450,13 @@ Se sentó en mi tapete, cruzando las piernas de un solo movimiento, igual que Ma
 
 Y dijo:
 
-—Bueno. ¿Qué hacemos?
+"Bueno. ¿Qué hacemos?"
 
 Y yo la vi.
 
 Y ella dijo:
 
-—No te estoy preguntando qué sientes. Ya me lo dijiste. Te estoy preguntando qué hacemos.
+"No te estoy preguntando qué sientes. Ya me lo dijiste. Te estoy preguntando qué hacemos."
 
 Y yo me quedé callado.
 
@@ -476,13 +476,13 @@ Y volvió, y se quedó parada enfrente de mí.
 
 Y dijo:
 
-—Ya.
+"Ya."
 
 Y yo me quedé viendo la mesa, sin la silla, sin las hojas, con la máquina enhebrada y la nada.
 
 Y ella dijo:
 
-—Si la vas a enseñar, la enseñas. Y si no, no dejes la mesa puesta, porque eso es peor que no abrirle: es decirle que sí y cerrarle la puerta al mismo tiempo.
+"Si la vas a enseñar, la enseñas. Y si no, no dejes la mesa puesta, porque eso es peor que no abrirle: es decirle que sí y cerrarle la puerta al mismo tiempo."
 
 Y se fue para la puerta.
 
@@ -490,7 +490,7 @@ Y antes de salir se dio la vuelta.
 
 Y dijo:
 
-—El viernes hay karaoke. A las seis. No es una pregunta.
+"El viernes hay karaoke. A las seis. No es una pregunta."
 
 Y se fue.
 
