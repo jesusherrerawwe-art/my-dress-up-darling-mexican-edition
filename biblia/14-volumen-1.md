@@ -424,6 +424,44 @@ Al escribirlo descubrí que la cuenta estaba rota entre capítulos. Reconstruida
 
 ---
 
+## Capítulo 12: «La puerta»
+
+**Estado:** escrito (4 708 palabras). **Primera persona, pasado. Primer capítulo sin BOM**, por decisión del autor.
+
+### Decisiones del autor (CANON — las respondió él antes de escribirlo)
+
+1. **El tramo final es el retiro**: 12 silencio, 13 Nowa, 14 cierra en el silencio. **El volumen termina sin reconciliación.**
+2. **No le abre la puerta.** Le dijo que sí el domingo y el lunes no abre. El silencio empieza ahí.
+3. **Va a la mesa y le dice todo a su mamá.**
+4. **Nowa se queda con él.** No lo consuela: lo arrastra.
+
+### Decisiones tomadas al escribirlo (PROPUESTA hasta que el autor las confirme)
+
+1. **El título es lo que no hace.** «La puerta»: cierra la familia de títulos-objeto del volumen (La silla, La mesa, El piso, La puerta).
+2. **Prepara la clase completa y no abre.** La máquina limpia con el pincel de afeitar de su papá, enhebrada con hilo blanco, la canilla nueva, y tres hojas dibujadas con regla. **Es el método real de enseñanza**: coser en papel sin hilo para aprender el pedal, luego rectas, luego ángulos con la aguja clavada, y al último las curvas. Y es el mismo método con el que su mamá le enseñó a él, a los nueve, en la novena máquina del taller de Aoyama.
+3. **La silla de la ventana.** Una silla del departamento en la que nadie se ha sentado nunca, porque él anda en la suya y porque la gente que va a ese cuarto se sienta en el tapete. **Y él la pone en la mesa para ella.**
+4. **Marin no lo busca.** Y eso es peor: Marin lo ve desde el primer día, y el lunes no lo ve.
+5. **Ella toca, espera dieciocho minutos y se sienta en el piso del pasillo.** Y dice dos cosas pegada a la madera: *«Nomás quiero aprender»* y *«No te estoy pidiendo nada más»*.
+6. **Y el miércoles toca una sola vez y se va a los treinta segundos.** Y él sí llega a la puerta, pone la mano en la manija, la baja hasta la mitad, que es donde está el tope, y no gira. **Y se queda ahí con el hombro ardiendo, que es una cosa que a él se le cansa a los veinte segundos.**
+7. **Su mamá le dice lo que nadie le ha dicho: que no la perdió, que le dio la decisión.** *«Tú por lo menos se lo diste a ella. Se lo pusiste enfrente y se lo dejaste decidir.»* *«¿Decidir qué?»* *«Si se queda.»* **Y eso es peor que perderla: porque si se queda, lo tiene que volver a decidir todos los días.**
+8. **Sofía le pone trabajo.** Una falda de seda color hueso cortada al bies, de Nippon Maya, de la temporada que viene. **Y él huye hacia la máquina con la conciencia tranquilísima, porque está trabajando para la marca de su mamá. Y eso es lo más cobarde que ha hecho en su vida.** (CANON, ficha §5.)
+9. **Las manos se le acuerdan.** Cosiendo la seda, su mano izquierda hace sola el movimiento de sostener una tela contra una cadera. Y le pasa lo que le pasa ahí, en la mesa de su mamá, con ella a un metro. **Y le pasa de puro oficio, de puro músculo, y por eso es lo más sucio que le ha pasado nunca.**
+10. **Nowa ve la mesa puesta.** Y dice la frase: *«Te fuiste a la máquina... Eso no es no poder. Eso es otra cosa.»* Y hace lo que nadie: **recoge las tres hojas, las dobla, se las guarda, y devuelve la silla a la pared.** *«Si la vas a enseñar, la enseñas. Y si no, no dejes la mesa puesta, porque eso es peor que no abrirle: es decirle que sí y cerrarle la puerta al mismo tiempo.»*
+11. **Y lo arrastra otra vez.** El viernes hay karaoke a las seis. No es una pregunta.
+12. **El cierre.** El lunes Marin no manda el mensaje de las siete y cuarenta. Y el miércoles ya no lo está evitando: ya no lo ve. **Y la puerta se abre para adentro, y eso quiere decir que para abrirla hay que darse un poco para atrás.**
+
+### Nota de formato
+
+**El autor pidió que a partir de aquí ya no se use BOM.** Los capítulos uno a once conservan el BOM con el que se publicaron; el doce y los que siguen van en UTF-8 sin BOM.
+
+### Recursos usados
+
+- **Método real de enseñanza de la máquina de coser**: se empieza cosiendo sobre papel dibujado **sin enhebrar la aguja**, para aprender el pedal y la velocidad; luego líneas rectas; luego ángulos, parando con la aguja clavada y girando el papel sin levantarla; y al último las curvas, que es lo difícil porque las dos manos hacen cosas distintas y el pedal no cambia.
+- **Canon del retiro** (`biblia/13 §5`): se refugia en el trabajo de Nippon Maya y huye hacia la máquina *«con la conciencia tranquila: está trabajando para la marca de su madre»*. **Ésa es exactamente la escena de la falda de seda.**
+- **Canon de Nowa** (`biblia/13 §9`): no lo consuela, lo arrastra al karaoke.
+
+---
+
 ## Cómo se trabaja cada capítulo
 
 Por cada capítulo se abre una ficha corta con lo mismo:
